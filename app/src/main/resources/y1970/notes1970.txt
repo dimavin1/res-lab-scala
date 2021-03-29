@@ -1,0 +1,38 @@
+5,237 laboratories,
+representing the efforts of 3,115 organizations.
+
+([A-Z][a-zA-Z&.,'/ -]{3,})(?i)(,\sInc.)?(?i)(,\sIncorporated)?[,.]\s[A-Z]?[0-9 lIO]+(\.\d{1,3})?(\s|([,.] \.[0-9g]{1,4})+\s)
+([A-Z][a-zA-Z&.,'!;()/ -]{3,})(?i)(,\sInc.)?(?i)(,\sIncorporated)?[,.]?\s[A-Z]?[0-9 l]+(\.\d{1,3})?
+Missed:
+Baldor Electric Company, BI0
+Products Research and Chemical Corpo- ration, PI43
+Chida Vista Rohr Corporation. HI06
+Huntington Institute of Applied Med- ical Research, HI36
+I R Associates, Inc., 14
+instruments, Inc., 161
+Thermal Systems, Inc., TO0
+Lummus Industries, L99
+Portland Cement Association, PI20
+Louisville American Air Filter Company, Inc., A131
+Lexington Laboratories, Inc., L57
+Polaroid Corporation, Pi11
+Dow Corning Corporation, Di11
+Rosemount Engineering Company, Ri11
+Land O'Lakes Creameries, Inc., L19
+Labconco Corporation, L2
+Triangle Industries. Inc.. Ti11
+Colgate-Palmolive Company, CI78
+Lever Brothers Company, L53
+Pleasantville Hospital Bureau, Inc., Hi11
+hieffelin and Co., S43
+Laboratory for Analytical Blood Studies, Inc., L6
+Salem Electric Furnace Co., EE1
+Lansdale American Electronic Laboratories, Inc.. A151
+Bituminous Coal Research, Inc., BI08
+Nuclide Corporation, NI08
+Applied Psychological Services, Inc..A269
+
+
+5670 found
+2574 non-parent codes
+3096 parents - nonunique?
