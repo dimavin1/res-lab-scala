@@ -1,6 +1,9 @@
 Remove empty lines:
 grep "\S" 1979.txt > 1979-no-empty-lines.txt
-9,907 R&D facilities belonging
-to 6,323 organizations.
 91: Al DON AADLAND ENGINEERING
 63359: ZURN INDUSTRIES, INC
+
+9,907 R&D facilities belonging to 6,323 organizations.
+
+parents:          5933
+distinct-parents: 5533
