@@ -7,3 +7,8 @@ grep "\S" 1979.txt > 1979-no-empty-lines.txt
 
 parents:          5933
 distinct-parents: 5533
+
+Geographic Index
+63376 Russell Corporation R259
+77563 Special Instruments Laboratory, Inc Spinlab AG S375.1
+14187
