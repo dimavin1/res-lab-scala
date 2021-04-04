@@ -20,7 +20,7 @@ TAI Corporation T5
 Technical Micronics Control T56
 Vester J Thompson, Jr, Inc T164
 Alaga Whitfield Foods, Inc A158
-TROY Hudson Industries, Inc H218
+Hudson Industries, Inc H218
 Tuscaloosa Testing Laboratory, Inc T280
 Alaska Analysts A160
 Alaska Testlab A161
@@ -102,9 +102,9 @@ Avian Consultation and Research Inc A6O3
 Robert E Babcock B2
 Baldor Electric Company B15
 Southwest Engineering S348
-HOPE Klipsch and Associates, Inc KI
+Klipsch and Associates, Inc KI
 Angelo Industries, Inc A389
-LITTLE ROCK American Interplex Corporation A287
+American Interplex Corporation A287
 Bei Electronics, Inc Bl
 Education & Research Associates, Inc E63
 Hodges, Vines, Fox, Allen & Associates H161
@@ -218,7 +218,7 @@ Solar Research Systems S3O7
 Technical & Management Consultants T54
 Data-Design Laboratories D24
 Maury Microwave Corporation Ml39
-CULVER CITY Arnold Magnetics Corp A494
+Arnold Magnetics Corp A494
 Hughes Aircraft Company H222
 Information International, Inc 183
 The Mica Corporation M254
@@ -268,7 +268,7 @@ The Micromanipulator Company M270
 Oal Associates, Inc 041
 Winzler and Kelly Consulting Engineers, Inc W157
 Electra-Physics Laboratories, Inc E80
-FOSTER CITY Etel, Inc E285
+Etel, Inc E285
 Del Green Associates G197
 Kevcx Corporation K14
 Newport Research N96
@@ -285,7 +285,6 @@ National Research & Chemical Co N52
 Rex Precision Products Inc A173.
 Teledyne Sprague Engineering T94.
 Timmerman Corporation T186
-CALIFORNIA 599
 Swedlow, Inc S568
 Vodonick Associates V75
 Adams Rite Industries, Inc A50
@@ -312,10 +311,9 @@ Thermionics Laboratory, Incorporated T146
 Trace Analysis Laboratory Inc T214
 The Separations Group SI58
 Bach Auricon, Inc B3
-F&B Ceco of California Cl
+F&B Ceco Inc C113
 Insgroup, Inc 1105
 Tiller & Associates T180
-HUNTINGTON PARK Kobe, Inc Bl
 Developmental Sciences Inc D135
 Allergan Pharmaceuticals A190
 Chemical Systems Inc C188
@@ -504,7 +502,7 @@ Trio-Tech Testing Laboratory T256
 United Scientific Corp U40
 Viking Laboratories, Inc V58
 Wiltron Company W149
-NATIONAL CITY American Scientific Corp A310
+American Scientific Corp A310
 Electro Design Systems E88
 Special Devices Incorporated S374
 Edaw, Inc E5O.4
@@ -592,7 +590,7 @@ Resdel Industries R103
 Tetra Tech, Inc T128
 Snyder Research Laboratory Inc S276
 X-Ray Products Corp XI1
-PLAYA DEL REY Universal Analytics, Inc U54
+Universal Analytics, Inc U54
 Liquid Crystal Technology, Inc L128
 Nuclepore Corporation N181
 Brogdex Co B313
@@ -601,7 +599,7 @@ Marineland of The Pacific Biological Laboratory M75
 Oak Industries Inc 01
 Merritt Cases, Inc M221
 J H Wiggins Company W128
-REDWOOD CITY Ampex Corporation A334
+Ampex Corporation A334
 Candex Pacific, Inc C4I
 James Dole Corporation D2O8
 Monitek, Inc M375
@@ -620,8 +618,6 @@ B L Winch &. Associates W150
 Beaulieu Vineyard H131
 American Justice Institute A288
 Eutek, Inc E289
-Chemical Process Research Laboratory G86.
-O —	Engineering Controls Laboratory G86.
 Intercontinental Chemical Corp 1150
 International Remote Sensing Institute 1185
 Jones & Stokes Associates, Inc J56
@@ -676,7 +672,6 @@ Sun Harbor Industries S532
 Syncrotech Software Corporation S582
 Systems Exploration, Inc S611
 Systems, Science and Software S6I9
-CALIFORNIA 603
 Validity Corporation V8
 Wavetek, Inc W50
 Westec Services, Inc W92
@@ -724,8 +719,7 @@ Transamerica Corporation T226
 Woodward-Clyde Consultants W173
 Mee Industries, Inc M195
 Ultra-Violet Products, Inc U9
-Sanger Division G162.
-SAN JOSE Anderson Jacobson, Inc A378
+Anderson Jacobson, Inc A378
 Bernard Food Industries Inc B147
 California Canners And Growers Laboratory Cl
 Engineering Consulting Services E197
@@ -802,7 +796,7 @@ Solid State Technology, Inc S314
 Stanford Applied Engineering S436
 Xynetics, Inc XI3
 Zeta Laboratories, Inc Z9
-SANTA CRUZ Kinnetic Laboratories, Inc KI00
+Kinnetic Laboratories, Inc KI00
 Holiingsead-Pryor Enterprise Hl70
 Hy-Cal Engineering H249
 Le Fiell Mfg Co L76
@@ -827,11 +821,11 @@ Technology Service Corporation T77
 Telic Corporation Ti03
 Vanguard Pacific, Inc V17
 Paul S Veneklasen & Associates V36
-SANTA ROSA Heller Laboratories H102
+Heller Laboratories H102
 Hybrinetics, Inc H248
 Optical Coating Laboratory Inc 074
 True Time Instrument Company T267
-SANTA YNEZ Detcom DI27
+Detcom DI27
 Santa Ynez Research Farm, Inc S35
 Chemalloy Electronics Corporation Cl69
 T A Ross Professional Engineer, and Associates R231
@@ -1061,13 +1055,12 @@ Loveland Industries, Inc L17I
 Pathway Research, Inc P72
 Rocky Mountain Instrument Company R209
 Analytical Development Corporation A3
-NUNN Colorado Engineering Experiment Station, Inc C313
+Colorado Engineering Experiment Station, Inc C313
 Centennial Engineering, Inc C121
 Coaiex Energy C283
 Huffman Laboratories Inc H221
 Van Dyke Research Foundation VI6
 Loureiro Engineering Associates LI69
-Emhart Corporation Hardware Division El
 Liberty Industries, Inc L103
 Andersen Laboratories, Inc A37I
 Anderson Laboratories, Inc A379
@@ -1077,8 +1070,6 @@ The Newlands Sanitary Laboratory S338
 J M Ney Co NI02
 The Henry Souther Engineering Co S338
 Harco Laboratories, Inc H34
-ACCO Ai8
-CONNECTICUT 607
 Harvey Hubbell In Wiring Device Division H2i5.
 Remington Products, Inc R95
 TM Systems, Inc T193
@@ -1094,7 +1085,6 @@ The Barden Corporation B36
 Laser Optics, Inc L48
 Neurocommunication Research Laboratories, Inc N81
 Sapolin Paints, Inc S39
-SCM Corporation Smith-Corona Laboratory SI
 Ellis A Tarlton Engineers, Inc T18
 Dunlap and Associates, Inc D247
 Interline Corporation E283
@@ -1201,7 +1191,7 @@ The Marley Organization, Inc M91
 The New England Institute N88
 Rogers Corporation R2I6
 Buxco Electronics, Inc B381
-Emhart Corporation Fastener Group, US Area E15L16 Frigitronics, Inc FI75
+Frigitronics, Inc FI75
 E-B Industries Inc E25
 Beiersdorf, Inc Bill
 Cooke Vacuum Products, Inc C457
@@ -1287,7 +1277,6 @@ Brandywine Research Laboratory, Inc B284
 Chemax Corp C171
 Columbia Gas System Service Ckirporation C322
 Crippen Laboratories C519
-Feedstocks Research and Development Laboratory D252
 E I DuPont De Nemours & Company, Incorporated D252
 ICI Americas Inc 14
 Kaufman Glass Company K28
@@ -1603,8 +1592,7 @@ Epsilon Lambda Electronics Corp E265
 Merrimac Engineering, Inc M219
 Keating of Chicago, Incorporated K37
 Sonoscan, Inc S328
-The Al
-Chem Laboratory, Inc A167
+The Al-Chem Laboratory, Inc A167
 Blue M Electric Co B239
 G&W Electric Specialty Company G236
 Bunker Ramo Corporation B36O
@@ -2025,7 +2013,6 @@ Mast Development Company Ml
 Peco Enterprises, Inc P93
 The American College Testing Program A261
 Titronics Incorporated T189
-Pioneer Hi
 Decker Mfg Co D86
 Manchester Laboratories, Inc M41
 Fermented Products, Inc F43
@@ -2429,7 +2416,7 @@ Business and Technological Systems, Inc B377
 Ben Dyer Associates, Inc D259
 Areal Chemicals Inc A461
 Powercon Corporation P248
-SEVERNA PARK Systech Corporation S593
+Systech Corporation S593
 Akman Associates, Inc A153
 Altek Corporation A222
 American Institute of Crop Ecology A283
@@ -2497,7 +2484,7 @@ National Evaluation Systems, Inc N36
 Spectrametrics, Inc S384
 Telemetry Systems Engineering, Inc T97
 Nyacol Inc N192
-AVON Krohn-Hite Corporation K152
+Krohn-Hite Corporation K152
 Amray Inc A336
 Atmospheric Science Associates A564
 Baird Corporation B9
@@ -2619,7 +2606,7 @@ Cambridge Thermionic Corporation C34
 CCG, Inc C108
 Design Data, Inc DI22
 The Dodge Chemical Company D205
-Control and Research Laboratory D2O5.1 The Charles Stark Draper Laboratory, Inc D227
+The Charles Stark Draper Laboratory, Inc D227
 Eco-Control, Inc E31
 Electronics Corp Of America El
 Energotechnology Corporation El
@@ -2641,7 +2628,8 @@ Orion Research Incorporated 094
 Polaroid Corporation P210
 Precision & Quality Research Systems P275
 Project Software & Development, Inc P332
-Rockford Research Inc R2CX) Scientific Model, Inc SI04
+Rockford Research Inc R2CX) 
+Scientific Model, Inc SI04
 Scientific Systems, Inc Sill
 Simpson Gumpertz & Heger Inc S242
 Simtek S245
@@ -2650,7 +2638,8 @@ SISA Incorporated S250
 Synectics, Inc S584
 Technology & Economics T73
 TMI Systems Coiporation T191
-Tri-Con Associates T25O Urban Systems Research & Engineering U74
+Tri-Con Associates T25O
+Urban Systems Research & Engineering U74
 Wright Brothers Wind Tunnel W180
 Consumer Testing Labs, Inc C423
 Tobe Deutschmann Labs, Inc DI33
@@ -2659,7 +2648,7 @@ Forte Technology Inc FI30
 Instron Corporation 1129
 Vanzetti Infrared & Computer Systems, Inc V22
 Geosystems, Inc GllO Mei Associates, Inc M200
-MASSACHUSETTS (cont) Parke Mathematical Laboratories, Incorporated P53
+Parke Mathematical Laboratories, Incorporated P53
 Radex, Inc R5
 Teaching Devices Inc T31
 H P Hood Inc H182
@@ -2676,7 +2665,8 @@ CHESTNUT HILL Clinique Cytology Screening Service, Inc C276
 Mercury Plastics Corporation M211
 Bird & Son, Inc B212
 Hollingsworth & Vose Company H171
-Avco Medical Products, Inc A6O1.8 Datalogic-Rust Company D28
+Avco Medical Products, Inc A6O1.8 
+Datalogic-Rust Company D28
 Gaulin Corp G29
 Tensitron, Inc T113
 Unex Laboratories, Inc U16
@@ -2695,8 +2685,7 @@ Hansen Engineering & Machinery Co, Inc H30
 A C Lawrence Leather Co L55
 Hersey Products Inc Hl22
 Applied Research Associates, Inc A440
-Sturtevant Mill
-Company S517
+Sturtevant Mill Company S517
 Bug Electronics, Inc B355
 Solectro-Thenno, Inc S311
 Ocean Research Equipment, Inc 021
@@ -2722,7 +2711,6 @@ Key Polymer Corporation K77
 Polysar, Inc/Resins Division-USA P226
 Amicon Corporation A330
 Dames & Moore-Boston DILI Design Automation, Inc D120
-MASSACHUSETTS 627
 Information Resources, Inc 186
 Instrumentation Laboratory, Inc 1130
 Itek Corporation 1230
@@ -2800,9 +2788,9 @@ Roctronics Entertainment Lighting, Inc R211
 Caton Connector Corp C103
 Ocean Spray Cranberries, Iric 022
 Tech-Etch, Inc T39
-MASSACHUSETTS (cont) Centrifuge Technology, Inc C135
+Centrifuge Technology, Inc C135
 Pneumatic Scale Corporation P209
-Raytheon Company Microwave & Power Tube Division R5O.6 Herbert V Shuster Inc S209
+Herbert V Shuster Inc S209
 Chase & Sons, Inc Cl64
 O D Electronics Co, Inc 028
 Systems Architects, Inc S604
@@ -2813,8 +2801,7 @@ Omega Laboratories, Inc 058
 Development Sciences Inc DI39
 Campbell Taylor, Inc C27
 Crystal Systems, Inc C537
-Salem Oil
-Grease Co SIS Sparrell Engineering Research Corp S369
+Salem Oil Grease Co SIS Sparrell Engineering Research Corp S369
 Metal Bellows Co M226
 Worcester Foundation for Experimental Biology W174
 Connecticut Valley Biological Supply Co, Inc C399
@@ -2840,7 +2827,7 @@ Analogic Corp A347
 Computer Genetics Corporation C363
 W J Schafer Associates, Inc S60
 Wakefield Corp W7
-Colgate-Palmolive Company Fibre Products Laboratory C3O9.6 Adams-Russell Co, Inc A51
+Adams-Russell Co, Inc A51
 Adcole Corporation A58
 Blustein Associates B242
 B & M Associates, Inc B243
@@ -2861,7 +2848,6 @@ Magnetic Corporation of America M16
 Mobil Tyco Solar Energy Corporation M355
 Panametrics, Inc P38
 Proteon Associates P341
-Raytheon Company Microwave & Power Tube Division R5O.7 —	Research Division R50.
 RDP, Inc R58
 Skinner &, Sherman, Inc S256
 SofTech, Inc S283
@@ -2889,7 +2875,8 @@ Standard Information Systems S424
 Data General Corporation D25
 MICHIGAN 629
 Massachusetts Materials Research, Inc Ml
-Valtec Corporation VIO — Communications Division VlO.l Electronic Space Systems Corp El
+Valtec Corporation VIO
+Electronic Space Systems Corp El
 Comark Industries, Inc C333
 Thorstensen Laboratory T168
 Bromberg Engineering Co B314
@@ -2897,7 +2884,8 @@ Circuit Engineering C239
 Gulliksen Mfg Co, Inc G229
 Computer Identics Corp C365
 A S Thomas, Inc T157
-West wood Research Laboratory, Inc WHO Electro Switch Corp E127
+West wood Research Laboratory, Inc WHO
+Electro Switch Corp E127
 Hansco Data Processing Inc H29
 Adapt Service Corporation A55
 Avco Corporation Aerodynamics & Flight Dynamics Dept A601.
@@ -2928,7 +2916,7 @@ H H Scott Inc S125
 H M Sonnichsen & Associates S326
 Steinbrecher Corporation S460
 Winfield Brooks Company, Inc W152
-WOODS HOLE Woods Hole Oceanographic Institution WI71
+Woods Hole Oceanographic Institution WI71
 Leon J Barrett Co Barrett Centrifugals, Inc B53
 GKN Powdermet, Inc G137
 Jamesbury Corp J9
@@ -2966,7 +2954,6 @@ Materials Technology Corporation M125
 Shared Applications, Inc SI80
 Superior Engineering Company S547
 Universal Hydro-Test Corporation U60
-Warner-Lambert Company Pharmaceutical Research Division W26.
 Kellogg Company K48
 BAY CITY Calcinator Corporation C5
 Resistance Welder Corporation R123
@@ -2997,7 +2984,8 @@ Fruehauf Corporation Fl82
 Research & Development Division Fl
 General Motors Corporation G7I
 Greening Associates, Inc G199
-McCord Corporation E3O6.5 The Merrill-Palmer Institute M218
+McCord Corporation E3O6.5 
+The Merrill-Palmer Institute M218
 Michigan Cancer Foundation M256
 National Testing & Research Laboratory Inc N63
 Park Chemical Company P52
@@ -3006,7 +2994,8 @@ Inc Pl80
 J M Richards Laboratory Inc R156
 St Clair Rubber Co Sil
 Stan Sax Corp S50
-United Technologies Corporation Automotive Refinish Products U5L15 Wall Colmonoy Corp Wl
+United Technologies Corporation Automotive Refinish Products U5L15 
+Wall Colmonoy Corp Wl
 Merritt Enterprises, Inc M222
 Symtec, Inc S579
 Jervis B Webb Co W59
@@ -3028,10 +3017,10 @@ Sparton Corporation S37I
 Allied Paper Division SI
 Kaltec Scientific Instrument Inc Kll
 The Kar Laboratory K20
-Laboratory Procedures Inc U7O,5 Laboratory Research Enterprises, Inc L8
+Laboratory Procedures Inc U7O,5
+Laboratory Research Enterprises, Inc L8
 O’Boyle, Cowell, Rohrer & Associates, Inc 06
 The Upjohn Company U70
-MICHIGAN 631
 Abrams Aerial Survey Corporation Al2
 Abrams Instrument Company AI3
 Plas-Labs P196
@@ -3054,8 +3043,8 @@ Bennett Pump Company BI34
 Cannon-Muskegon Corporation C46
 Sealed Power Corporation S141
 National-Standard Co N58
-NOVI Gam Rad, Inc G19
-OAK PARK Detroit Testing Laboratory, Inc D132
+Gam Rad, Inc G19
+Detroit Testing Laboratory, Inc D132
 Prestolite Wire Division E144.
 Wolverine World Wide, Inc W166
 Diamond Crystal Salt Company D153
@@ -3078,7 +3067,7 @@ DAB Industries, Inc DI
 Energy Conversion Devices, Inc E171
 Janeway Engineering Co J14
 R P Scherer Corporation S65
-Sperry Vickers Division North American Group S4O1.9 MICHIGAN (cont) Straub, Van Dine, Dziurman/Architects S498
+Straub, Van Dine, Dziurman/Architects S498
 Pioneer Engineering & Manufacturing Company Pi83
 Ryco Engineering, Inc R264
 Ferro-Tech, Incorporated F46
@@ -3140,7 +3129,8 @@ MTS Systems Corporation M422
 Pako Corporation P26
 Personnel Decisions, Inc P123
 The Pillsbury Company P181
-Pillsbury Research and Development Laboratories PlSl.l Progressive Management Services, Inc P33I
+Pillsbury Research and Development Laboratories PlSl.l
+Progressive Management Services, Inc P33I
 Schott Corporation S79
 Swenko Research & Development, Inc S572
 Technalysis Corporation T42
@@ -3163,7 +3153,8 @@ Don E Harley Associates, Inc H43
 Healy Laboratories Incorporated H83
 Interpoll Incorporated 1199
 Lightning & Transients Research Institute LI
-Minnesota Mining and Manufacturing Company M33O National Biocentric, Inc N23
+Minnesota Mining and Manufacturing Company M33O
+National Biocentric, Inc N23
 Programmed and Remote Systems Corp P326
 Programs Inc P329
 Ramsey Engineering Co BI
@@ -3178,7 +3169,9 @@ Diversified Technology, Inc D192
 Stoneville Pedigreed Seed Company, Inc S488
 U S Rubber Reclaiming Co Inc U83
 YAZOO CITY Mississippi Chemical Corporation M339
-Motor Appliance Corp M4O8 Cuppies Company C55O Environmental Quality Research, Inc E241
+Motor Appliance Corp M4O8
+Cuppies Company C55O
+Environmental Quality Research, Inc E241
 Analytical Biochemistry Laboratories, Inc A355
 Shell Engineering and Associates, Inc SI89
 Bitrode Corporation B217
@@ -3188,9 +3181,11 @@ Tubular Metal Displacement, Inc T272
 The Bruce Williams Laboratories, Inc W135
 Bio-Search & Development Co, Inc B198
 Brunson Instrument Co, Inc B337
-Butler Manufacturing Company B38O Calvin Communications, Inc C26
+Butler Manufacturing Company B38O
+Calvin Communications, Inc C26
 Computer Resources, Inc C37I
-Conservation Chemical Co C4O2 Continental Disc Corporation C429
+Conservation Chemical Co C4O2
+Continental Disc Corporation C429
 Cook Paint & Varnish Company C458
 Electrofrac Corporation E90
 Farmland Industries, Inc F20
@@ -3201,22 +3196,25 @@ Labconco Corporation L2
 Lawrence-Leiter & Company L59
 Luzier Personalized Cosmetics L192
 Marion Laboratories, Inc M82
-Midwest Research Institute M3O2 The C W Nofsinger Company N125
+Midwest Research Institute M3O2
+The C W Nofsinger Company N125
 C J Patterson Company P75
 Quincy Research Center Q27
 Realex Corp R61
 Tnemec Company, Inc T194
 United States Safety Service Co U46
 Weldon Laboratory, Inc W75
-Crown Zellerbach Container Services C53O.2 Institute for Social Research, Inc 1118
+Institute for Social Research, Inc 1118
 The Davies-Young Company D49
-Garvey Labelmatic C4O5.3 M-R Plastics and Coatings, Inc M4I8
-NORTH KANSAS CITY Design Enterprises D123
+Garvey Labelmatic C4O5.3 
+M-R Plastics and Coatings, Inc M4I8
+Design Enterprises D123
 Doty Laboratories, Inc D221
 Gulf Cities Laboratories, Inc G222
 Baganoff Engineering Inc B7
 Advanced Industries, Inc A73
-MISSOURI (cont) H & R Design, Ltd H2O9 Rycom Instruments R265
+H & R Design, Ltd H2O9
+Rycom Instruments R265
 AMCAR Division A25.
 Missouri Research Laboratories, Inc M342
 Anheuser-Busch, Inc A391
@@ -3273,12 +3271,12 @@ Sverdrup Corporation S563
 Wamer-Jenkinson Co W25
 WTA Computer Services, Inc WI89
 Zurheide-Herrmann, Inc Z22
-Litton Industries, Inc Advanced Circuitry Division LI
 Arthur Hall Pedersen - Design & Consulting Engineers P95
 TAP Inc, Economic and Aviation Consultants T16
 The Montana Energy and MHD Research and Development Institute, Inc M381
 Montana Tech Alumni Foundation M382
-Columbus Hospital C33O The McLaughlin Research Institute C33O.1 Northern Testing Laboratories, Inc NI53
+Columbus Hospital C33O
+Northern Testing Laboratories, Inc NI53
 Econ Inc E36
 Foundation & Materials Consultants, Inc F140
 Holter Research Foundation, Inc Hl77
@@ -3294,15 +3292,14 @@ Norden Laboratories, Inc S269.
 O Selection Research, Inc S153
 Black Enterprise Inc B225
 Energy Management & Control, Inc El78
-NEW JERSEY 635
 Henningsen Foods Research and Development Center HI
 Ionic Solar, Inc 1214
 Nebraska Testing Laboratories, Inc N70
-BOULDER CITY Barth Electronics, Inc B61
-CARSON CITY Foresta Institute for Ocean & Mountain Studies F125
+Barth Electronics, Inc B61
+Foresta Institute for Ocean & Mountain Studies F125
 Advanced Patent Technology, Inc A78
 Bently Nevada Corp B137
-RENO Datamotive Inc D30
+Datamotive Inc D30
 Heat Magnetic Engineering, Inc H86
 Lynch Communication Systems Inc L196
 Scientific Engineering Systems, Inc S99
@@ -3351,8 +3348,7 @@ Micron Metals, Inc M275
 Atlantic Equipment Engineers Division M275.
 The Acromark Co A34
 Gollob Analytical Service G158
-Gulf Oil
-NEW JERSEY (cont) Oakite Products, Inc 02
+Oakite Products, Inc 02
 Dodco, Inc D2O3 Automated Processes, Inc A586
 C-E Lummus C335.
 Energy Beams Inc El
@@ -3381,7 +3377,8 @@ Adelphi Industries A61
 Randolph Products Co R34
 Yoo-Hoo Beverage Co Y14
 Adronics, Inc A66
-Bishop Electric G8O.3 Cedar Knolls Acoustical Laboratories Cl
+Bishop Electric G8O.3 
+Cedar Knolls Acoustical Laboratories Cl
 Transistor Devices, Inc T231
 Xybion Corporation X12
 Burling Instrument Co, Inc B365
@@ -3389,7 +3386,7 @@ Celanese Plastic Materials Company Cl
 Chatham Controls Corp Cl65
 Robert H Wager Co, Inc Wl
 M Witte Associates W163
-CHERRY HILL Charles - Coyle Associates Cl
+Charles - Coyle Associates Cl
 Computer Horizons, Inc C364
 Cryptanalytic Computer Sciences, Inc C532
 Denton Vacuum Inc DI
@@ -3411,10 +3408,9 @@ Scandia Packaging Machinery Co S54
 Scher Brothers, Inc S64
 Tele-Measurements Inc T96
 The Torsion Balance Company T203
-Printing Inks U51.
 O Whatman Inc WI12
-E F Britten & Co, Inc B3O5 Technology Development Corporation T72
-Jackson Laboratory D252.
+E F Britten & Co, Inc B3O5
+Technology Development Corporation T72
 Charles T Gamble Industries G14
 Hazards Research Corporation H73
 MSI Telecommunications Consulting Engineers M419
@@ -3425,7 +3421,6 @@ Fox Valve Development Co, Inc F146
 Nabisco, Inc N2
 Sandoz Colors & Chemicals S28
 Sandoz, Inc S28
-NEW JERSEY 637
 Crown Engineering & Sales Co C527
 Food and Drug Research Laboratories, Inc Fl
 FDRL Clinical Facilities Fl
@@ -3458,17 +3453,18 @@ Electro-Nucleonics, Inc El
 Gibraltar Biological Laboratories, Inc G127
 Northern Precision Labs, Inc NI49
 Theta Instrument Corporation TI53
-FAIR LAWN Codi Corporation C297
+Codi Corporation C297
 Relay Specialties Inc R89
 Hospital Research Associates, Inc H197
 Hydrophilics International, Inc H261
 Bel-Ray Company, Inc B123
 Harvard Industries, Inc H57
 Marine Safety Equipment Corporation M80
-FORT LEE Abbott Transistor Labs, Inc A7
+Abbott Transistor Labs, Inc A7
 Wyssmont Company, Inc W196
 Aerosystems Technology Corp Alli
-Spectrochem Laboratories, Inc S39O Mid Monmouth Industries, Inc M298
+Spectrochem Laboratories, Inc S39O
+Mid Monmouth Industries, Inc M298
 Raycomm Industries, Inc R48
 Descriptive Design and Development Corporation D118
 Palmer Electronics Inc P31
@@ -3501,7 +3497,8 @@ Kenyon Magnetics, Inc K67
 The B Manischewitz Co M47
 Wells Laboratories, Inc W78
 Electron Technology Inc El
-Syncon Resins S58O Adamas Carbide Corporation A46
+Syncon Resins S58O
+Adamas Carbide Corporation A46
 EWC Inc E302
 Reed & Cam rick R72
 Schering-Plough Corporation S66
@@ -3519,7 +3516,6 @@ Microlab-FXR M269
 Skeist Laboratories, Inc S252
 H K Metalcraft Manufacturing Corp Hl56
 C H Luhrs L185
-Gulf Oil
 Sika Chemical Corporation S228
 GOW-MAC Instrument Co G172
 Celco (Constantine Engineering Laboratories Company) Cl
@@ -3537,8 +3533,9 @@ Stop-Fire, Inc S491
 Utility Research Company U93
 Capintcc, Inc C51
 Halcon Research and Development Corporation H8
-Liggett Group Inc LI
-II Luning Prak Associates, Inc P26O Engelmann Microwave Co El92
+Liggett Group Inc L111
+Luning Prak Associates, Inc P26O
+Engelmann Microwave Co El92
 Wm B Johnson and Associates, Inc J52
 Electronic Research Associates, Inc El
 ERA Acoustics Corporation El
@@ -3556,7 +3553,6 @@ Minitec Corporation M328
 US Radium Corp U82
 American Aluminum Company A247
 Muirhead, Inc M426
-NEW JERSEY 639
 C R Bard Inc B35
 Bull & Roberts, Inc B358
 Electronic Measurements, Inc EI08
@@ -3589,11 +3585,12 @@ Permacel J46.
 Princeton Aqua Science P294
 Garnett Glass, Inc G16
 Gaylord Research Institute Inc G31
-Tenneco Inc Plastics Business Group TllO.5 Haward Corporation H68
+Haward Corporation H68
 Duro-Test Corporation D255
 Townley Research and Consulting, Inc T211
 Matrix Corporation MI35
-Matrix Instruments, Inc MBS.2 Nicolet Scientific Corporatibh N112
+Matrix Instruments, Inc MBS.2 
+Nicolet Scientific Corporatibh N112
 The Pyrometer Instrument Company P366
 Alpine Geophysical'Associates, Inc A218
 Atlantic Chemical Corporation A552
@@ -3615,7 +3612,8 @@ Boonton Electronics Corporation B259
 Interpace Corporation 1197
 Synthatron Corporation S589
 Waldman Corporation W9
-American Pharmaceutical Co A3O2 Falstrom Co Fl6
+American Pharmaceutical Co A3O2
+Falstrom Co Fl6
 Ferrulmatic, Inc F47
 Kaysam Corp of America K32
 MONA Industries, Inc M37i
@@ -3657,15 +3655,17 @@ Zeus Industrial Products Inc Zll
 Kulite Semiconductor Products, Inc KI58
 Lowe Paper Company LI73
 Pfister Chemical Inc P133
-RIDGEFIELD PARK Jacobs-Winston Laboratories Inc J6
-RIVER EDGE P P Equipment Company P255
+Jacobs-Winston Laboratories Inc J6
+P P Equipment Company P255
 Hughes Industries H223
-ROCHELLE PARK Dixo Company, Inc D194
-Lab Products, Inc LIO Mechmetal-tronics Inc Ml83
-Moretrench American Corporation M39O Radiation Technology, Inc RIl
+Dixo Company, Inc D194
+Lab Products, Inc LIO
+Mechmetal-tronics Inc Ml83
+Moretrench American Corporation M39O
+Radiation Technology, Inc RIl
 Rockaway Corporation R198
 Wire Concepts, Inc W158
-ROCKY HILL Ameliotex, Inc A241
+Ameliotex, Inc A241
 Microwave Semiconductor M289
 Abacus Controls Inc A3
 Advanced Applications Institute, Inc A69
@@ -3691,7 +3691,8 @@ Inductotherm Industries, Inc 149
 Micro Precision Products, Inc M278
 ROSELLE PARK Cosmetech Laboratories C482
 Leberco Laboratories L66
-Andrew R Blanck Company B23O Rutherford Research R261
+Andrew R Blanck Company B23O
+Rutherford Research R261
 Tenneco Chemicals, Inc Tl
 Blake Industries, Inc B228
 Incoplas Corporation 136
@@ -3704,7 +3705,6 @@ Celanese Corporation Marketing Technical Development Laboratory Cl
 Celanese Research Company CI
 Lumitron Corporation LI87
 Plastics Research and Development Center Cl
-NEW YORK 641
 Lasermetrics, Inc L46
 Ledoux & Co, Inc L71
 Stonite Coil Corporation S490
@@ -3713,7 +3713,7 @@ Anchor Specialty Manufacturing Company, Inc A369
 MetPath Inc M243
 Knickerbocker Mills B87.
 Northeastern Associates N144
-American Biltrite Inc Amtico Flooring Division A25O.3 AMR Biological Research, Inc A337
+AMR Biological Research, Inc A337
 Dynamic Programs Inc D271
 Goodall Rubber Company Gi59
 International Products Corp 1183
@@ -3725,7 +3725,7 @@ TAC Technical Instruments Corp T3
 Breeze Corporations, Inc B292
 Pirelli Cable Corporation Pl86
 Tenney Engineering, Inc T112
-UNION CITY Kahle Engineering Company K2
+Kahle Engineering Company K2
 Western Union Corporation W98
 Ace Glass Incorporated A22
 Kontes KI33
@@ -3745,7 +3745,7 @@ Cfoll-Reynolds Co Inc C520
 Statistical Research, Inc S451
 Electronic Associates, Inc E99
 Johner Manufacturing Corporation J40
-WEST NEW YORK RHA-Audio Communications, Inc R149
+RHA-Audio Communications, Inc R149
 Walter Frederick Friedman and Co, Inc F173
 Hudson Industries Corporation H217
 Homasote Company H178
@@ -3755,7 +3755,7 @@ General Relay Corporation G77
 Apollo Chemical Corp A411
 Custom Scientific Instruments, Inc C564
 Nippes Professional Association Nil8
-WOODCLIFF LAKE Ingersoll-Rand Company 192
+Ingersoll-Rand Company 192
 Curtiss-Wright Corporation C556
 Albuchemist, Inc A164
 Albuquerque Testing Laboratory, Inc A165
@@ -3786,7 +3786,7 @@ T&M Research Products, Inc TI92
 Q-dot Corporation Q2
 A R F Products, Inc A474
 Aero Tek, Inc A113
-SANTA FE Controls for Environmental Pollution, Inc C448
+Controls for Environmental Pollution, Inc C448
 D-Co-Inc D71
 Scanlon & Associates, Inc S55
 Integrated Life Support Laboratories 1140
@@ -3801,17 +3801,16 @@ Precision Electronics, Inc P269
 Mohasco Corporation M365
 Mohawk Finishing Products Inc M367
 Ciba-Geigy Corporation C231
-Plastics & Additives Division C231.
-O RSA Corporation R249
+RSA Corporation R249
 International Business Machines Corporation 1159
 Columbian Rope Company C324
 Jenkins Laboratories Inc J24
 Concept Applications Ltd C384
 Morris Pumps, Inc M398
-BALLSTON LAKE Shaker Research Corporation S171
-BALLSTON SPA Wright-Malta Corp W184
-General Telephone & Electronics Corporation Entertainment Products Group G83.
-O Atlantic Ultraviolet Corporation A56O Clean Room Products, Inc C263
+Shaker Research Corporation S171
+Wright-Malta Corp W184
+Atlantic Ultraviolet Corporation A56O
+Clean Room Products, Inc C263
 Solidyne, Inc S316
 Eastern Biochemical Laboratory E14
 Miracle Adhesives Corporation M335
@@ -3836,7 +3835,8 @@ Fraass Survival Systems, Inc F148
 Hexagon Laboratories, Inc Hl35
 Industrial Acoustics Company, Inc 150
 Metaplast Electrochemicals Corp M233
-New York Botanical Garden NlOO Particulate Solids Research, Inc P66
+New York Botanical Garden NlOO
+Particulate Solids Research, Inc P66
 Hyman/Greenberg Associates H265
 Beach-Russ Company B84
 Beltran Associates, Inc B125
@@ -3852,12 +3852,13 @@ Eon Corporation E259
 Felton International Incorporated F40
 Ferdinand Gutman & Co, Inc G235
 Ideal Precision Meter Company 112
-Kitchen Craft Foods WI4LI Marine Electric Corporation M71
+Marine Electric Corporation M71
 New York Aquarium, N98
 Ney Smelting & Refinery Company N103
 Novocol Chemical Mfg Co, Inc NI68
 Polymer Research Corp of America P223
-Process & Instruments Corporation P3O8 Protective Lining Corp P339
+Process & Instruments Corporation P3O8
+Protective Lining Corp P339
 R&A Leather Finish Co, inc R23
 Louis L Shapiro, Chemical Consultants SI79
 Silent Hoist & Crane Co, inc S229
@@ -3868,11 +3869,13 @@ Virginia Dare Extract Co V62
 Willmark Sales Co inc W141
 P Robert Young Associates Y20
 Zophar Mills, Inc Z21
-American Precision Industries Inc A3O5 Andco Environmental Processes, Inc A37O Associated Biomedic Systems, Inc A525
+American Precision Industries Inc A3O5
+Andco Environmental Processes, Inc A37O
+Associated Biomedic Systems, Inc A525
 Banite, Inc B26
 Birdair Structures, Inc B210
 Buffalo Testing Laboratories, Inc B353
-Calspan Advanced Technology Center A5O8.1 Cayuga Machine and Fabricating Co, Inc C106
+Cayuga Machine and Fabricating Co, Inc C106
 Comptek Research, Inc C354
 Dunlop Tire and Rubber Corporation D248
 Economic Consultants Organization, Inc E39
@@ -3881,7 +3884,7 @@ HCC Industries, Inc H77
 Hydraulic Servocontrols Corporation H255
 IMCO Laboratories, Inc 129
 Kinetic Dispersion Corporation K94
-Lucidol Division P1O8.2 Mark-Five Industries, Inc M84
+Mark-Five Industries, Inc M84
 Medical Foundation of Buffalo, Inc Ml88
 Morris & Lee, Inc M394
 Nanodata Corporation N9
@@ -3890,7 +3893,6 @@ Osmose Wood Preserving Company of America, Inc 0103
 Pratt & Lambert, Inc P263
 Rich Products Corporation R165
 Roswell Park Memorial Institute R234
-NEW YORK 643
 Scipar, Inc SI
 Sierra Research Corporation S216
 Starks Associates, Inc S448
@@ -3917,8 +3919,8 @@ Albert Loeffler & Company, Inc L146
 Telectro Systems Corp T93
 Electrical Testing Laboratories, Inc E82
 Hudson Institute H219
-CUBA Acme Electric Corporation A32
-DEER PARK RHG Electronics Laboratory, Inc R151
+Acme Electric Corporation A32
+RHG Electronics Laboratory, Inc R151
 R S M Electron Power, Inc R250
 Solarex Hyds Corporation S303
 Roger Creighton Associates Inc C515
@@ -3944,7 +3946,8 @@ Academy Testing Laboratories, Inc A16
 American Acrylic Corporation A244
 Artek Systems Corporation A502
 Bruno-New York Industries Corp B336
-Circuit Technology Co, Inc C24O Del Laboratories, Inc D97
+Circuit Technology Co, Inc C24O
+Del Laboratories, Inc D97
 Developtron Inc DI42
 Diversified Optical Corp Di91
 General Microwave Corp G69
@@ -3955,21 +3958,22 @@ Logitek Inc L152
 Printex Electronics, Inc P299
 Suppositoria Laboratories, Inc S553
 Venus Scientific Inc V38
-FEURA BUSH A Johnson Laboratory J42
-FLORAL PARK G K Heller Corp HlOl ACETO Chemical Co, Inc A24
+A Johnson Laboratory J42
+G K Heller Corp HlOl
+ACETO Chemical Co, Inc A24
 Leo Beiser Inc Bl
 Daddario & Associates D3
 Eutectic Corporation E288
 Pulmosan Safety Equipment Corporation P350
 Lundstrom Laboratories, Inc LI89
-EV Game, Inc G23O.3 Lea Ronal Inc L64
+Lea Ronal Inc L64
 Hughes-Treitler Manufacturing Company H225
 Rodale Electronics, Inc R212
-GLEN COVE Pall Corporation P30
+Pall Corporation P30
 Zoomar, Inc Z20
 Sonicor Instrument Corporation S324
 Thermovac Industries Corp T151
-Coming Glass Works C475
+Corning Glass Works C475
 EM Laboratories Inc E152
 H H Aerospace Design Co, Inc H137
 Information Displays, Inc 181
@@ -3983,7 +3987,7 @@ Network Analysis Corporation N80
 Vernitron Corp V43
 Hazeltine Corporation H74
 Shelter Island Oyster Company, Inc S193
-Colgate-Palmolive Company Laboratory C3O9.3 Quantachrome Corporation Q13
+Quantachrome Corporation Q13
 Slant-Fin Corporation S259
 Intermagnetics General Corporation 1154
 ADDS Applied Digital Data Systems, Inc A60
@@ -4034,17 +4038,16 @@ Polymer Protektives, Inc P222
 Mechanical Technology Incorporated Ml81
 Xciton Corporation XI
 CP AC, Inc C495
-LITTLE NECK Research Testing Laboratories, Inc R120
+Research Testing Laboratories, Inc R120
 The Upson Company U71
 Eder & Connors Associates E51
-LONG ISLAND CITY Andrea Radio Corp A383
+Andrea Radio Corp A383
 Ashland Electric Products, Inc A516
 Control Technology Company Incorporated C449
 Henry G Dietz Inc DI67
 Equitable Bag Co, Inc E266
 First Spice Mixing Company F70
 Printloid, Inc P300
-NEW YORK 645
 Advanced Biofactures Corp A70
 Lith-Kem Co L130
 Sanford-Miller Corporation S29
@@ -4090,7 +4093,7 @@ EC Electronics Corporation 118
 Tetron Inc T129
 Oscar Fisher Company, Inc F73
 General Purification Systems G74
-NEW HYDE PARK AUL Instruments, Inc A575
+AUL Instruments, Inc A575
 Designatronics, Inc DI
 Stock Drive Products Division DI
 Doll Research Inc D209
@@ -4140,13 +4143,11 @@ Case And Company, Inc C95
 Cavitron Corporation C104
 CBS Inc C107
 Celanese Corporation C116
-Celanese Fibers Marketing Company Cl
-Celanese Special Products Company Cl
 Chemiquip Products Co Inc Ci90
 Chem Systems Inc C202
 Chock Full of Nuts Corp C218
 City Testing & Research Laboratories, Inc C247
-Clairol Incorporated B3O3.4 Clarke-Hess Communication Research Corporation C253
+Clarke-Hess Communication Research Corporation C253
 Colgate-Palmolive Company C309
 Collins & Aikman Corporation C311
 Colt Industries Inc C319
@@ -4161,7 +4162,7 @@ The Continental Group, Inc C431
 Cotton Incorporated C487
 Cox & Company, Inc C493
 Crane Co C503
-Engineered Products Division C5O3.2 —	Valves & Fittings Division C5O3.3 Crane USA C5O3.I Crompton & Knowles Corporation C52I
+Crompton & Knowles Corporation C52I
 Culbro Corporation C546
 C R Cushing Co C558
 DCA Food Industries, Inc D68
@@ -4170,14 +4171,15 @@ Dimpex Associates, Inc D185
 D/L Laboratories DI99
 Dover Corporation D222
 Dow Jones & Company, Inc D225
-Electronic Calculus Inc ElOl Elf Aquitaine Inc E133
+Electronic Calculus Inc ElOl
+Elf Aquitaine Inc E133
 Eltra Corporation E144
 Engelhard Minerals & Chemicals Corporation E190
 Environmental Information Center, Inc E237
 Enzyme Development Corp E258
 Essential Products Co, Inc E278
 Evaluations, Inc E293
-NEW YORK (cont) Ever Ready Thermometer Company, Incorporated E299
+Ever Ready Thermometer Company, Incorporated E299
 Exxon Corporation E316
 The Eye-Bank for Sight Restoration, Inc E317
 F&B/CECO Inc Cl
@@ -4191,7 +4193,8 @@ Freeport Minerals Company Fl66
 Fritzsche Dodge & Olcott Inc F177
 GAF Corporation G3
 Gateway Sporting Goods Company G27
-Gemological Institute of America Gem Trade Laboratory G4O.3, .4 General Instrument Corporation G64
+Gemological Institute of America G4O
+General Instrument Corporation G64
 W R Grace Sc Co G173
 Great American Industries Inc G190
 Great Lakes Carbon Corporation Gi92
@@ -4200,7 +4203,7 @@ R L Grunes Sc Associates, Inc G216
 Gulf + Western Industries, Inc G224
 Handy Sc Harman H24
 Fred C Hart Associates, Inc H56
-Helena Rubinstein, Inc C3O9.2 J J Henry Co, Inc Hl
+J J Henry Co, Inc H112
 Hudson Laboratories, Inc H220
 IBEC Industries Inc II
 ICC Industries, Inc 13
@@ -4234,7 +4237,6 @@ Micro-Therapeutics, Inc M283
 The Miller Organization M312
 Milliken Company M315
 Mobil Corporation M353
-Mobil Oil
 National Bureau of Economic Research, Inc N25
 National Distillers and Chemical Corporation N32
 National Economic Research Associates, Inc N34
@@ -4261,10 +4263,11 @@ Photobell Company, Inc Pl59
 Phys-Chemical Research Corp PI68
 Lucius Pitkin, Inc Pl87
 Protape Inc P337
-Quality Bakers of America Cooperative Inc QIO RCA Corporation R52
-RCA Records R52.
+Quality Bakers of America Cooperative Inc QIO
+RCA Corporation R52
 Reeves Brothers, Inc R77
-Republic Lens Co, Inc RlOl Research and Action Inc R104
+Republic Lens Co, Inc RlOl
+Research and Action Inc R104
 Research Automation Corporation R106
 Research Dynamics, Inc RIIO Revere Copper & Brass Incorporated R137
 Revere Sugar Corporation R138
@@ -4280,7 +4283,6 @@ Saxon Industries, Inc S49
 The F&M Schaefer Corporation S58
 Bernard W Schlesinger Foundation S70
 Schlumberger Limited S72
-SCM Corporation SI
 Consumer Products Division SI
 Joseph E Seagram & Sons, Inc SI38
 The Seagrave Corporation SI39
@@ -4295,7 +4297,8 @@ Richard G Stein And Partners S463
 Sterling Drug Inc S469
 Stillwell & Gladding Inc S477
 Stone Sc Webster Inc S489
-Stroblite Co, Inc S5O2 Studebaker-Worthington, Inc 5515
+Stroblite Co, Inc S5O2
+Studebaker-Worthington, Inc 5515
 Sun Chemical Corporation S528
 Technology Development Associates T70
 Telstat Systems, Inc TI04
@@ -4322,7 +4325,6 @@ Yourdon Inc Y22
 Alox Corporation A208
 Frontier Bronze Corp Fl
 Industrial Consultants, Inc 154
-NEW YORK 647
 Penetrader Corporation PI04
 Riverside Chemical Company, Inc R180
 Taylor Devices, Inc T26
@@ -4376,11 +4378,12 @@ Research & Technical Services Pl
 Putnam Valley Scientific P364
 Bausch & Lomb Incorporated B77
 Bemz-o-matic Corp BI49
-CNTR, Inc CJ27 Curtice-Bums, Inc C554
+CNTR, Inc CJ27
+Curtice-Bums, Inc C554
 CVC Products inc C568
 Eastman Dental Center E19
 Eastman Kodak Company E20
-Kodak Park Division, Development Laboratories E2O.3 The R T French Company Fl67
+The R T French Company Fl67
 Germanow-Simon Machine Co Inc G119
 Gleason Works G146
 Hydroacoustics Inc H256
@@ -4400,14 +4403,15 @@ Y T T Inc Y25
 Rockland Colloid Corporation R201
 Aeroflex Laboratories Inc A93
 Atomergic Chemetals Corporation A567
-RICHMOND HILL Vogue Instrument Corporation V76
-SARANAC LAKE Trudeau Institute, Incorporated T265
+Vogue Instrument Corporation V76
+Trudeau Institute, Incorporated T265
 Kussmaul Electronics Co Inc KI62
 William F Hogan Associates, Inc Hl66
 Encotech, Inc E163
 Ernest F Fullam, Inc F185
 The Landsberg Consultant L31
-Macrodyne, Inc MIO Millivac Instruments, Inc M318
+Macrodyne, Inc MIO
+Millivac Instruments, Inc M318
 Schenectady Chemicals, Inc S63
 Goulds Pumps Incorporated G171
 Papec Machine Company P42
@@ -4418,18 +4422,17 @@ Comtech Telecommunications Corporation C382
 Gull Airborne Instruments, Inc G227
 Quantronix Corp Q16
 Dynalec Corporation D264
-SCM Corporation Smith-Corona Laboratory SI
 Johnson Laboratories, Inc J47
-SOUTH OZONE PARK Aviation Transport Systems Inc A6O5 Consolidated Stamp Manufacturing Co C4O5.2 Now Corporation N169
+Aviation Transport Systems Inc A6O5
+Now Corporation N169
 Northeast Instrument Co N146
 Kay-Fries, Incorporated K30
 Orbit Instrument Corporation 085
 Purvis Systems, Inc P362
 Surface Activation Corporation S554
 Agway Inc A128
-Bristol Laboratories B3O3.1 Calocerinos & Spina C23
+Calocerinos & Spina C23
 Crouse-Hinds Company C525
-Crucible Specialty Metals Division C319.
 R E Dietz Company DI68
 W S Fleming and Associates, Inc F87
 M S Kennedy Corporation K62
@@ -4439,7 +4442,8 @@ Multus Corporation M430
 Niagara Mohawk Power Corp NI08
 OBrien & Gere Engineers, Inc 09
 Strathmore Products, Inc S497
-Syracuse China Corporation S59O Syracuse Research Corporation S59I
+Syracuse China Corporation S59O
+Syracuse Research Corporation S59I
 Wawasee Electronics Co, Inc W51
 Kane-Miller Corporation KI5
 Simmonds Precision Products, Inc S239
@@ -4451,7 +4455,6 @@ Recra Research, Inc R64
 WSF Industries, Inc W188
 Kings Electronics Co, Inc K99
 XICOM, Inc X7
-NORTH CAROLINA 649
 The Indium Corporation of America 147
 Laser Precision Corporation L49
 Utica Alloys Inc U89
@@ -4467,7 +4470,7 @@ Microtran Co M285
 International Resource Systems 1188
 Fair-Rite Products Corp F14
 Instrument Development Laboratories Inc 1132
-Food and Drug Research Laboratories, Inc Anima. Toxicological Center Fl
+Food and Drug Research Laboratories, Inc F113
 Photographic Sciences Corporation P161
 Nassau Tool Works, Inc N16
 Advanced Technology Labs, Inc A82
@@ -4478,7 +4481,8 @@ General Applied Science Labs Inc G45
 IMC Magnetics Corp 128
 Korfund Dynamics Corporation KI36
 Melland Gear and Instrument M203
-New York Testing Laboratories, Inc NlOl Peerless Electronics Research Corp P97
+New York Testing Laboratories, Inc NlOl
+Peerless Electronics Research Corp P97
 Sea Ventures SI46
 Ultrasonic Instruments International, Ltd U7
 Waldemar Medical Research Foundation W8
@@ -4487,7 +4491,8 @@ National Micronetics Inc N48
 Numrich Arms Corporation N183
 Lester Associates, Inc L87
 Palisades Geophysical Institute, Inc P28
-Rockland Systems Corporation R2O3 Decicom Systems, Inc D77
+Rockland Systems Corporation R2O3
+Decicom Systems, Inc D77
 AMF Incorporated A328
 Clark-Schwebel Fiber Glass Corporation C257
 Clevepak Corporation C272
@@ -4521,22 +4526,17 @@ Asheville Plastic Services Inc A515
 Farnam Mfg Co Inc F21
 Carolina Biological Supply Co, Inc C76
 Vikon Chemical Co, Inc V59
-CHAPEL HILL Systems Sciences, Inc S62O Allen Science Research, Inc A189
-Apitron Division A3O5.1 Celanese Corporation Marketing Technical Deparment Cl
-Research and Development Laboratory Cl
-Celanese Fibers Company Cl
+Systems Sciences, Inc S62O
+Allen Science Research, Inc A189
 Environmental control Products, Inc E229
-Fiber Industries, Inc Cl
 Radiator Specialty Co R12
-Sodyeco Division M1O3.7 
 Systems Associates, Inc S605
-Textile Application Laboratory Cl
 Winton Products Company W156
 R G Abernethy Industries, Inc Al
-NORTH CAROLINA (cont) Drexel Heritage Furnishings Inc D231
+Drexel Heritage Furnishings Inc D231
 Armageddon Chemical Company A486
 Nutech Corporation N186
-EDEN Fieldcrest Mills, Inc F54
+Fieldcrest Mills, Inc F54
 Chatham Manufacturing Co C166
 Dacari Knit Products, Inc D2
 Cannon Mills Company C45
@@ -4544,26 +4544,28 @@ Wise Industries, Inc W159
 Wall-Lenk Manufacturing Co W18
 Automated Energy Systems, Inc A583
 Drexel Heritage Furnishings Inc Engineering Test Laboratory D231
-MOUNT AIRY Commercial Fabrication & Machine C34O W G Hunt & Co, Inc H244
+Commercial Fabrication & Machine C34O
+W G Hunt & Co, Inc H244
 Chemtronics, Inc C206
 San-Mor Co S31
 Huyck Corporation H247
 Marshall Oil
 Co, Inc M95
 Kinergy Research & Development M95.
-Hercofina Hl
-Hanover Plant Laboratory H1J6.1 Burlan Corp B364
+Hercofina H116
+Burlan Corp B364
 Firestone Textiles Company F67.
 Engineered Plastics Inc El94
 Air Conditioning Corp A135
-Brin-Mont Chemicals, Inc B3O2 Burlington Industries, Inc B366
+Brin-Mont Chemicals, Inc B3O2
+Burlington Industries, Inc B366
 Computer Labs Inc C367
 Cone Mills Corporation C393
 Royal Carolina Corp R245
 Strandberg Engineering Laboratories, Inc S495
 Hendrix and Dail, Inc H107
 Superior Cable Corporation S546
-Femco Division G23O.5 Piedmont Chemical Industries, Inc Pl76
+Piedmont Chemical Industries, Inc Pl76
 Unipoint Industries, Inc U25
 Aeronca, Inc A102
 Aeroglide Corporation A94
@@ -4572,7 +4574,7 @@ Brower Electronics Laboratories B323
 Hydra Computer Corporation H253
 Technology Application Services Corporation T68
 Webb Foodlab, Inc W58
-RESEARCH TRIANGLE PARK Burroughs Wellcome Co B373
+Burroughs Wellcome Co B373
 Entropy Environmentalists, Inc E217
 Research Triangle Institute R121
 Systems Research & Development Corp S617
@@ -4580,15 +4582,15 @@ Special Yams Co S379
 Lely L80
 Southern Testing & Research Laboratories, Inc S342
 R G Abernethy Industries, Inc All
-Consolidated Foods Corporation Central Research and Development Department C4O5.5 En-Cas Analytical Laboratories E162
+Consolidated Foods Corporation C4O5
+En-Cas Analytical Laboratories E162
 R J Reynolds Industries, Inc R146
 RJR Archer, Inc R146
 Salem Coatings Inc S16
 Industrial Builders, Inc 152
-OHIO Akron Rubber Development Laboratory, Inc A155
+Akron Rubber Development Laboratory, Inc A155
 The Firestone Tire & Rubber Company F67
 The General Tire & Rubber Company G86
-OHIO 651
 Go-Jo Industries Inc G155
 The B F Goodrich Company GI60
 The Goodyear Tire Rubber Company G162
@@ -4610,7 +4612,7 @@ Railroad Rubber Products, Inc R2l
 Sunpower, Inc S536
 Chemtrol Adhesives Inc C205
 Fashion Two-Twenty Inc F26
-AVON Studebaker Chemical Company S514
+Studebaker Chemical Company S514
 Solar Energy Products Company S298
 Winko Made Signal Co W153
 Hydratecs, Inc H254
@@ -4619,8 +4621,7 @@ Sparton Enterprises, Inc S372
 W T Nickell Co N109
 Zipp Manufacturing Co Z16
 Banner Industries, Inc B29
-Franklin Oil
-Corp (Ohio) Fl57
+Franklin Oil Corp (Ohio) Fl57
 Swiss Laboratory, Inc S573
 Aids Development Co, Inc A132
 ADB-ALNACO A57
@@ -4631,8 +4632,7 @@ King Industries, Inc K96
 The Map Corporation M55
 Metalcrete Manufacturing Co M228
 Graphite Products Corp G185
-BROOK PARK Foseco, Inc Fl33
-Gulf Oil
+Foseco, Inc Fl33
 Mosier Industries, Inc M404
 The ARO Corporation A495
 Paul B Elder Company E78
@@ -4642,7 +4642,8 @@ Linde Hydraulics Corporation LI
 Canton Stoker Corporation C47
 Dental Appliance Co Dill
 Olympic Solar Corp 055
-Spartek Inc S37O The Timken Company T185
+Spartek Inc S37O
+The Timken Company T185
 Integrated Development & Manufacturing Co 1139
 Milbar Corp M3O5 Mogul Corporation D147.
 Torvaal T204
@@ -4658,7 +4659,8 @@ Bardes Corporation B37
 Bio Systems, Inc B201
 Boice Paint Co B249
 Breneman, Inc B293
-Bristol-Myers Company Drackett Research and Development Laboratory B3O3.7 F C Broeman & Co B312
+Bristol-Myers Company B3O3
+F C Broeman & Co B312
 Buckeye Products Co B347
 Carlisle Corporation C69
 The Cincinnati Butchers Supply Company C232
@@ -4670,11 +4672,12 @@ Cincinnati Sub-Zero Products, Inc C237
 Clopay Corporation C277
 Crossbow, Inc C524
 CTL-Dixie, Inc C543
-Custom Coated Products Inc C56O D’Agostino-Yerow Sc Associates Inc D6
+Custom Coated Products Inc C56O
+D’Agostino-Yerow Sc Associates Inc D6
 Dames & Moore-Cincinnati DI
 Diamond International Corporation Laboratory DI
 Dosimeter Corporation of America D219
-Drackett Company B3O3.6 Eagle-Picher Industries, Inc E5
+Eagle-Picher Industries, Inc E5
 Empire Products, Inc E157
 Environmental Enterprises, Inc E236
 Fibre Glass-Evercoat Co, Inc F53
@@ -4741,7 +4744,7 @@ Blunden and Barclay Architects B241
 Brook Park Laboratories, Inc B319
 Chalfant Manufacturing Co C150
 Champion Commercial Industries C153
-Clev-Dent Division C1O4.8 The Cleveland-Cliffs Iron Company C267
+The Cleveland-Cliffs Iron Company C267
 Cleveland Crystals, Inc C268
 Cleveland Metal Abrasive Inc C271
 Clinesmith Supply Sales Inc C273
@@ -4749,7 +4752,7 @@ Coatings Research Group, Inc C288
 Coaxial Dynamics Inc C291
 Columbia Chemical Corporation C321
 Day-Glo Color Corporation D59
-Digital General Coq> D176
+Digital General Corp D176
 The Dilley Manufacturing Co DI81
 Ernest F Donley’s Sons, Inc D213
 Durkee Foods SI
@@ -4759,7 +4762,8 @@ Electus Corp E132
 Empire Plating Co El56
 Encrcon Systems Inc E166
 Erico Products, Inc E270
-Excelsior Varnish Inc E3O7 Facilities Planning Service, Inc F5
+Excelsior Varnish Inc E3O7
+Facilities Planning Service, Inc F5
 Ferro Corporation F44
 Foam Seal Inc Fl
 Forestek Plating & Manufacturing Co F126
@@ -4772,7 +4776,6 @@ Glidden-Durkee Division SI
 Glidden Metals Group SI
 The Hanna Mining Company H27
 Herron Testing Laboratories, Inc H121
-OHIO 653
 Hibner Prt^ucts Manufacturing, Inc H140
 Horizons Research Inc Hl89
 Industrial Technological Associates, Inc 167
@@ -4784,7 +4787,7 @@ Lamports Company L24
 Lamson & Sessions Co L25
 Lectroetch Company L70
 Life Systems, Inc LI09
-Lubriquip Division Engineering Test Laboratory H2OI.5 The Lubrizol Corporation LI80
+The Lubrizol Corporation LI80
 L A Lux Company L191
 Magic American Chemical Corporation M13
 Mandate Corporation M42
@@ -4792,7 +4795,8 @@ Metal Building Interior Products Company M227
 Metalene Chemical Co, Inc M229
 Midland-Ross Corporation M297
 L J Minor Corp M333
-MKM Corporation M35O Mooney Chemicals Inc M386
+MKM Corporation M35O
+Mooney Chemicals Inc M386
 Morrison Products Inc M397
 Motch & Merryweather Machinery Co M406
 Murphy-Phoenix Co M434
@@ -4833,8 +4837,7 @@ The State Chemical Mfg Co S449
 Taskem Inc T20
 Tremco Incorporated T243
 TRW Inc T270
-Main Plant Development Laboratory T27O.5 —	Materials Technology T270.
-Valve Division T27O.8 Ullrao Tool Co U5
+Ullrao Tool Co U5
 Unibus Inc U18
 Van Dorn Co VI5
 Vari-Systems, Inc V27
@@ -4909,7 +4912,6 @@ Comgeneral Corporation C339
 D A P Inc D18
 Dayco Corporation D58
 Dayflex Co D58.
-O —	Dayflex Plastics Div D58.
 Dayton Manufacturing Co D60
 Dayton Pattern, Inc D61
 Dayton Plastics Inc D62
@@ -4923,7 +4925,6 @@ Dynamic Controls, Inc D269
 Economic Research Center, Inc E40
 Electronic Design «fe Production Co E103
 Freund Precision, Inc F171
-Inland Division G71.
 Henize Interactive Control, Inc H108
 Hohman Plating & Manufacturing Inc H167
 Hyde Park Electronics, Inc H252
@@ -4954,7 +4955,8 @@ Aquarium Systems, Incorporated A457
 Die Co, Inc DI64
 Dornback Furnace & Foundry Co D216
 White Motor Corporation W123
-The Hall China Company HIO Electrical Refractories Company HlO.l EDON Plas Tec Corp Pi97
+The Hall China Company HIO
+EDON Plas Tec Corp Pi97
 Elyria Dairies Inc E145
 Kasper Foundry Co K23
 Kelch Manufacturing Corporation K44
@@ -4963,15 +4965,14 @@ Advanced Machine Design Company A75
 Potato Chip Snack Food Association P238
 Cooper Tire and Rubber Company C464
 Kuss Corporation K161
-Marathon Oil
-Company M59
+Marathon Oil Company M59
 Filmtec, Inc F58
 Inc 1142
 Covert Pattern & Manufacturing C491
 Monroe Standard, Inc M379
 Allied Color Industries Inc A195
 Comptrol Inc C355
-Energy Technology, Inc El
+Energy Technology, Inc E187
 Advanced Technology Corp A80
 Frecon Engineering F162
 Kornylak Corporation KI37
@@ -4993,7 +4994,8 @@ KENT Paint Research Institute P25
 Procex, Inc P311
 Glass-Lined Water Heater Co G144
 Magna Research Inc M15
-Rockport Machine & Tool Co R2O5 Scott & Fetzer Company SI24
+Rockport Machine & Tool Co R2O5
+Scott & Fetzer Company SI24
 Trauwood Engineering Co T239
 Alten Foundry & Machine Works, Inc A224
 Anchor Hocking Corporation A368
@@ -5005,11 +5007,12 @@ P&J Manufacturing Co Pl92
 Stomdale Industries, Inc S485
 U S Plastic Corp U81
 Ohio Hoist Mfg Co 038
-M P P Corp S37O.2 J Lorain Electronics Corporation LI
+Lorain Electronics Corporation L157
 Ham Industries, Inc H16
 Pro Quip, Inc P336
 Turbine Power Systems Company T275
-Artesian Industries A5O3 Automated Medical Services of Ohio, Inc A585
+Artesian Industries A5O3
+Automated Medical Services of Ohio, Inc A585
 Benchmark Systems Bl27
 The Gorman-Rupp Company G165
 Edward T Meehan and Associates Ml94
@@ -5029,11 +5032,11 @@ Central States Can Co VI
 Ohio Paper Products Company VI
 The Andersons A381
 RPM Inc R246
-Wil-Fil
-Manufacturing Co W133
+Wil-Fil Manufacturing Co W133
 Country Squire Ceramic Mfg & Supply C489
 Diku, Inc DI80
-Fluid Controls, Inc FlOl GIo-Quartz Electric Heater Co G151
+Fluid Controls, Inc FlOl
+GIo-Quartz Electric Heater Co G151
 Ohio Goggles Inc 037
 Russell Burdsall & Ward Corporation R258
 Amatool Corp A234
@@ -5050,18 +5053,21 @@ City Fire Equipment Co C245
 General Color & Chemical Co G48
 Structural Stoneware Inc S511
 Powers Fiat Corp P252
-Automatic Feed Co A59O Fyrepel Products, Inc F191
+Automatic Feed Co A59O
+Fyrepel Products, Inc F191
 Poly-Carb, Inc P216
 Micro Tool Service Inc M284
-Waldorf Marking Devices, Inc WIO Kaple Lumber Co Inc Ki7
-J OHIO (cont) RMI Company R185
+Waldorf Marking Devices, Inc WIO
+Kaple Lumber Co Inc Ki7
+RMI Company R185
 Gunning Refractories, Inc G232
 The Hoover Company Hl84
 Industrial Inspection Industries, Inc 159
 Premix, Inc P283
 Gunzelman Industries G233
 Chemical Methods Inc Cl84
-L C Smith Co S27O i- ■ North American Science Associates, Inc N141
+L C Smith Co S27O
+North American Science Associates, Inc N141
 Gilford Instrument Laboratories Inc G132
 Flo-Tork, Inc F96
 Ohio Oscillator Co 040
@@ -5096,16 +5102,15 @@ The Tile-Tite Corporation T179
 Shawnee Chemicals SI84
 Barium and Chemicals, Inc B40
 Cleveland Cutter & Reamer Co C269
-SCM Corporation Glidden Coatings and Resins Research, Dwight P Joyce Research Center SI
-Foods Research, Dwight P Joyce Research Center SI
-Van Dom Plastic Machinery Co VI
+SCM Corporation S119
+Van Dorn Co V15
 Bry-Air, Inc B341
 Voit Fiberglass Mfg V77
 Autotec, Inc A599
 Contract Laboratories Associates C437
 Energystics, Incorporated El85
 Seneca Environment Products, Inc SI56
-TIPP CITY Dolly Toy Co, Inc D210
+Dolly Toy Co, Inc D210
 Barrett Battery, Inc B52
 Champion Spark Plug Company Cl56
 Conforming Matrix Corporation C395
@@ -5120,7 +5125,6 @@ Mervin N Levey Company L9I
 Libbey-Owens-Ford Company L102
 McDonnell, Proudfoot & Associates, Inc Ml58
 Midland-Ross Corporation Research and Development Laboratory M297.
-OKLAHOMA 657
 National Seed Testing Service N56
 National Super Service Co N62
 Owens-Coming Fiberglas Corporation 0115
@@ -5140,11 +5144,9 @@ Superior Spinning & Stamping Co S551
 Toledo Timer Mfg Co T199
 Ajax Magnethermic Corp A149
 American Welding & Manufacturing Company A320
-Denton & Anderson Co DI
-T-W Welding & Induction Heating Laboratory DI
+Denton & Anderson Co D113
 Heltzel Co H103
 Rare Corporation R42
-The Taylor-Winfield Corporation DI
 Waterville Machine Co, Inc W42
 The Barber Corporation B31
 Rexarc Incorporated R141
@@ -5157,7 +5159,8 @@ Capsulated Systems Incorporated C58
 Charles F Kettering Research Laboratory K72
 Vemay Laboratories, Inc V42
 Webb Associates, Inc W56
-Yellow Springs Instrument Co, Inc YlO General Extrusions, Inc G57
+Yellow Springs Instrument Co, Inc YlO
+General Extrusions, Inc G57
 Industrial Steel Co 166
 Mathews Research M132
 George A Mitchell Co M344
@@ -5169,9 +5172,9 @@ Hobart Corporation Hl60
 Prototype Technology Inc P342
 Harad Chemical Co, Inc H32
 Platers Supply Co P203
-Race. Chemical Equipment Corp R3
-VALLEY CITY Joseph Adams Corp A49
-VALLEY VIEW Cleveland Machine Controls, Inc C270
+Race Chemical Equipment Corp R3
+Joseph Adams Corp A49
+Cleveland Machine Controls, Inc C270
 Lake Shore Cryotronics, Inc L20
 M P Odell Co 029
 Zimmite Corporation Z13
@@ -5200,18 +5203,15 @@ Kerr-McGee Technical Center K69.
 Moutrey & Associates, Inc M414
 Oklahoma Medical Research Foundation 049
 Smico Corporation S263
-PONCA CITY Continental Oil
-Fibercast Company, Development Laboratory LI
 Fluid Properties Research, Inc F103
 Aeromet, Inc A98
 Amicor Inc A331
-Leslie Brooks &. Associates, Inc B32O Burtek, Inc B375
+Leslie Brooks &. Associates, Inc B32O
+Burtek, Inc B375
 CCI Corporation Cl09
 Cities Service Company C242
 Cobbs Engineering, Inc C292
 Geophysical Research Corporation G98
-Gulf Oil
-Corporation Kewanee Oil
 Erling Helland Associates HlOO Hemphill Corporation H105
 Mapco Inc M54
 Oliphant Labs, Inc 054
@@ -5256,7 +5256,7 @@ Northwest Testing Labs, Inc N161
 Omark Industries, Inc 056
 Swan Wooster Engineering, Inc S565
 Bioproducts, Inc B195
-WEST LINN Crown Zellerbach Printing Paper Development Laboratory C53O.5 Geo W Bollman & Co, Inc B251
+Geo W Bollman & Co, Inc B251
 Air Products and Chemicals, Inc A144
 The Lehigh Valley Laboratories, Inc L79
 Zivic-MiJIer Laboratories, Inc Z17
@@ -5380,8 +5380,6 @@ Dodge Cork Co, Inc D206
 International Signal & Control Corp 1191
 Lancaster Laboratories, Inc L26
 American Electronic Laboratories, Inc A268
-PENNSYLVANIA 661
-Gulf Adhesives Gulf Oil
 J W Rex Company R142
 The Simco Company Inc S237
 Kennametal Inc K60
@@ -5507,8 +5505,7 @@ Fisher Scientific Company F74
 Flame Research, Inc (Field Laboratories for Mining & Energy) F82
 Frumerman Associates, Inc Fl83
 Graphic Arts Technical Foundation G182
-Gulf Oil
-Corporation G223
+Gulf Oil Corporation G223
 Hall Industries Inc H14
 H J Heinz Company H92
 Heinz USA Division H92
@@ -5541,13 +5538,11 @@ Vesuvius Crucible Company V48
 Watson-Standard Company W47
 Rust Chimney Division Wl
 Wheeling-Pittsburgh Steel Corporation W117
-White Consolidated Industries, Inc Blaw-Knox Foundry & Mill
 American Bioculturc, Inc A252
 Scott Environmental Technology, Inc SI23
 Betz-Converse-Murdoch Inc Bl59
 James G Biddle Company Bl68
 ECRI E48
-PENNSYLVANIA 663
 STV Engineers, Inc S518
 Richard S Cowan & Associates, Inc C492
 Fabric Development, Inc F3
@@ -5577,7 +5572,8 @@ Nuclide Corporation N182
 Rectech, Inc R66
 Ruetgers-Nease Chemical Co, Inc R255
 Scientific Systems, Inc SI
-Stroudsburg Research Associates, Inc S5O7 Fox Research & Library Service F144
+Stroudsburg Research Associates, Inc S5O7
+Fox Research & Library Service F144
 Hamlin &. Morrison H17
 ALCO Standard Corporation A173
 C-E Refractories C335.
@@ -5670,7 +5666,6 @@ Technic Inc T63
 Textron Inc T140
 Crystalite Embedments, Inc C534
 Lancer Chemical Inc L27
-EGt&G, Inc Sealol Group E68.
 International Machine & Tool Corp 1175
 Leesona Corp L75
 Microbiological Sciences, Inc M264
@@ -5682,7 +5677,7 @@ Anchor Continental Incorporated A367
 Columbia Organic Chemicals Co, Inc C325
 Lindau Chemicals Inc LI
 TENNESSEE 665
-FORT MILL Spring Mills, Inc S410
+Spring Mills, Inc S410
 Terra Corporation T117
 Graniteville Company G180
 Dan River Inc Di7
@@ -5692,7 +5687,8 @@ Pope Brace Products Development Laboratory W26.
 Sonoco Products Company S327
 CTI Education Products, Inc C542
 Baumlanda Research Laboratory B76
-Scovill Manufacturing Company Sewing Notions Division S13O.5 Young Engineering, Inc Y18
+Scovill Manufacturing Company S13O
+Young Engineering, Inc Y18
 Pierce & Harris Engineering Co, Inc Pl77
 RAPID CITY Bell, Galyardt & Wells, Inc Bl
 Dunham Associates, Inc D246
@@ -5721,11 +5717,10 @@ Chapman Chemical Company C158
 Conwood Corporation C454
 Ramcon, Inc R27
 Aladdin Industries, Inc A157
-Structural Engineering Department A6O1.3 Bonitron, Inc B256
+Bonitron, Inc B256
 Northern Telecom, Inc N151
 Waste Water Engineers, Inc W33
 American Magnetics, Inc A290
-EG&G, Inc Instrument Group E68.
 Tennelec, Incorporated Till
 Carson and Associates, Inc C84
 Micro Craft, Incorporated M266
@@ -5737,10 +5732,11 @@ Accelerators, Inc A17
 Are Inc A47I
 Association for the Understanding of Man A532
 Astro Mechanics, Inc A539
-Austin Research Associates, Incorporated Austin Science Associates, Inc A578
+Austin Research Associates, Incorporated A577
+Austin Science Associates, Inc A578
 Austron, Inc A579
 Barnes & Co B44
-Camp Dresser & McKee Inc Water Resources Engineers, Inc C4B.5 Columbia Scientific Industries Corporation C329
+Columbia Scientific Industries Corporation C329
 Dynastat, Inc D277
 Educational Development Corporation E57
 The Electro-Mechanics Company E96
@@ -5763,15 +5759,15 @@ Wheeler, Ledesma, Toews, and Associates, Inc Wii6
 While Instruments, Inc W121
 Helena Laboratories H95
 Custom Controls Company C562
-Cosden Oil
 Pan American Laboratories, Inc P36
 Spencer J Buchanan & Associates, Inc B344
-LGL Limited—U S Inc LlOl Research Equipment Company, Inc Rill
+LGL Limited—U S Inc LlOl
+Research Equipment Company, Inc Rill
 Soil Mechanics Incorporated S286
 Jay Carter Enterprises, Inc C85
 Southland Cryogenics, Inc S344
 Tetradyne Corp T127
-CEDAR HILL Agro-City Inc A125
+Agro-City Inc A125
 Bath Electrical Systems, Inc B71
 Tereco Corporation T116
 Celanese Corporation Technical Center Cl
@@ -5828,9 +5824,9 @@ Bettina Creations, Inc Bl58
 The Morrison Milling Company M396
 El Paso Environmental Systems, Incorporated EI42
 Photon Power, Inc Pl63
-Del Norte Technology, Inc DlOl Hurst Metallurgical Research Laboratory, Inc H246
+Del Norte Technology, Inc DlOl
+Hurst Metallurgical Research Laboratory, Inc H246
 Alcon Laboratories, Incorporated A170
-TEXAS 667
 Coastal Ecosystems Management, Inc C284
 Industrial Laboratories 160
 Jemco, Inc J23
@@ -5839,10 +5835,8 @@ Radiation Research Associates, Inc R9
 Ranger Engineering Corp R37
 Research Services Corporation R119
 Skyline Industries, Inc S257
-The Dow Chemical Company Texas Division Research and Development D223.
-O Ergonomics Research E269
-Litton Industries, Inc Galveston Laboratory L134.
-O Carroll Company C81
+Ergonomics Research E269
+Carroll Company C81
 General Electrodynamics Corporation G55
 Marlow Industries, Inc M92
 Richardson Delta Engineers, Inc R158
@@ -5884,24 +5878,22 @@ Geosource Inc G109
 Getty Oil
 Glenco Scientific, Inc G148
 Grice Ocean Engineering, Inc G207
-Gulf Oil
 Gulf Resources & Chemical Corporation G225
 Herco H115
 Horvitz Research Laboratories, Inc H192
 Houston Atlas, Inc H20
-Houston Research Inc H2O6 HSI-Houston Scientific International, Inc H211
+Houston Research Inc H2O6
+HSI-Houston Scientific International, Inc H211
 Hughes Tool Co H224
-Hycel, Inc H25O Industrial Metal Finishing Company 162
+Hycel, Inc H25O
+Industrial Metal Finishing Company 162
 Institute for Research, Inc 1114
 Intercomp Resource Development and Engineering, Inc 1149
 International Pipeline Engineers, Inc 1181
 Kemlon Products & Development Co K54
-Koch Oil
-Litton Resources Systems LI
 Lockwood, Andrew & Newman, Inc L143
 Logic Systems, Inc LI48
 Lynes Incorporated Bl
-Magna Houston Product Development and Technical Service Bl
 F H Maloney Co M30
 Marathon Manufacturing Company M58
 Maurer Engineering, Inc M138
@@ -5921,7 +5913,8 @@ Pearsall Chemical Corporation P90
 Pennzoil Company P109
 Petro-Tex Chemical Corporation Pl30
 Polyhedron Laboratories P219
-The Process Co, Inc P3O5 P S I Inc P345
+The Process Co, Inc P3O5
+P S I Inc P345
 Purvin & Gertz, Inc F36I
 Quanex Corporation Q12
 Quantum Electronics Corporation Q19
@@ -5930,11 +5923,11 @@ RF Laboratories RI47
 Rice Center for Community Design & Research R153
 Ruska Instrument Corporation R257
 Sage Engineering & Valve Co S7
-S & B Engineers; rne-S52
-Scientific Glass & Instruments, Inc SlOl Semco, Inc S161
+S & B Engineers,Inc S52
+Scientific Glass & Instruments, Inc SlOl
+Semco, Inc S161
 Shanahan-Holt Associates S174
-Shell Oil
-Company S191
+Shell Oil Company S191
 Sigma Corporation S22I
 Southwestern Laboratories, Inc S352
 Southwest Systems Engineering, Inc S355
@@ -5954,22 +5947,20 @@ Zapata Haynie Corp Z1
 Alkan USA, Inc A183
 Consultants International, Inc C415
 Life Sciences, Inc L108
-TEXAS (cont) Northrup, Inc N155
+Northrup, Inc N155
 Organic Products Company 089
-Pepsico, Incorporated Frito-Lay Research Laboratory Pl
-KARNES CITY Red Ewald Inc E301
+Pepsico, Incorporated P113
+Red Ewald Inc E301
 Ana-Lab Corporation A346
 Radiocarbon, Ltd R15
-Texas Eastman Company, Research & Development Laboratory E2O.5 Caprock Computing Systems C57
+Caprock Computing Systems C57
 Scalise & Co, Inc S53
-Coquina Oil
 DHV, Inc D148
 James W Martin & Associates MI02
 Triangle Engineers & Designers T246
 I Continental Products of Texas C433
 Aer-Aqua Laboratories Inc A90
 J&J Marine Diving Company J37
-Pioneer Hi
 Turtle Cove Laboratory, Inc T279
 Commerical Shrimp Culture International C341
 Texas-US Chemical Company T135
@@ -5992,14 +5983,13 @@ Scott & White Memorial Hospital and Scott, Sherwood & Brindley Foundation S129
 Research and Education Division, Research Department S329
 East Texas Testing Laboratory, Inc E22
 Process Systems International, Inc P310
-Quest Research International, Inc P31O.2 Pioneer Hi
 WACO American Solar King Corp A312
 Engineering Technology, Inc E206
 Hastings Analytical Laboratory H60
 Marche Instruments, Inc M63
 Slurry Seal, Inc S26I
 Southwest Welding Co S357
-UTAH The Consortium Inc C412
+The Consortium Inc C412
 Microbiological Research Corporation M262
 Mecca Electronics MI78
 Porphyrin Products P231
@@ -6035,7 +6025,7 @@ TerralabTllS Terra Tek, Inc T122
 Utah Research and Development Co, Inc U85
 Wengler Laboratories W80
 Beehive Machinery, Inc BI03
-SPANISH FORK American Chemical & Research Laboratories A259
+American Chemical & Research Laboratories A259
 PARALAB P46
 Company J15
 Tansitor Electronics, Inc T13
@@ -6047,14 +6037,16 @@ NORTH TROY Applied Research and Development, Inc A439
 Materials Management Systems Inc M120
 Dubois and King, Inc D238
 Fairbanks Weighing Division C319.
-O Bio-Tek Instruments Incorporated B2O8 Dimetrodon DI84
+Bio-Tek Instruments Incorporated B2O8
+Dimetrodon DI84
 North Wind Power Company, Inc N162
 Vermont Manufacturing Corporation V40
 Advanced Design Corporation A71
 Allen Corporation of America A187
 Atlantic Research Corporation A557
 Commonwealth Scientific Corporation C344
-Edaw, Inc E5O.2 Essex Corporation E280
+Edaw, Inc E5O
+Essex Corporation E280
 General Systems Corporation G81
 Gky & Associates, Inc G139
 Group Seven, Inc G21i
@@ -6241,7 +6233,6 @@ Mathematical Sciences Northwest, Inc M130
 Paccar Inc P2
 Glenayre Electronics, Inc G147
 Art Anderson Associates, Inc A372
-Crown Zellerbach Central Research C53O.1 
 Weyerhaeuser Company W111
 Diversified Design Inc DI90
 Ekistics Design Group, Inc E74
@@ -6282,7 +6273,7 @@ Northwest Laboratories of Seattle, Inc N159
 Nuclear Pacific, Inc NI76
 Opinion Research 069
 Pacific Northwest Research Foundation P14
-People Space Interaction Pl
+People Space Interaction P112
 Ross Laboratories, Inc R229
 Seattle Research & Development Co S145
 Shannon and Wilson, Inc SI76
@@ -6291,7 +6282,8 @@ Simpak Corporation S241
 Simpson Timber Company S244
 Slope Indicator Company S260
 Sweden Freezer Manufacturing Co S567
-Towne, Richards and Chaudiere, Inc T2O9 Turner Industries T277
+Towne, Richards and Chaudiere, Inc T2O9
+Turner Industries T277
 Univar Corporation U53
 Virginia Mason Research Center V63
 Washington Chain and Supply Inc W31
@@ -6314,7 +6306,7 @@ O Aesir Engineering Corporation All
 Tradet Laboratories, inc T220
 Harnischfeger Corporation H46
 Murphy Products Company, Inc M435
-CLEAR LAKE Nova Tran Corporation N167
+Nova Tran Corporation N167
 Ladish Co L15
 Comprehensive Planning Services (C P S) C353
 Silicon Sensors, Inc S232
@@ -6343,8 +6335,8 @@ Baker Manufacturing Company B13
 Community Training and Development, inc C347
 Giddings & Lewis Inc G129
 Akerlow Industries, Inc A152
-WISCONSIN 673
-Broan Mfg Co, Inc B3O9 Milwaukee Food Laboratories Inc M322
+Broan Mfg Co, Inc B3O9
+Milwaukee Food Laboratories Inc M322
 Norland Associates, Inc N132
 The Parker Pen Company P56
 Regal Ware, Inc R78
@@ -6403,10 +6395,11 @@ Kurth Malting Corporation KI59
 Lee Foundation for Nutritional Research L72
 Medalist Industries Inc Ml86
 Mid America Microanalysis Lab Inc M293
-Milprint Inc, Research and Development Department P15O.8 Morgen Design Inc M393
+PHILIP MORRIS INCORPORATED P15O
+Morgen Design Inc M393
 Nitragin Corp N119
 The Oilgear Company 046
-Outboard Marine Corporation Research Center OliO.i Pabst Brewing Company Pl
+Pabst Brewing Company Pl
 Rexnord Inc R143
 Safway Steel Products A566.
 O Jos Schlitz Brewing Company S71
@@ -6430,9 +6423,10 @@ Twin Disc Incorporated T283
 Walker Manufacturing Company Tl
 Young Radiator Company Y2I
 Kohler-General, Inc KI26
-Bucyrus-Erie Co B35O R Slresau Laboratory, Inc S501
+Bucyrus-Erie Co B35O
+R Stresau Laboratory, Inc S501
 Nelson Industries, Inc N75
-STURGEON BAY R A Steam, Inc S454
+R A Steam, Inc S454
 Edstrom Industries, Inc E56
 Menasha Corp M2O5
 Fred Portz, Jr & Assoc P236
@@ -6444,7 +6438,7 @@ Wamco Lab Inc W19
 H N B Consulting Engineers Hl58
 Ideal Aerosmith, Inc 110
 Park Energy Company P54
-PUERTO RICO Spectron, Inc S393
+Spectron, Inc S393
 Water Services Caribbean, Inc W40
 Syncor Industries Corporation S581
 Inco Limited I35
@@ -6457,6 +6451,3 @@ Dames & Moore D11
 Magnachem Ltd, Tekchem Ltd Bl
 Richardson-Merrell Inc R161
 Yardley of London, Ltd Y5
-E I DuPont De Nemours & Company, Incorporate Neu Isenburg Research and Development Laboratory D252.
-Eltra Corporation Mergenthaler Linotype GmbH E144.
-Emhart Corporation ACMA SpA E151.
