@@ -31,7 +31,7 @@ Human Resources Co H229
 Lowell Observatory L172
 Museum of Northern Arizona, Inc M436
 Hydroculture, Inc H258
-Solar Lighting Research S305 
+Solar Lighting Research S305
 R E Enterprises R75
 Solar Dynamics of Arizona S296
 Consolidated Laboratories, Inc C407
@@ -98,7 +98,7 @@ Mountain States Mineral Enterprises, Inc M412
 Optical Electronics, Inc O75
 Patterson Engineering Inc P76
 The Carlson Company C71
-Avian Consultation and Research Inc A6O3 
+Avian Consultation and Research Inc A6O3
 Robert E Babcock B2
 Baldor Electric Company B15
 Southwest Engineering S348
@@ -1389,7 +1389,7 @@ Marstan Chemical Laboratory M99
 Marine Resources, Inc M79
 DSS Engineers, Inc D237
 Leo Goodwin Institute for Cancer Research G161
-Horizons Research Laboratories, Inc H190fr 
+Horizons Research Laboratories, Inc H190fr
 Houdaille Industries, Inc H201
 Modular Computer Systems, Inc M36I
 OKI Electronics of America, Inc 048
@@ -1916,7 +1916,6 @@ Cummins Engine Company, Inc C547
 JTI Corporation J65
 Indiana Ordnance, Inc 144
 CTS Corporation C545
-Mead Johnson & Company B3O3.1O 
 Pathology Laboratory Services P70
 Red Spot Paint & Varnish Co, Inc R71
 Bowmar Instrument Corporation B277
@@ -1935,7 +1934,6 @@ Brulin & Company, Inc B335
 Citizens Gas & Coke Utility C243
 Eagle Magnetic Company, Inc E4
 Eli Lilly and Company El
-General Motors Corporation Gas Turbine Research and Development-T22
 Indianapolis Center for Advanced Research, Inc 145
 Lubricant Consultants, Inc LI79
 M & E Engineering Service, Inc MI96
@@ -2184,7 +2182,7 @@ Insect Control & Research, Inc 1104
 ITC, Inc 1229
 J G Engineering Research Associates J33
 Jotun-Baltimore Copper Paint Co J61
-Environmental Elements Corp KUS.3 
+Environmental Elements Corp KUS.3
 Locke Insulators Inc L141
 Machinecraft, Inc M4
 Maps Incorporated M57
@@ -2349,7 +2347,7 @@ B-K Dynamics, Inc B222
 Capital Systems Group, Inc C52
 Controlled Environment Systems, Inc C445
 Cosmos, Incorporated C484
-Denro Laboratories, Incorporated DUO 
+Denro Laboratories, Incorporated DUO
 Digital Graphics Incorporated DI77
 Doty Assoicates, Inc D220
 Electronics For Life Sciences, Inc El
@@ -2471,7 +2469,7 @@ Bedford Computer Systems, Inc B97
 Bedford Research Associates B98
 Computervision Corporation C377
 Epsilon Laboratories Inc E264
-Environmental Sciences Associates, Inc 
+Environmental Sciences Associates, Inc
 E S A Laboratories, Inc E274
 Fanny Fanner Candy Shops, Inc Fl7
 Film Facts Engineering, Inc F55
@@ -2606,7 +2604,7 @@ Orion Research Incorporated 094
 Polaroid Corporation P210
 Precision & Quality Research Systems P275
 Project Software & Development, Inc P332
-Rockford Research Inc R2CX) 
+Rockford Research Inc R2CX)
 Scientific Model, Inc SI04
 Scientific Systems, Inc Sill
 Simpson Gumpertz & Heger Inc S242
@@ -2643,7 +2641,7 @@ CHESTNUT HILL Clinique Cytology Screening Service, Inc C276
 Mercury Plastics Corporation M211
 Bird & Son, Inc B212
 Hollingsworth & Vose Company H171
-Avco Medical Products, Inc A6O1.8 
+Avco Medical Products, Inc A6O1.8
 Datalogic-Rust Company D28
 Gaulin Corp G29
 Tensitron, Inc T113
@@ -2958,9 +2956,8 @@ The Detroit Edison Company D131
 Harry W Dietert Co DI65
 Flint Ink Corporation F91
 Fruehauf Corporation Fl82
-General Motors Corporation G7I
 Greening Associates, Inc G199
-McCord Corporation E3O6.5 
+McCord Corporation E3O6.5
 The Merrill-Palmer Institute M218
 Michigan Cancer Foundation M256
 National Testing & Research Laboratory Inc N63
@@ -2970,7 +2967,7 @@ Inc Pl80
 J M Richards Laboratory Inc R156
 St Clair Rubber Co Sil
 Stan Sax Corp S50
-United Technologies Corporation Automotive Refinish Products U5L15 
+United Technologies Corporation Automotive Refinish Products U5L15
 Wall Colmonoy Corp Wl
 Merritt Enterprises, Inc M222
 Symtec, Inc S579
@@ -3078,7 +3075,7 @@ Fuel Control Corp Fl84
 General Mills, Inc G70
 Graco Inc G174
 Hanley Associates, Inc H25
-Health Education Systems Incorporated-H80
+Health Education Systems Incorporated H80
 Henkel Corporation H109
 Honeywell Inc H181
 I E Associates. Inc 117
@@ -3178,7 +3175,7 @@ United States Safety Service Co U46
 Weldon Laboratory, Inc W75
 Institute for Social Research, Inc 1118
 The Davies-Young Company D49
-Garvey Labelmatic C4O5.3 
+Garvey Labelmatic C4O5.3
 M-R Plastics and Coatings, Inc M4I8
 Design Enterprises D123
 Doty Laboratories, Inc D221
@@ -3301,7 +3298,6 @@ Flash Technology Corp F85
 Nashua Corp N15
 Oceanic Development Company 018
 Sanders Associates, Inc S24
-Sta-Hi
 Phase-R Corporation P144
 New Hampshire Ball Bearings, Inc N92
 GSG, Inc G2I7
@@ -3347,7 +3343,7 @@ Adelphi Industries A61
 Randolph Products Co R34
 Yoo-Hoo Beverage Co Y14
 Adronics, Inc A66
-Bishop Electric G8O.3 
+Bishop Electric G8O.3
 Cedar Knolls Acoustical Laboratories Cl
 Transistor Devices, Inc T231
 Xybion Corporation X12
@@ -3558,7 +3554,7 @@ Haward Corporation H68
 Duro-Test Corporation D255
 Townley Research and Consulting, Inc T211
 Matrix Corporation MI35
-Matrix Instruments, Inc MBS.2 
+Matrix Instruments, Inc MBS.2
 Nicolet Scientific Corporatibh N112
 The Pyrometer Instrument Company P366
 Alpine Geophysical'Associates, Inc A218
@@ -5351,8 +5347,7 @@ R H Hood Co H183
 Chemical Data Systems, Inc C182
 Applications Laboratory Cl
 Daniel H Wagner Associates W2
-Red Hill
-Abrasive Corp R67
+Red Hill Abrasive Corp R67
 Prodesco, Inc P315
 Wilbur Chocolate Co, Inc W130
 LNP Corporation LI39
@@ -5803,8 +5798,6 @@ Anderson, Greenwood & Co A377
 Andreco Corporation A384
 Antek Instruments, Inc A400
 Atec, Inc A548
-Baker International Corp Toting Laboratory Bl
-Baker Packers Research and Engineering Laboratory Bl
 Big Three Industries Inc B170
 Biles and Associates B171
 Bonner & Moore Associates, Inc B257
@@ -6193,7 +6186,7 @@ Environmental Data Center E23I
 Physio-Control Corporation PI71
 F C Radice Research and Development R13
 Rockcor, Incorporated R199
-Sundstrand Data Control, Inc S53O.5 
+Sundstrand Data Control, Inc S53O.5
 Terra Technology Corp T12I
 Holosonics Inc Hl75
 Sigma Research Inc S223
@@ -6394,6 +6387,5 @@ Crompton & Knowles Corporation C521
 General Motors Corporation G71
 Becton, Dickinson & Co B96
 Dames & Moore D11
-Magnachem Ltd, Tekchem Ltd Bl
 Richardson-Merrell Inc R161
 Yardley of London, Ltd Y5
