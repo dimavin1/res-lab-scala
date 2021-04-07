@@ -11,10 +11,9 @@ object GeoCodes1979 {
     val CompanyCodeRgx = """(.*) (.{1,6})$""".r
 
     val in = File(Dir, Year + "-geo-parents-manual.txt")
-    val geoDistinct = File(Dir, Year + "-geo-parents-code-fixed.txt")
-    //    val compSet = mutable.TreeSet[String]()
+    val codeFixed = File(Dir, Year + "-geo-parents-code-fixed.txt")
 
-    geoDistinct overwrite ""
+    codeFixed overwrite ""
 
     val lines = in.lines(DefaultCharset).toList
 
@@ -23,7 +22,7 @@ object GeoCodes1979 {
       map {
         case CompanyCodeRgx(company, code) =>
           val fixed = fixCode(company, code)
-          geoDistinct.appendLine(s"$company $fixed")
+          codeFixed.appendLine(s"$company $fixed")
       }
   }
 
