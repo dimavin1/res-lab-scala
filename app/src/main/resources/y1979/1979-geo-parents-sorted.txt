@@ -1,0 +1,6245 @@
+Don Aadland Engineering A1
+Aetna Life & Casualty A1
+Aerospace Systems, Inc A1
+Aero Tec Labs Inc A1
+Akzona Incorporated A1
+R G Abernethy Industries, Inc A1
+Aerovent inc A1
+Aardvark Instrument Co, Inc A2
+Analytical Development Corporation A3
+Abacus Controls Inc A3
+Amstar Corp A3
+Analytical Methods, Inc A3
+ABA Industries, Inc A4
+Abaris Corporation A5
+Abbott Laboratories A6
+Abbott Transistor Labs, Inc A7
+ABC Digital Electronics A8
+Abco Laboratory, Inc A9
+Irving Abend Associates A10
+R G Abernethy Industries, Inc A11
+Aesir Engineering Corporation A11
+Abrams Aerial Survey Corporation A12
+Abrams Instrument Company A13
+Academy for Educational Development, Inc A14
+Academy of Natural Sciences of Philadelphia A15
+Academy Testing Laboratories, Inc A16
+Accelerators, Inc A17
+Accumetrics Corporation A19
+Accuracy Systems, Inc A20
+A C D Corp A21
+Ace Glass Incorporated A22
+Ace Machining Company A23
+ACETO Chemical Co, Inc A24
+ACF Industries Incorporated A25
+ACG Incorporated A26
+Ackerbauer Laboratories, Inc A27
+Ackerman Bodnar Corp A28
+ACL-Filco Corporation A29
+ACLS Corporation A30
+Acme-Cleveland Corporation A31
+Acme Electric Corporation A32
+Aera Electric Corp A33
+The Acromark Co A34
+Acrometal Products, Inc A35
+Aero Plastics A36
+Action A37
+Action Products, Inc A38
+Acton Research Corporation A39
+Actron A40
+Actuarial Computer Technology, Inc A41
+Actuarial Research Corporation A42
+Acurex Corporation A43
+ADAC Laboratories A44
+Adage, Inc A45
+Adamas Carbide Corporation A46
+Adam Laboratory A47
+Henry Adams Inc A48
+Joseph Adams Corp A49
+Adams Rite Industries, Inc A50
+Adams-Russell Co, Inc A51
+Adaptive Science Corporation A52
+Adaptive Systems Corporation A53
+Adaptronics, Inc A54
+Adapt Service Corporation A55
+A & D Associates A56
+ADB-ALNACO A57
+Adcole Corporation A58
+ADC Products A59
+ADDS Applied Digital Data Systems, Inc A60
+Adelphi Industries A61
+A D G O Inc A62
+Adhesive Products Corporation A63
+GLEN ROCK Adhesives Research, Inc A64
+Adria Laboratories, Inc A65
+Adronics, Inc A66
+Adtech, Inc A67
+Advance Cooler Mfg Corp A68
+Advanced Applications Institute, Inc A69
+Advanced Biofactures Corp A70
+Advanced Design Corporation A71
+Advanced Electronics Design, Inc A72
+Advanced Industries, Inc A73
+Advanced Kinetics, Inc A74
+Advanced Machine Design Company A75
+Advanced Marine Enterprises, Inc A76
+Advanced Mechanical Technology, Inc A77
+Advanced Patent Technology, Inc A78
+Advanced Research and Applications Corp (ARACOR) A79
+Advanced Technology Corp A80
+Advanced Technology Laboratories, Inc A81
+Advanced Technology Labs, Inc A82
+Advanced Transportation Management, Inc A83
+Advance Industries, Inc A84
+Advance Manufacturing Corp A85
+AMI Industries, Inc A86
+Advance Ross Corp A86
+Advent Corporation A87
+Adventures, Inc A88
+Aec-Able Engineering Co, Inc A89
+Aer-Aqua Laboratories Inc A90
+Aer Corp A91
+Aerocomp, Inc A92
+Aeroflex Laboratories Inc A93
+Aeroglide Corporation A94
+Aero-Go, Inc A95
+Aerogon Industries, Inc A96
+Aerolab Supply Company A97
+Aeromet, Inc A98
+Aeronautical Radio, Inc A99
+Aero Nav Laboratories, Inc A101
+Aeronca, Inc A102
+Aerophysics Company A103
+Aerospace Avionics. Inc A104
+The Aerospace Corporation A105
+Aerospace Industrial Associates, Inc A106
+Aerospace Materials, Inc A107
+Aerospace Research Associates A108
+Aerospace Research Corporation A109
+Aerosystems Technology Corp A111
+Aero Tek, Inc A113
+Aerovironment, Inc A116
+AGA Burdox, Inc A120
+Agatha Corporation A121
+Ages Corp A122
+Agricultural laboratories, Inc A123
+Agri-Research Associates, Inc A124
+Agro-City Inc A125
+Agrophysics, Inc A126
+Aguirre Associates A127
+Agway Inc A128
+AHF Marketing Research, Inc A129
+Aids Development Co, Inc A132
+Ainslie Corporation A133
+Airco, Inc A134
+Air Conditioning Corp A135
+Aircraft Technical Service, Inc A136
+Airflo Instrument Company A137
+Airko Manufacturing Co A139
+Air Logistics Corporation A140
+Airolite Co A141
+KENT Air Pollution Systems, Inc A142
+Air Pollution Technology, Inc A143
+Air Products and Chemicals, Inc A144
+Air Resources, Inc A145
+Air Techniques Incorporated A146
+Airtech Systems, Inc A147
+Air Vehicle Corporation A148
+Ajax Magnethermic Corp A149
+A & J Enterprises, Inc A150
+Akens Engineering Co A151
+Akerlow Industries, Inc A152
+Akman Associates, Inc A153
+AKO, Inc A154
+Akron Rubber Development Laboratory, Inc A155
+Akzona Incorporated A156
+Aladdin Industries, Inc A157
+Alaga Whitfield Foods, Inc A158
+A&L Agricultural Labs, Inc A159
+Alaska Analysts A160
+Alaska Testlab A161
+Albany International Corp A162
+Alberto-Culver Co A163
+Albuchemist, Inc A164
+Albuquerque Testing Laboratory, Inc A165
+Alchemis, Inc A166
+The Al-Chem Laboratory, Inc A167
+Alcolac Inc A168
+Alcon Inc A169
+Alcon Laboratories, Incorporated A170
+Alconox Inc A171
+Alcor, Inc A172
+ALCO Standard Corporation A173
+Aldan Rubber Co A174
+Alden Products Co A175
+Alden Self-Transit Systems Corporation A176
+Alderson Research Laboratories, Inc A177
+Aldrich Chemical Company, Inc A178
+Alexander & Baldwin, Inc A179
+Alfano Engineering A180
+Alford Manufacturing Company A181
+ALIN-ACI A182
+Alkan USA, Inc A183
+Alleghany Corporation A184
+Allegheny Ludlum Industries, Inc A185
+Allen-Bradley Company A186
+Allen Corporation of America A187
+Allen Group Inc A188
+Allen Science Research, Inc A189
+Allergan Pharmaceuticals A190
+Alliance Engineering & Research Corp A191
+Alliance, Research & Engineering Corporation A192
+Allied Analytical & Research Laboratories, Inc A193
+Allied Chemical Corporation A194
+Allied Color Industries Inc A195
+Allied Engineering & Production Corp A196
+Allied Mills, Inc A197
+Allied Mineral Products, Inc A198
+Allied Products Corporation A199
+Allied Technology Inc A200
+Allied Witan Company A201
+The Allis-Chalmers Corporation A202
+Alloy Manufacturing Co A203
+All-Tronics, Inc A204
+APEX ALMAY, Inc A205
+Almay Research & Testing Corporation A206
+Alnor Instrument Company A207
+Alox Corporation A208
+Alpha Chemical Corp A209
+Alpha Industries, Inc A210
+Alpha Machine Inc A211
+Alpha Metals Inc A212
+Alpha Research Inc A213
+Alpha Solarco, Inc A214
+Alpha Ultrasonics & Electronics Corporation A215
+Alpha II Inc A216
+Alpine American Corp A217
+Alpine Geophysical'Associates, Inc A218
+Alpine Laboratories, Inc A219
+Alrac Corporation A220
+Altec Corporation A221
+Altek Corporation A222
+Altenburg and Company A223
+Alten Foundry & Machine Works, Inc A224
+Alternative Investments Corp A225
+Alton Box Board Company A226
+Alturdyne A227
+Aluminum Company of America A228
+Alva-Tech Inc A229
+AMAF Industries, Inc A231
+The Amalgamated Sugar Company A232
+Amatech Instrumentation, Inc A233
+Amatool Corp A234
+Amax Inc A235
+Ambassador Enterprises, Inc A236
+Amber Laboratories A237
+AMCA International Corporation A238
+AMDEC A239
+Amdek Corporation A240
+Ameliotex, Inc A241
+Amerace Corporation A242
+Amercom, Inc A243
+American Acrylic Corporation A244
+American Adhesive Products Co A245
+American Agar & Chemical Co A246
+American Aluminum Company A247
+American Bacteriological & Chemical Research Corporation A248
+American Bar Foundation A249
+American Biltrite, Inc A250
+American Bio-Chemical Laboratory, Inc A251
+American Bioculturc, Inc A252
+American Bio-Synthetics Corporation A253
+American Brands, Inc A254
+American Can Company A255
+American Cast Iron Pipe Company A256
+American Chemical Company, Inc A257
+American Chemical & Refining Co, Inc A258
+American Chemical & Research Laboratories A259
+American Chemmate Corporation A260
+American Chemmate Corporation A260
+The American College Testing Program A261
+American Communications Corporation A262
+American Council of Life Insurance A263
+American Cyanamid Company A264
+American Cystoscope Makers, Inc A265
+American District Telegraph Co (ADT) A266
+American Durafilm Co, Inc A267
+American Electronic Laboratories, Inc A268
+American Electronic Service Corporation A269
+American Enterprise Institute for Public Policy Research A271
+American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) A272
+American Gas Association A273
+American Glass Research, Inc A274
+American Hoechst Corporation A275
+American Home Products Corporation A276
+American Hospital Supply Corporation A278
+American Hydrotherm Corp A279
+American Infra-Red Inc A280
+The American Institute of Architects A281
+American Institute of Baking A282
+American Institute of Crop Ecology A283
+The American Institute of Family Relations A284
+American Institute of the History of Pharmacy A285
+American Institutes for Research A286
+American Interplex Corporation A287
+American Justice Institute A288
+American Lecithin Company A289
+American Magnetics, Inc A290
+American Maize-Products Company A291
+American Malleable Castings Co A292
+American Management Associations A293
+American Metaseal Corporation of Maryland A294
+American Motors Corporation A295
+The American Museum Of Natural History A296
+American Mutual Liability Insurance A297
+American Nucleonics Corporation A298
+American Packaging Corp A299
+American Petrofina, Inc A300
+American Petroleum Institute A301
+American Pharmaceutical Co A302
+American Potato Company A304
+American Potato Company A304
+American Precision Industries Inc A305
+American Research & Testing Laboratories A307
+American Science & Engineering, Inc A309
+American Scientific Corp A310
+American Seating Co A311
+WACO American Solar King Corp A312
+American Standards Testing Bureau, Inc A313
+O American Sterilizer Company A314
+American Telephone & Telegraph Company A315
+American Testing Laboratories, Inc A316
+American Thread Co A317
+American Trading And Production Corporation A318
+American Type Culture Collection A319
+American Welding & Manufacturing Company A320
+Americas Development & Research Corporation A321
+Americhem, Inc A322
+Ameron, Inc A323
+The Ames Laboratories Inc A324
+Ames Supply Company A325
+AMETEK, Inc A326
+Amfac, Inc A327
+AMF Incorporated A328
+Amherst Associates, Inc A329
+Amicon Corporation A330
+Amicor Inc A331
+AM International Inc A332
+Ampco-Pittsburgh Corp A333
+Ampex Corporation A334
+AMP Incorporated A335
+Amray Inc A336
+AMR Biological Research, Inc A337
+Amrigon, Incorporated A338
+Amsted Industries Incorporated A340
+Amuedo And Ivey A341
+ADA Amway Corporation A342
+Anachem, Inc A343
+Anadite, Inc A344
+Anagram Corporation A345
+Ana-Lab Corporation A346
+Analogic Corp A347
+Analog Technology Corporation A348
+Analysis & Computer Systems, Inc A349
+Analysis & Technology, Inc A350
+Analyst Consulting Labs, Inc A351
+Analysts, Inc A352
+Analytic Advisory Group, Inc A353
+Analytical and Computational Mathematics, Inc A354
+Analytical Biochemistry Laboratories, Inc A355
+Analytical Mechanics Associates, Inc A357
+Analytical Research Associates, Inc A359
+Analytical Research Laboratories, Inc A360
+Analytical Systems Engineering Corporation A361
+Analytical Technology Laboratories Inc A362
+Analytics A363
+The Analytic Sciences Corporation A364
+Analytic Services, Inc A365
+Analytic Systems, Inc A366
+Anchor Continental Incorporated A367
+Anchor Hocking Corporation A368
+Anchor Specialty Manufacturing Company, Inc A369
+Andco Environmental Processes, Inc A370
+Andersen Laboratories, Inc A371
+Art Anderson Associates, Inc A372
+Anderson & Associates, Incorporated A373
+ST PAUL Anderson & Berdie Associates, Inc A374
+Anderson, Clayton & Co A375
+Anderson Development Company A376
+Anderson, Greenwood & Co A377
+Anderson Jacobson, Inc A378
+Anderson Laboratories, Inc A379
+The Andersons A381
+Andonian Cryogenics, Inc A382
+Andrea Radio Corp A383
+Andreco Corporation A384
+Andrew Corp A385
+Andrews Paper & Chemical Co, Inc A386
+Andros Incorporated A387
+Andrulis Research Corporation A388
+Angelo Industries, Inc A389
+Angstrohm Precision Inc A390
+Anheuser-Busch, Inc A391
+Animation Arts Associates, Inc A392
+Anken Industries A393
+R B Annis Co A394
+Anodyne, Inc A395
+Anorad Corp A396
+Anoroc Industries, Inc A397
+Anresco, Incorporated A398
+The Ansul Company A399
+Antek Instruments, Inc A400
+Antelman Research Associates A401
+Antenna Research Associates, Inc A402
+Anter Laboratories, Inc A403
+Anti-Hydro Waterproofing Co A404
+Anver Bioscience Design, Inc A405
+A P Circuit Corp A407
+AP Co. Inc A408
+Apeco Corporation A409
+APM Hexseal Corporation A410
+Apollo Chemical Corp A411
+Apollo Lasers, Inc A412
+Apollo Metals, Incorporated A413
+Appalachia Educational Lab, inc A414
+Appleton Mills A415
+Appleton Papers Inc A416
+Applications Technology Associates, Inc A417
+Applied Agricultural Research, Inc A418
+I Applied Biochemists, Inc A419
+Applied Biological Sciences Laboratories, Inc A420
+Applied Biology, Inc A421
+Applied Combustion Technology, Inc A422
+Applied Communication Research, Inc A423
+Applied Controls Co, Inc A424
+Applied Data Research, Inc A425
+Applied Design Co Inc A426
+Applied Devices Corp A427
+Applied Electro Mechanics Inc A428
+Applied Electro Technology, Inc A429
+Applied Energy Company A430
+Airflow Company AUS Applied Hydro-Acoustics Research, Inc A431
+Applied Magnetics Corporation A432
+Applied Management Corporation A433
+Applied Management Sciences, Inc A434
+Applied Materials Inc A435
+STOW Applied Optomechanical Kenetics A436
+Applied Psychological Services, Inc A437
+The Applied Radiant Energy Corp A438
+NORTH TROY Applied Research and Development, Inc A439
+Applied Research Associates, Inc A440
+Applied Research Inc A441
+Applied Research Laboratories of Florida, Inc A442
+Applied Science Associates, Inc A443
+Applied Science Associates, Inc A444
+Applied Science & Engineering, Inc A445
+Applied Science Laboratories, Inc A446
+Applied Solar Technology, Inc A447
+Applied Systems Development Corporation A448
+Applied Systems Technology, Inc A449
+Applied Technology Associates, Inc A450
+Applied Theory, Inc A451
+Applied Urbanetics, Inc A452
+Appli-Mation, Inc A453
+Approved Engineering Test Laboratories A454
+Aquadyne, Inc A455
+Aquafine Corporation A456
+Aquarium Systems, Incorporated A457
+Aqua-Tech, Inc A458
+Aquatic Control, Inc A459
+ARA Corporation A460
+Areal Chemicals Inc A461
+Arcata Corporation A462
+I I r ARC Corporation A463
+Archer Daniels Midland Company A464
+Arch Gear Works, Inc A465
+Archonics Corporation A466
+ARC Laboratories A467
+Arcos Corporation A468
+Arctec, Incorporated A469
+Ardac Inc A470
+Are Inc A471
+Aremco Products, Inc A472
+Arenberg Ultrasonic, Inc A473
+A R F Products, Inc A474
+Aries Consulting Engineers, Inc A475
+Aristocrat Hair Septic Co A476
+Aristo Laboratory Inc A477
+Arizona Chemical Company A478
+Arizona Public Service Company A479
+Arizona Scientific Research A480
+Arkansas Company, Inc A481
+Ark Electronics Corporation A482
+Arkwin Industries, Inc A483
+Arkwright Incorporated A484
+Armada Corporation A485
+Armageddon Chemical Company A486
+Armco Inc A487
+John L Armitage & Co A488
+Armite Laboratories A489
+Armor Elevator Company, Inc A490
+Armstrong Cork Company A491
+The Armstrong Rubber Company A492
+Arnold and O’Sheridan, Inc A493
+Arnold Magnetics Corp A494
+The ARO Corporation A495
+ARP Industries, Inc A496
+Arro Laboratory, Inc A497
+Arrowstreet, Inc A498
+Artcor A499
+Artec Associates Incorporated A500
+Artech Corp A501
+Artek Systems Corporation A502
+Artesian Industries A503
+Artificial Intelligence Corporation A504
+The Artronic Instrument Company A506
+The Arbitron Company C44L1 Asarco Incorporated A510
+Bedrosian and Associates BlOO Asbury Graphite Mills, Inc A511
+ASG Industries, Inc A512
+C R Ashbum Associates Inc A513
+Ashby & Associates A514
+Asheville Plastic Services Inc A515
+Ashland Electric Products, Inc A516
+Ashland Oil Inc A517
+Ash Stevens,Inc A518
+ASI Teleprocessing, Inc A519
+The Asphalt Institute A520
+Asphalt Material & Construction A521
+Associate Consultants, Inc A522
+Associate Control, Research and Analysis, Inc A523
+Associated Analytical Laboratories A524
+Associated Biomedic Systems, Inc A525
+Associated Co A526
+Associated Enterprises A527
+Associated Laboratories A528
+Associated Laboratories, Inc A529
+Associates for Research in Behavior, Inc A531
+Association for the Understanding of Man A532
+Association of American Railroads A533
+Astatic Corp A534
+Astra Pharmaceutical Products, Inc A535
+Astre A536
+Astro Dynamics, Inc A537
+Astro Industries, Inc A538
+Astro Mechanics, Inc A539
+Astro Met Associates Inc A540
+Astronautics Corporation of America A541
+Astropolymer Laboratories, Inc A542
+Astro Research Corporation A543
+Astro Solar Corp A544
+Astro-Space Laboratories, Inc A545
+Astrosystems, Inc A546
+ATE Associates A547
+Atec, Inc A548
+Athena Controls, Inc A549
+Atkinson-Noland & Associates, Inc A550
+Atkins Technical, Inc A551
+Atlantic Chemical Corporation A552
+Atlantic Design Co A553
+Atlantic Optical Moulding Co A554
+Atlantic Powdered Metals, Inc A555
+DREXEL HILL Atlantic Railway Consultants, Inc A556
+Atlantic Research Corporation A557
+Atlantic Richfield Company A558
+Atlantic Science Corporation A559
+Atlantic Ultraviolet Corporation A560
+Atlas Electric Devices Co A561
+Atlas Refinery, Inc A562
+Atlas Testing Laboratories, Incorporated A563
+Atmospheric Science Associates A564
+The Atmos Products Co and Aztec Clay Moistener Co, Inc A565
+A-T-O Inc A566
+Atomergic Chemetals Corporation A567
+Atris Associates Inc A568
+Audioanalyst, Inc A569
+Audiophonics Corporation A570
+Audiotronics Video Display Division, Inc A571
+Audiscan Products Corporation A572
+Audo-Read Systems Inc A573
+Augustana Research Foundation A574
+AUL Instruments, Inc A575
+The Austin Company A576
+Austin Research Associates, Incorporated A577
+Austin Science Associates, Inc A578
+Austron, Inc A579
+Autoclave Engineers, Inc A581
+Autodyne Manufacturing Co, Inc A582
+Automated Energy Systems, Inc A583
+Automated Information Systems, Inc A584
+Automated Medical Services of Ohio, Inc A585
+Dodco, Inc D2O3 Automated Processes, Inc A586
+Automated Sciences Group, Inc A587
+Automatic Coil Corp A588
+Automatic Data Processing, Inc A589
+Automatic Feed Co A590
+Automation Associates, Inc A591
+Automation Counselors, Inc A592
+Automation Displays Inc A593
+Automation Fastening Co, Inc A594
+Automation International Corp A595
+Autometric, Inc A596
+Automotive Environmental Systems, Inc A597
+Autoresearch Laboratories, Incorporated A598
+Autotec, Inc A599
+Autotrol Corporation A600
+Avco Corporation A601
+Avery International A602
+Avian Consultation and Research Inc A603
+Aviation Simulations International A604
+Aviation Transport Systems Inc A605
+Avnet, Inc A6O6 Avon Products, Inc A607
+Axel Plastics Research Laboratories, Inc A609
+Axiom Systems Corporation A610
+Aydin Controls A611
+Ayres Associates A612
+Owen Ayres & Associates A613
+The Azak Corporation A614
+AZL Resources, Inc A615
+Azrex, Inc A616
+AZS Corporation A617
+Bei Electronics, Inc B1
+Edward S Babcock & Sons, Inc B1
+Belfort Instrument Co B1
+Leo Beiser Inc B1
+Belding Heminway Co, Inc B1
+Belar Electronics Laboratory, Inc B1
+Bell, Galyardt & Wells, Inc B1
+Belden Associates B1
+Robert E Babcock B2
+Bach Auricon, Inc B3
+Bacon Industries, Inc B4
+Badger Meter Inc B5
+Badische Corporation B6
+Baganoff Engineering Inc B7
+Jake S Bailey Professional Engineer B8
+Baird Corporation B9
+Baker International Corp B11
+The J E Baker Company B12
+Baker Manufacturing Company B13
+Balchem Corporation B14
+Baldor Electric Company B15
+Baldwin Solar Technologies B16
+Wilson T Ballard Company B17
+Ball Corporation B18
+J R Ballentine & Associates, Inc B19
+Baltimore Instrument Co, Inc B20
+The Baltimore Spice Co B21
+William Bal Corporation B22
+Balzers Corporation B23
+Bandag, Inc B24
+Bangor Punta Corporation B25
+Banite, Inc B26
+Bank Administration Institute B27
+R L Banks & Associates, Inc B28
+Banner Industries, Inc B29
+Barack, Mitchell and Associates B30
+The Barber Corporation B31
+Barber-Nichols Engineering Company B32
+Barclay Chemical Company, Incorporated B33
+Barclay Home Products Inc B34
+C R Bard Inc B35
+The Barden Corporation B36
+Bardes Corporation B37
+Bard Laboratories, Inc B38
+Bardsley & Haslacher, Inc B39
+Barium and Chemicals, Inc B40
+Barkley & Dexter Laboratories, Inc B41
+Lynn L Barnard & Associates B42
+Autech Corp A58O Bamebey-Cheney Co B43
+Barnes & Co B44
+Barnes Engineering Company B45
+Barnes Group, Inc B46
+John S Barnes Corp B47
+Barnes & Reinecke, Inc B48
+Barnett Data Systems B49
+Baron Consulting Co B50
+Barrett & Associates, Inc B51
+Barrett Battery, Inc B52
+Leon J Barrett Co Barrett Centrifugals, Inc B53
+Barrett Electronics Corporation B54
+Barry & Company B55
+Barry Research Corp B56
+R G Barry Corp B57
+Barry-Wehmiller Company B58
+Barry Wright Corporation B59
+Bartell Associates, Inc B60
+Barth Electronics, Inc B61
+Harland Bartholomew and Associates B62
+The F A Bartlett Tree Expert Co B63
+BASF Wyandotte Coporation B64
+Basic Resources Corporation B65
+Basic Technology, Inc B66
+Basic Vegetable Products, Inc B67
+Baskam and Jurczyk, PC B68
+Basler Electric Co B69
+Cyril Bath Co B70
+Bath Electrical Systems, Inc B71
+Battelle Memorial Institute B72
+Battery Power Unit Vehicle Corp B73
+Mark Battle Associates, Inc B74
+D Baugh & Associates, Inc B75
+Baumlanda Research Laboratory B76
+Bausch & Lomb Incorporated B77
+Baxter Travenol Laboratories, Inc B78
+Bay Electric Co, Inc B79
+Bay Laboratories, Inc B80
+Bayshore Systems Corporation B81
+Igor Bazovsky & Associates, Inc B82
+BCI-Geonetics, Inc B83
+Beach-Russ Company B84
+Morris Bean and Company B85
+Bearfoot Corporation B86
+Beatrice Foods Co B87
+Beaunit Corporation B88
+Beck Chemicals Inc B89
+Becker Instruments & Photographic Optics Incorporated B90
+Beckman Instruments, Inc B91
+Mark Beck Associates Inc B92
+Beco Engineering Company B93
+Beco, Inc B94
+Bee Pressure Controls Corp B95
+Becton, Dickinson & Co B96
+Becton, Dickinson & Co B96
+Bedford Computer Systems, Inc B97
+Bedford Research Associates B98
+Bedrock Manufacturing Co B99
+Beech Aircraft Corporation B101
+Beecham Inc B102
+Beehive Machinery, Inc B103
+Beet Sugar Development Foundation B104
+Behavioral Science Research Corporation B105
+Behavior Associates B106
+Behavior Research Center, Inc B107
+Behavior Sciences Education Center B108
+J L Behmer Corporation B109
+Beiersdorf, Inc B111
+Belden Corporation B115
+Belding HEMINWAY CO, INC B116
+Bell & Howell Company B119
+Bellmore-Johnson Tool Co B120
+Beilofram Corp B121
+Beloit Corporation B122
+Bel-Ray Company, Inc B123
+Beltone Electronics Corporation B124
+Beltran Associates, Inc B125
+Bemis Company, Inc B126
+Benchmark Systems B127
+Benco Pet Foods, Inc B128
+The Bendix Corporation B129
+BEND Bend Research, Inc B130
+Benedum Instrument Co B131
+Alfred Benesch & Company B132
+Bennett Pump Company B134
+Bensen Aircraft Corp B135
+Benthos, Inc B136
+Bently Nevada Corp B137
+Benton Corporation B138
+Ben Venue Laboratories, Inc B139
+Berco Industries Corp B140
+Berkeley Custom Electronics B141
+Berkeley Industries, Inc B142
+Berkeley Planning Associates B143
+Berkley & Co, Inc B144
+Berkshire Hathaway Inc B145
+Berk-Tek, Inc B146
+Bernard Food Industries Inc B147
+Bernheim, Kahn & Lozano, Architects, Ltd B148
+Bemz-o-matic Corp B149
+The Berry Group B150
+W F Berry Associates, Inc B151
+Rudolph Besier & Kenneth Gibble Consulting Engineers, Inc B152
+Besser Co B153
+Beta Industries, Inc B154
+The Bethlehem Corporation B155
+Puricons, Inc P36O Bethlehem Steel Corporation B156
+The Better Meat Products Company B157
+Bettina Creations, Inc B158
+Betz-Converse-Murdoch Inc B159
+Betz Laboratories, Inc B160
+Beukers Laboratories, Inc B161
+Bevc Engineering Incorporated B162
+BFH & Associates, Inc B163
+BGS Systems, Inc B164
+The Bibb Company B165
+Bicron Electronics Company B166
+Bicycles & Exotic Energy B167
+James G Biddle Company B168
+Bie-Bemert International Engineers B169
+Big Three Industries Inc B170
+Biles and Associates B171
+Billings Energy Corporation B172
+Binary Systems, Inc B173
+Samuel Bingham Co B174
+Binks Mfg Co B175
+Bio-Acoustical Engineering Corporation B176
+Bio-Analysis B177
+Bioanalytical Systems, Inc B178
+Bio-Chemical Testing Labs B179
+Bio-Dynamics, Inc B180
+Bioenergetics, Inc B181
+Bio-evaluation, Inc B182
+Biofluids, Inc B183
+Bio Industrial Lab B184
+Bio-Lab, Inc B185
+Biolabs, Inc B186
+Biological Services, Inc B187
+Biomeasure, Incorporated B188
+Biomedical Research Institute B189
+Bio-Medical Sciences Inc B190
+Bio-Med, Inc B191
+Biomed Research Laboratories, Inc B192
+The Bionetics Corporation B193
+Bionic Instruments, Inc B194
+Bioproducts, Inc B195
+Bio-Rad Laboratories, Inc B196
+Bio-Research Consultants, Inc B197
+Bio-Search & Development Co, Inc B198
+Biospherics Incorporated B199
+Biosystems Associates, Ltd B200
+Bio Systems, Inc B201
+Biosystems, Inc B202
+Bio-Technical Resources, Inc B204
+Bio-Technics Laboratories, Inc B205
+Biotechnology, Inc B206
+Biotech Research Laboratories, Inc B207
+Bio-Tek Instruments Incorporated B208
+Biotron, Inc B209
+Birdair Structures, Inc B210
+Bird Engineering-Research Associates, Inc B211
+Bird & Son, Inc B212
+Charles Bimstiel Consulting Engineer B213
+Biro Manufacturing Company B214
+Birtcher Corporation B215
+Bishop Engineering Company B216
+Bitrode Corporation B217
+Bituminous Coal Research, Inc B218
+Bituminous Materials Co, Inc B219
+Ira Bitz & Associates, Ltd B220
+Bjorksten Research Laboratories, Inc B221
+B-K Dynamics, Inc B222
+H L Blachford Inc B223
+The Black & Decker Manufacturing Company B224
+Black Enterprise Inc B225
+Blackstone Associates B226
+Blackstone Corporation B227
+Blake Industries, Inc B228
+Ernest E Blanche Consultants B229
+Andrew R Blanck Company B230
+Blank and Wesselink & Associates B231
+Blaser, Zeni & Company B232
+Bleistein Research Company B233
+The BLK Group, Inc B234
+Block Drug Company, Inc B235
+Blocked Iron Corporation B236
+Blocksom & Company B237
+Blood Systems Inc B238
+Blue M Electric Co B239
+Robert C Blumenthal Associates B240
+Blunden and Barclay Architects B241
+Blustein Associates B242
+B & M Associates, Inc B243
+BNR, Inc B244
+Bodine Electric Company B245
+Boehringer Ingelheim Ltd B246
+The Boeing Company B247
+Boise Cascade Corp B248
+Boice Paint Co B249
+Bolin Laboratories, Inc B250
+Geo W Bollman & Co, Inc B251
+Bolme and Associates B252
+Bolt Beranek & Newman, Inc B253
+Borneo Incorporated B254
+Britt Tech Corporation B3O6 Bonewitz Chemical Services, Inc B255
+Bonitron, Inc B256
+Bonner & Moore Associates, Inc B257
+R W Booker & Associates, Inc B258
+Boonton Electronics Corporation B259
+Booth Company B260
+Booz Allen & Hamilton, Inc B261
+Boras Engineering B262
+Borden, Inc B263
+Borders Electronics Co B264
+Borg-Warner Corporation B265
+Borriston Research Laboratories Inc B266
+Henry V Borst & Associates B267
+Bose Corp B268
+Boston Edison Company B269
+Boston Insulated Wire & Cable Co B270
+The Boston Systems Office, Inc B271
+Botanical Consultants, Inc B272
+Botkins Grain & Feed Company B273
+Bouijois Ltd B274
+Bourns, Inc B275
+Bowles Fluidics Corporation B276
+Bowmar Instrument Corporation B277
+Bowser-Momer Testing Laboratories, Inc B278
+Boyce Thompson Institute for Plant Research, Inc B279
+W H Brady Co B280
+Brain Research Laboratories B281
+Bram Metallurgical Chemical Co B282
+Brand, Gruber & Co B283
+Brandywine Research Laboratory, Inc B284
+Branson Aircraft Corporation B285
+Branthoover & Richards, Inc B286
+David Braslau Associates, Inc B287
+C F Braun & Co B288
+Braun Industries, Inc B289
+Breed Corp B290
+Breeders Equipment Co B291
+Breeze Corporations, Inc B292
+Breneman, Inc B293
+Bren-Tronics, Inc B294
+Brentwood Medical Plaza Clinical Laboratory B295
+Breuer Electric Mfg Co B296
+Brewer Engineering Laboratories, Inc B297
+Richard D Brew And Company, Inc B298
+Briggs Engineering Sc Testing Co, Inc B299
+Briggs & Stratton Corp B300
+Bright Star Industries, Inc B301
+Brin-Mont Chemicals, Inc B302
+Bristol-Myers Company B303
+Bri Systems, Inc B304
+E F Britten & Co, Inc B305
+Broan Mfg Co, Inc B309
+William M Brobeck & Associates B310
+Brockway Glass Company, Incorporated B311
+F C Broeman & Co B312
+Brogdex Co B313
+Bromberg Engineering Co B314
+Brookfield Engineering Laboratories, Inc B315
+Brookhaven Research Laboratories B316
+Brookings Institution B317
+Brooklyn Botanic Garden B318
+Brook Park Laboratories, Inc B319
+Leslie Brooks &. Associates, Inc B320
+Brooks & Perkins, Incorporated B321
+Broomer Research Corp B322
+Brower Electronics Laboratories B323
+Arthur S Brown Manufacturing Co B324
+Brown & Brown, Architects B325
+Dayton T Brown Inc B326
+Brown-Devlin Associates B327
+Brownell & Co Inc B328
+Brown Forman Distillers Corp B329
+Robert Brown Associates B331
+Brown & Sharpe Mfg Co B332
+Brown & Williamson Tobacco Corporation B333
+The Brubaker Group B334
+Brulin & Company, Inc B335
+Bruno-New York Industries Corp B336
+Brunson Instrument Co, Inc B337
+Brunswick Corporation B338
+Brunswick Pulp & Paper Co B339
+Bry-Air, Inc B341
+BSL Technology B342
+BTC Laboratories B343
+Spencer J Buchanan & Associates, Inc B344
+Buckeye Fabric Finishing Co B345
+Buckeye International Inc, Steel Castings B346
+Buckeye Products Co B347
+LIMA Buckeye Rubber Products Inc B348
+Buckman Laboratories, Inc B349
+Bucyrus-Erie Co B350
+The Budd Company B351
+Buehler Ltd B352
+Buffalo Testing Laboratories, Inc B353
+Thomas Buffington & Associates, Inc B354
+Bug Electronics, Inc B355
+ELMWOOD PARK Buhl, Inc B356
+Building Technology, Inc B357
+Bull & Roberts, Inc B358
+Bundy Corporation B359
+Bunker Ramo Corporation B360
+Bureau of Social Science Research, Inc B361
+Burgess Industries B362
+Ralph H Burke Associates B363
+Burlan Corp B364
+Burling Instrument Co, Inc B365
+Burlington Industries, Inc B366
+Bumdy Corporation B367
+Burnett Electronics Lab, Incorporated B368
+Bumham Corporation B369
+Burrell Corporation B371
+Burroughs Corporation B372
+Burroughs Wellcome Co B373
+Burt Associates, Incorporated B374
+Burtek, Inc B375
+G F Bush Associates B376
+Business and Technological Systems, Inc B377
+Business Information Service B378
+Business Psychology International B379
+Butler Manufacturing Company B380
+Buxco Electronics, Inc B381
+Bycap Inc B382
+Chematics Research Corp C1
+California Canners And Growers C1
+California Canners And Growers Laboratory C1
+The Ceco Corporation C1
+Cee Kay Engineering Co C1
+Celanese Corporation Technical Center C1
+Celanese Polymer Specialties Company C1
+Cabot Corporation C1
+Celanese Corporation Detroit Automotive Product Development Laboratory C1
+Cemrel, Inc C1
+Cedar Knolls Acoustical Laboratories C1
+Celanese Plastic Materials Company C1
+Charles - Coyle Associates C1
+Celco (Constantine Engineering Laboratories Company) C1
+Celanese Corporation Marketing Technical Development Laboratory C1
+Celanese Research Company C1
+Plastics Research and Development Center C1
+Chase-Logeman Corporation C1
+The Devilbiss Company C1
+Century Testing Laboratories, Inc C1
+Calculon Corporation CIO CDI Corporation C1
+C-Cor Electronics, Inc C1
+Celanese Corporation Technical Center C1
+Celanese Chemical Company, Inc C1
+Caci, Inc C2
+Cadcom, Inc C3
+Caig Laboratories, Inc C4
+BAY CITY Calcinator Corporation C5
+Cal-Colonial Chemsolve, Inc C6
+Calco Ltd C7
+Cal-Compack Foods Inc C8
+Calculogic Inc C9
+California Computer Products, Inc C12
+California & Hawaiian Sugar Company C13
+California Institute of Applied Physics C14
+The California Institute of Earth, Planetary and Life Sciences C15
+California Microwave, Inc C16
+California Optical Research C17
+California Products Corporation C18
+Calista Corporation C19
+Callaway Chemical Company C20
+Callier Center For Communication Disorders C21
+Calmac Manufacturing Corporation C22
+Calocerinos & Spina C23
+Cal-Power Corporation C24
+Calumet Industries, Inc C25
+Calvin Communications, Inc C26
+Campbell Taylor, Inc C27
+Cambion C28
+Cambridge Acoustical Associates Inc C29
+Cambridge Computer Associates, Inc C30
+Cambridge Engineering, Inc C31
+Cambridge Memories, Inc C32
+Cambridge Scientific Industries C33
+Cambridge Thermionic Corporation C34
+Cambridge Wire Cloth Company C35
+Cameron Engineers, Incorporated C36
+Cameron Iron Works, Inc C37
+Campbell Soup Company C38
+Campbell Taggert, Inc C39
+Camp Dresser & McKee Inc C40
+Candex Pacific, Inc C41
+Cannon Associates C42
+Cannon Instrument Co C43
+Cannon Laboratories, Inc C44
+Cannon Mills Company C45
+Cannon-Muskegon Corporation C46
+Canton Stoker Corporation C47
+I G Cantor Inc C48
+Canyon Research Group, Inc C49
+Capex Corporation C50
+Capintcc, Inc C51
+Capital Systems Group, Inc C52
+Capitol Printing Ink Co, Incorporated C53
+Capitol Reproductions, Inc C54
+Capitol Services Incorporated C55
+Cappel Laboratories Inc C56
+Caprock Computing Systems C57
+Capsulated Systems Incorporated C58
+Carbolabs Inc C59
+Carboline Company C60
+Carbonara Laboratories Inc C61
+Carbone Lorraine Industries Corp C62
+Carco Electronics C63
+Cardinal Industries C64
+Cardio-Dynamics Laboratories, Inc C65
+Cargill Inc C66
+Car-Graph, Inc C67
+Carleton Controls Corp C68
+Carlisle Corporation C69
+Carlozzi, Sinton, and Vilkitis, Inc C70
+The Carlson Company C71
+R H Carlson Co, Inc C72
+Carnation Company C73
+Carnegie Institution of Washington Geophysical Laboratory C74
+Carnegie-Mellon Institute of Research C75
+Carolina Biological Supply Co, Inc C76
+R F Caroselli, Product Development Services C77
+Carpco, Inc C78
+Carpenter Technology Corporation C79
+Carrigan Office Trailers, Inc C80
+Carroll Company C81
+Leo J Carroll C82
+ASA Incorporated A5O9 Carr Research Laboratory, Inc C83
+Carson and Associates, Inc C84
+Jay Carter Enterprises, Inc C85
+Carter Manufacturing Corp C86
+Carter-Wallace, Inc C87
+Cartridge Actuated Devices C88
+Cartwright Engineering, Inc C89
+Carus Corporation C90
+Barry Carver & Associates C91
+Cascade Consulting Corporation C92
+Cascade Microwave, Inc C93
+Casde Corporation C94
+Case And Company, Inc C95
+Case, Lowe & Hart, Inc C96
+Castle & Cooke, Inc C97
+Caswell Equipment Co, Inc C98
+PALISADES PARK Catalysis Research Corp C99
+Catalysts and Chemicals Inc C100
+Caterpillar Tractor Co C102
+Caton Connector Corp C103
+Cavitron Corporation C104
+Cayuga Associates, Inc C105
+Cayuga Machine and Fabricating Co, Inc C106
+CBS Inc C107
+CCG, Inc C108
+CCI Corporation C109
+F&B Ceco Inc C113
+F&B CECO Inc C113
+Celanese Corporation C116
+Cello Chemical Co C118
+Cenco Incorporated C120
+Centennial Engineering, Inc C121
+Centerflex Technology Corp C122
+Center for Blood Research, Inc C123
+Center For Communications Inc C124
+Center for Energy and Environmental Studies C125
+The Center for the Environment and Man, Inc C126
+CNTR, Inc C127
+Central and South West Services, Inc C128
+Central Chemical Corporation C129
+Central Engineering Company C130
+The Central Pharmacai Company C131
+Central Scientific Company, Inc C132
+Central Soya Company, Inc C133
+Central States Diversified, Inc C134
+Centrifuge Technology, Inc C135
+Centro Corporation C136
+Century Research Corporation C137
+Ceramic Finishing Company C139
+Cerberonics, Inc C140
+Certain-Teed Corp C141
+Certified Laboratories, Inc C142
+Certified Testing Laboratory, Inc C143
+Certified Testing Labs, Inc C144
+The Cessna Aircraft Company C145
+Cetus Corporation C146
+Cexec, Inc C147
+CFS Continental, Inc C148
+CGR Medical Corporation C149
+Chalfant Manufacturing Co C150
+Chamberlain Manufacturing Corporation C151
+Chambersburg Engineering Company C152
+Champion Commercial Industries C153
+Champion International Corporation C154
+Champion Laboratories, Inc C155
+Champion Spark Plug Company C156
+Channel Industries, Inc C157
+Chapman Chemical Company C158
+Chapman Energy Systems C159
+Charles River Associates Incorporated C161
+Charles River Breeding Laboratories, Inc C162
+Chase & Sons, Inc C164
+Chatham Controls Corp C165
+Chatham Manufacturing Co C166
+Chattem Inc C167
+Chefs Pantry Inc C168
+Chemalloy Electronics Corporation C169
+Chemax Corp C171
+Chemclean Corp C172
+Chemetal Corp C173
+Chemetals Corporation C174
+Chem-Fleur Inc C175
+Chemical Abstracts Service C176
+Chemical and Engineering Associates C177
+Chemical and Geological Laboratories of Alaska, Inc C178
+Chemical and Metallurgical Research, Inc C179
+Chemical Coatings & Engineering Co, Inc C180
+Chemical Commodities, Inc C181
+Chemical Data Systems, Inc C182
+Chemical Forfnulators, Inc C183
+Chemical Methods Inc C184
+Chemical Research Laboratories C185
+Chemical Specialties Mfg Corp C186
+Chemicals Procurement Laboratories, Inc C187
+Chemical Systems Inc C188
+Chemineer, Inc C189
+Chemiquip Products Co Inc C190
+The Chemithon Corporation C191
+Chemlab Service of Amarillo C192
+Chemley Products Company C193
+Chem-Nuclear Systems, Inc C194
+Chemo Dynamics C195
+Chemotronics International, Inc C196
+Chemplast Inc C197
+Chemplex Company C198
+Chemplex Industries, Inc C199
+Chemsampco, Inc C200
+Chem Service, Inc C201
+Chem Systems Inc C202
+Chemtree Corporation C203
+Chemtrix, Inc C204
+Chemtrol Adhesives Inc C205
+Chemtronics, Inc C206
+Chen Industries, Inc C207
+The Chesapeake Corporation of Virginia C208
+Chesebrough-Pond’s Inc C209
+Chessco Industries C210
+Chi Associates, Inc C211
+Chicago Bridge & Iron Company C212
+Chicago Professional Polygraph Center, Inc C213
+Chicago Spectro Service Laboratory, Inc C214
+Chicago Testing Laboratory, Inc C215
+Willard D Childs Consulting Engineer C216
+Chilton Research Services C217
+Chock Full of Nuts Corp C218
+Chomerics, Inc C219
+Christiana Metals Corp C220
+Chroma Chemicals C221
+Chromalloy American Corporation C222
+Chromatix, Inc C223
+Chrometrics Laboratories, Inc C224
+Chromex Chemical Corporation C225
+HIGHLAND PARK Chrysler Corporation C226
+CH2M Hill Inc C227
+Chu Associates, Inc C228
+Chu Associates, Inc C229
+Church & Dwight Company, Inc C230
+Ciba-Geigy Corporation C231
+The Cincinnati Butchers Supply Company C232
+OHIO (cont) Cincinnati Electronics Corp C233
+Cincinnati Gear Co C234
+Cincinnati Gold & Silver Refining Co C235
+Cincinnati Milacron, Inc C236
+Cincinnati Sub-Zero Products, Inc C237
+Circle Plastics Products Inc C238
+Circuit Engineering C239
+Circuit Technology Co, Inc C240
+Cirqtel Inc C241
+Cities Service Company C242
+Citizens Gas & Coke Utility C243
+Citrus World, Inc C244
+City Fire Equipment Co C245
+City Investing Co C246
+City Testing & Research Laboratories, Inc C247
+Civil/Nuclear Systems Corp C248
+C J Enterprises C249
+Claremont Polychemical Corporation C250
+Clark Consolidated Industries Inc C251
+Edward E Clark Engineers-Scientists, Inc C252
+Clarke-Hess Communication Research Corporation C253
+Clark Equipment Company C254
+J L Clark Manufacturing Company C255
+Clark, Mean & Perkins Microanalytical Laboratory C256
+Clark-Schwebel Fiber Glass Corporation C257
+Clark & Slater Associates, Inc C258
+Clarostat Mfg Co, Inc C259
+Clayton Manufacturing Company C260
+Clean Air Engineering, Inc C261
+Clean Energy Research Institute C262
+Clean Room Products, Inc C263
+Clean Water Consultants C264
+Clemco Research, Inc C265
+Clement Laboratories, Inc C266
+The Cleveland-Cliffs Iron Company C267
+Cleveland Crystals, Inc C268
+Cleveland Cutter & Reamer Co C269
+Cleveland Machine Controls, Inc C270
+Cleveland Metal Abrasive Inc C271
+Clevepak Corporation C272
+Clinesmith Supply Sales Inc C273
+Clinical Biochemical Corp C274
+Clinical Sciences, Inc C275
+CHESTNUT HILL Clinique Cytology Screening Service, Inc C276
+Clopay Corporation C277
+The Clorox Company C278
+Clow Corporation C279
+C L W Incorporated C280
+C & M Meteorological Supply C281
+CNR Inc C282
+Coaiex Energy C283
+Coastal Ecosystems Management, Inc C284
+Coastal Environments, Inc C285
+Coastal Modular Corp C286
+Coast Metals, Inc C287
+Coatings Research Group, Inc C288
+Coating Systems, Inc C289
+Coats & Clark Inc C290
+Coaxial Dynamics Inc C291
+Cobbs Engineering, Inc C292
+Cobe Laboratories, Inc C293
+Cobum Corporation C294
+The Coca Cola Company C295
+T H Cocrane Laboratories, Ltd C296
+Codi Corporation C297
+Coe Laboratories, Inc C298
+Daniel J Coffey Associates C299
+Cogas Development Company C300
+Cohen & Pascoe, Inc C301
+Coherent Incorporated C302
+Cohn Research C303
+Colburn Laboratories, Inc C305
+Cold Spring Harbor Laboratory C306
+The Coleman Co, Inc C307
+Cole-Parmer Instrument Company C308
+COLE-PARMER INSTRUMENT COMPANY C308
+Colgate-Palmolive Company C309
+Collaborative Research, Inc C310
+Collins & Aikman Corporation C311
+Colloids, Inc C312
+Colorado Engineering Experiment Station, Inc C313
+Colorado International Corporation C314
+Colorado Microsystems, Inc C315
+Colorado School of Mines Research Institute C316
+Colorado Serum Co C317
+Colorado Video, Incorporated C318
+Colt Industries Inc C319
+Columbia Chase Corporation C320
+Columbia Chemical Corporation C321
+Columbia Gas System Service Ckirporation C322
+Columbia Laboratories, Inc C323
+Columbian Rope Company C324
+Columbia Organic Chemicals Co, Inc C325
+Columbia Research Corporation C326
+Columbia Research Laboratories, Inc C327
+Columbia Research Service C328
+Columbia Scientific Industries Corporation C329
+Columbus Hospital C330
+Columbus Water & Chemical Testing Laboratory C331
+Comarco, Inc C332
+Comark Industries, Inc C333
+Combustion and Explosives Research, Inc C334
+Combustion Engineering, Inc C335
+Combustion Engineering, Inc. C335
+Combustion Equipment Associates, Inc C336
+Combustion Processes, Inc C337
+Comet Chemical Co, Inc C338
+Comgeneral Corporation C339
+Commercial Fabrication & Machine C340
+Commerical Shrimp Culture International C341
+Commission for Administrative Services in Hospitals C342
+Commonwealth Research Corporation C343
+Commonwealth Scientific Corporation C344
+Communications Consulting Corp C345
+Communications Satellite Corporation C346
+Community Training and Development, inc C347
+Compas, Inc C348
+Compo Industries, Inc C349
+Composite Structures Corporation C351
+Comprehensive Health, Inc C352
+Comprehensive Planning Services (C P S) C353
+Comptek Research, Inc C354
+Comptrol Inc C355
+Comp-Tron, Incorporated C356
+Compudyne Corporation C357
+Compusys, Inc C358
+Computational Mechanics Consultants, Inc C359
+Computer Entry Systems Corporation C361
+Computer Generation, Inc C362
+Computer Genetics Corporation C363
+Computer Horizons, Inc C364
+Computer Identics Corp C365
+Computer Instruments Corporation C366
+Computer Labs Inc C367
+Computer-Link Corporation C368
+Computer Products Corporation C369
+Computer Professionals Co C370
+Computer Resources, Inc C371
+Computer Science & Application, Inc C372
+Computer Sciences Corporation C373
+Computer Service, Inc C374
+Computer Signal Processors, Inc C375
+Computer Utilities of Wisconsin, Inc C376
+Computervision Corporation C377
+Comsip Customline Corp C378
+Comsonics, Inc C379
+Com/Tech Systems, Inc C381
+Comtech Telecommunications Corporation C382
+Com-Trol Inc C383
+Concept Applications Ltd C384
+Concept, Inc C385
+Conceptual Device Associates C386
+Concern Group Inc C387
+Concord Control, Inc C388
+The Concrete Associates, Inc C389
+Condec Corp C391
+O Condenser Cleaners Manufacturing Co, Inc C392
+Cone Mills Corporation C393
+Conference Board, Inc C394
+Conforming Matrix Corporation C395
+Congoleum Corporation C396
+Conklin & Rossant C397
+Connecticut Metallurgical Corp C398
+Connecticut Valley Biological Supply Co, Inc C399
+Conner Associates, Inc C400
+Consad Research Corporation C401
+Conservation Chemical Co C402
+Consolidated Engineering Co C404
+Consolidated Foods Corporation C405
+Consolidated Foods Corporation C405
+Consolidated Industries, Inc C406
+Consolidated Laboratories, Inc C407
+Consolidated Natural Gas Co C408
+Consolidated Papers, Inc C409
+Consolidated Rail Corporation C410
+Consolidated Stills & Sterilizers C411
+The Consortium Inc C412
+Construction Research Laboratory, Inc C413
+Construction Systems Associates, Inc C414
+Consultants International, Inc C415
+Consultants in Transportation C416
+Consulting Communications Engineers, Inc C417
+Consulting Engineers Diversified, Inc C418
+Consulting International, Incorporated C419
+Consult, Ltd C420
+Consumer Research Corporation C421
+Consumers Flavoring Extract Co, Inc C422
+Consumer Testing Labs, Inc C423
+Container-Quinn Testing Laboratories, Inc C424
+Container Research Corp C425
+Container Testing Laboratory, Inc C426
+Contech Southwest, Inc C427
+Continental Chemiste Corp C428
+Continental Disc Corporation C429
+Continental Electronics Corp (C E C) C430
+The Continental Group, Inc C431
+Company C432
+I Continental Products of Texas C433
+Continental Technical Finishes Corp C434
+Contour Chemical Co, Inc C435
+Contour Company, Inc C436
+Contract Laboratories Associates C437
+Contraves Goerz Corporation C438
+Contrel Corporation C439
+Control Analysis Corporation C440
+Control Data Corporation C441
+Control & Information Systems, Inc C442
+Control Laser Corp C443
+Controlled Acoustics, Inc C444
+Controlled Environment Systems, Inc C445
+Control Logic, Inc C446
+Control Process Inc C447
+Controls for Environmental Pollution, Inc C448
+Control Technology Company Incorporated C449
+Centronics, Inc C450
+Conway Research, Inc C451
+Conwed Corporation C452
+E L Conwell & Co C453
+Conwood Corporation C454
+Cook Associates. Inc C455
+Cook Chocolate Co, Inc C456
+Cooke Vacuum Products, Inc C457
+Cook Paint & Varnish Company C458
+Cooley, Incorporated C459
+Co-Operative Industries, Inc C460
+Cooper Industries, Inc C461
+Cooper Laboratories, Inc C462
+Coopers Creek Chemical Coip C463
+Cooper Tire and Rubber Company C464
+Adolph Coors Company C465
+Copeland and Roland, Inc C466
+Copley International Corporation C467
+Copolymer Rubber & Chemical Corporation C468
+Copperweld Corporation C469
+Cordin Company C470
+Cordon International Corporation C472
+Core Laboratories, Inc C473
+Cornell Chemical & Equipment Company, Inc C474
+Corning Glass Works C475
+Coming Laboratories, Inc C476
+Corrosion Engineering & Research Company C477
+Corstar Business Computing Co, Inc C478
+Cortex Research Corporation C479
+Corvus Systems Inc C480
+Cory Laboratories, Inc C481
+ROSELLE PARK Cosmetech Laboratories C482
+Cosmicoat Inc C483
+Cosmos, Incorporated C484
+Cosmos Industries. Inc C485
+Cosray Research Institute, Inc C486
+Cotton Incorporated C487
+Countronic Corp C488
+Country Squire Ceramic Mfg & Supply C489
+Courseware, Inc C490
+Covert Pattern & Manufacturing C491
+Richard S Cowan & Associates, Inc C492
+Cox & Company, Inc C493
+Edwin Cox Associates C494
+CP AC, Inc C495
+CPC International Inc C496
+CPL Corporation C497
+CPM-Alaska, Inc C498
+CPS, Inc C499
+C R A Enterprises, Inc C500
+Cranbrook Institute of Science C501
+C-Ran Corporation C502
+Crane Co C503
+Crane & Co Inc C504
+Crane Packing Company C506
+Crane Plastics Inc C507
+Cratex Manufacturing Co, Inc C510
+Herman L Crawford & Associates C511
+Creare, Incorporated C512
+Creative Controls Corporation C513
+Creative Research Associates, Inc C514
+Roger Creighton Associates Inc C515
+David A Crane & Partners C5O5 Cresheim Company, Inc C516
+Cresset Chemical Co, Inc C517
+CR Industries C518
+Crippen Laboratories C519
+Cfoll-Reynolds Co Inc C520
+Crompton & Knowles Corporation C521
+Crompton & Knowles Corporation C521
+Crosby Chemicals, Inc C522
+Crosby Valve & Gage Company C523
+Crossbow, Inc C524
+Crouse-Hinds Company C525
+Crown Cork & Seal Company, Inc C526
+Crown Engineering & Sales Co C527
+Crown Iron Works Company C528
+Crown Paint, Inc C529
+Crown Zellerbach C530
+Crown Zeilerbach C530
+Crusader Chemical Co, Inc C531
+Cryptanalytic Computer Sciences, Inc C532
+Crystalab, Inc C533
+Crystalite Embedments, Inc C534
+Crystal Optics, Inc C535
+Crystal Specialties, Inc C536
+Crystal Systems, Inc C537
+Crystal Technology, Inc C538
+The Crystal Tissue Company C539
+Ctec, Inc C540
+C3, Inc C541
+CTI Education Products, Inc C542
+CTL-Dixie, Inc C543
+CTL Engineering, Inc C544
+CTS Corporation C545
+Culbro Corporation C546
+Cummins Engine Company, Inc C547
+Cunningham industries, Inc C548
+Cunningham-Short-Berryman C549
+Cuppies Company C550
+Curative Rehabilitation Center C551
+Robert S Curl & Associates C552
+Curran Associates, Inc C553
+Curtice-Bums, Inc C554
+Curtis Instruments, Inc C555
+Curtiss-Wright Corporation C556
+Curtis & Tompkins Ltd C557
+C R Cushing Co C558
+Cuskey, Ipsen & McCall Consultants, Inc C559
+Custom Coated Products Inc C560
+Customcolor, Inc C561
+Custom Controls Company C562
+Custom Organics, Inc C563
+Custom Scientific Instruments, Inc C564
+Custom Structured Webs, Inc C565
+Cu Tronics Inc C566
+Cutter Laboratories, Inc C567
+CVC Products inc C568
+CVI Laser Corporation C569
+Cybertek Computer Products, Inc C571
+Cyclops Corporation C572
+The Cyclotron Corporation C573
+Cyprus Mines Corporation C574
+Cytrol, Inc C575
+Dentocide Chemical Company D1
+The Derby Company, Inc D1
+DAB Industries, Inc D1
+Denton Vacuum Inc D1
+Designatronics, Inc D1
+Diamond International Corporation Laboratory D1
+DeSantis Coatings, Inc D1
+Dacari Knit Products, Inc D2
+Daddario & Associates D3
+Daedalean Associates, Incorporated D4
+Daedalus Enterprises, Inc D5
+D’Agostino-Yerow Sc Associates Inc D6
+G W Dahl Co, Inc D7
+Dalare Associates Inc D8
+Dalton-Dalton-Little-Newport D9
+Dames & Moore D11
+Damon Corporation D12
+Dana Corporation D13
+Danberg Chemical Co D14
+Daniel Industries, Inc D15
+Dan-Mar Co Inc D16
+Dan River Inc D17
+D A P Inc D18
+Arthur D Darden Inc D19
+Darling-Delaware Company, Inc D20
+R E Darling Co, Inc D21
+Dart Industries Inc D22
+Datacopy Corporation D23
+Data-Design Laboratories D24
+Data General Corporation D25
+Datagraphics, Inc D26
+The Datak Corporation D27
+Datalogic-Rust Company D28
+Datalogics, Inc D29
+Datamotive Inc D30
+PARK CITY Dataphase, Inc D31
+Datapoint Corporation D32
+Datapro Corporation D33
+Data Retrieval Corp of America D34
+Datascope Corp D35
+Data Solutions Corporation D36
+Data Systems Engineering Inc D37
+Data Systems, Inc D38
+Data Technology Inc D39
+Data Technology Industries, Inc D40
+Datatronic Systems Corporation D41
+Data/Ware Development, Inc D42
+Data World, Inc D43
+Datron Systems, Inc D44
+Dattilo Enterprises, Inc D45
+Daubert Chemical Company D46
+Charles Davidoff Associates D47
+Davidson Electronic Development Co D48
+The Davies-Young Company D49
+Davis & Associates, Inc D50
+J J Davis Associates D51
+Davis Laboratories D52
+R F Davis Inc Environments Unlimited D53
+Davmanco, Inc D54
+Dawe’s Laboratories, Inc D55
+Dawson Research Corporation D56
+Day and Mowry D57
+Dayco Corporation D58
+Dayco Corporation D58
+Day-Glo Color Corporation D59
+Dayton Manufacturing Co D60
+Dayton Pattern, Inc D61
+Dayton Plastics Inc D62
+Dayton Progress Corp D63
+Dayton Re-New Tool Co, Inc D64
+Dayton Scientific, Inc D65
+Dayton X-Ray Company D66
+DBA Systems, Inc D67
+DCA Food Industries, Inc D68
+DCA Reliability Laboratory D69
+DCM Industries, Inc D70
+D-Co-Inc D71
+D-C Reinforced Plastics Company D72
+Richard L Deal & Associates, Inc D73
+Dean Foods Company D74
+Dean Products, Inc D75
+L M Dearing Associates, Inc D76
+Decicom Systems, Inc D77
+Decilog D78
+Decima Research D79
+Decision Analysis Corporation D80
+Decision Data Computer Corporation D81
+Decision Research Corporation D82
+Decision Science, Inc D83
+Decision Sciences Corp D84
+Decisions & Designs, Inc D85
+Decker Mfg Co D86
+Decoto Aircraft, Inc D87
+Deepsea Ventures, Incorporated D88
+Deere & Company D89
+Deer-o-Paints & Chemicals, Ltd D90
+Dehydro-Tech Corp D91
+DeKalb AgResearch, Inc D92
+Dektor Counterintelligence & Security, Inc D93
+Delavan Corporation D94
+Del Electronics Corp D95
+Delex Systems, Inc D96
+Del Laboratories, Inc D97
+Dellwood Foods Inc D98
+Del Mar Avionics D99
+Del Norte Technology, Inc D101
+Delsen Testing Laboratories, Inc D102
+Delta Research Corp D103
+Delta Research Corporation D104
+Deltech Inc D105
+Demac Corporation D106
+Dencor, Inc D107
+Dennis Chemical Company D108
+Dennison Manufacturing Company D109
+Denro Laboratories, Incorporated D110
+Dental Appliance Co D111
+Denton & Anderson Co D113
+Dentsply International Inc D115
+Descriptive Design and Development Corporation D118
+Design Automation, Inc D120
+Design Company, Inc D121
+Design Data, Inc D122
+Design Enterprises D123
+Design Plus D124
+Desoto, Inc D125
+The Delmark Co DiOO Despatch Industries, Inc D126
+Detcom D127
+Deterline Corporation D128
+Detoronics Corporation D129
+Detrex Chemical Industries, Inc D130
+The Detroit Edison Company D131
+Detroit Testing Laboratory, Inc D132
+Tobe Deutschmann Labs, Inc D133
+Develco, Inc D134
+Developmental Sciences Inc D135
+Development Associates, Inc D136
+Development Concept Corporation D137
+Development Planning & Research Associates, Inc D138
+Development Sciences Inc D139
+Development Services International, Inc D140
+Development Systems Corp D141
+Developtron Inc D142
+Devices & Services Co, Inc D143
+Dewey Electronics Corp D144
+Bernard H Dewitt and Associates D145
+Dexter Chemical Corporation D146
+The Dexter Corporation D147
+DHV, Inc D148
+Diagnostic Data, Inc D149
+Diagnostic Electronics Corporation D150
+Diagnostic Retrieval Systems, Inc D151
+Diamond Antenna & Microwave Corporation D152
+Diamond Crystal Salt Company D153
+Diamond International Corporation D154
+Diamond Research Corporation D155
+Diamond Shamrock Corporation D156
+Diamond/Sunsweet, Inc D157
+Di-An Controls, Inc D158
+Diatek, inc D159
+A B Dick Company D160
+Dickens Design Group D161
+Dickey Clay Manufacturing Co D162
+Didde Glaser, Inc D163
+Die Co, Inc D164
+Harry W Dietert Co D165
+Dietzgen Corporation D166
+Henry G Dietz Inc D167
+R E Dietz Company D168
+Diffraction Products, Inc D169
+Digicon Inc D170
+Digital Automation Associates, Inc D171
+Digital Color Corp D172
+Digital Development Corporation D174
+Digital Equipment Corporation D175
+Digital General Corp D176
+Digital Graphics Incorporated D177
+Digital Laboratories, Inc D178
+Dikewood Industries, Inc D179
+Diku, Inc D180
+The Dilley Manufacturing Co D181
+W C Dillon & Co, Inc D182
+Di-Matics, Inc D183
+Dimetrodon D184
+Dimpex Associates, Inc D185
+Discon Industries Inc D186
+Distillation Engineering Company, Inc D187
+Distributed Information Systems Corporation D188
+The Diversey Corporation D189
+Diversified Design Inc D190
+Diversified Optical Corp D191
+Diversified Technology, Inc D192
+Dixie Chemical Co D193
+Dixo Company, Inc D194
+The Joseph Dixon Crucible Co D195
+Dixon Valve & Coupling Co D196
+Djinnii Industries, Inc D197
+DJ Instruments, Inc D198
+D/L Laboratories D199
+DoALL Company D200
+Doane Agricultural Service, Incorporated D201
+Doble Engineering Company D202
+Dodd Geotechnical Engineering Company D204
+The Dodge Chemical Company D205
+Dodge Cork Co, Inc D206
+James Dole Corporation D208
+Doll Research Inc D209
+Dolly Toy Co, Inc D210
+Donaldson Company, Inc D211
+Charles Donley And Associates D212
+Ernest F Donley’s Sons, Inc D213
+R R Donnelley & Sons Co D214
+Dooling & Siegel Architects D215
+Dornback Furnace & Foundry Co D216
+David M Dombusch & Co, Inc D217
+Dome & Margolin, Inc D218
+Dosimeter Corporation of America D219
+Doty Assoicates, Inc D220
+Doty Laboratories, Inc D221
+Dover Corporation D222
+The Dow Chemical Company D223
+Dow Corning Corporation D224
+Dow Jones & Company, Inc D225
+Dranetz Engineering Laboratories, Incorporated D226
+The Charles Stark Draper Laboratory, Inc D227
+Dravo Corporation D228
+Dresser Industries, Inc D229
+Drever Heat Treating Inc D230
+Drexel Heritage Furnishings Inc D231
+Drexel Heritage Furnishings Inc Engineering Test Laboratory D231
+Driscoll Strawberry Associates, Inc D232
+Driver-Harris Company D233
+Dr Pepper Company D234
+Drug Research, Inc D235
+Dset Laboratories, Inc D236
+DSS Engineers, Inc D237
+Dubois and King, Inc D238
+Dufresne-Henry Engineering Corp D239
+Dukane Corporation D241
+Duke Scientific Corp D242
+Dumont Industries D243
+Dumore Corporation D244
+Duncan & Jones D245
+Dunham Associates, Inc D246
+Dunlap and Associates, Inc D247
+Dunlop Tire and Rubber Corporation D248
+Dunmore Corporation D249
+Dunn Laboratories, Inc D250
+Dunn Technology, Inc D251
+E I DuPont De Nemours & Company, Incorporated D252
+Duralac Chemical Corp D253
+Duriron Co, Inc D254
+Duro-Test Corporation D255
+Durrum Instrument Corporation D256
+Dutch Boy Inc D257
+Dutcher Industries. Inc D258
+Ben Dyer Associates, Inc D259
+Dyer Laboratories D260
+Dy mo Industries, Inc D261
+Dyna East Corporation D262
+Dynaforce Corporation D263
+Dynalec Corporation D264
+Dynalectron Corporation D265
+Dynalysis of Princeton D266
+Dynamac, Inc D267
+Dynametric, Inc D268
+Dynamic Controls, Inc D269
+Dynamic Engineering, D270
+Dynamic Programs Inc D271
+Dynamic Sciences, Inc D272
+Dynamics Corporation of America D273
+Dynamics Research Corporation D274
+Dynamics Research & Development Corporation D275
+Dynamics Technology, Inc D276
+Dynastat, Inc D277
+Dynasurf Chemical Corporation D278
+Dynatech Corporation D279
+Dynatech Frontier Corporation D280
+Dynatherm Corporation D281
+Dynatron Manufacturing Corporation D282
+Dynatron Research Corporation D283
+Dynetics, Inc D284
+Dyniman, Inc D285
+Dytronics Co Inc D286
+Electron Inc E1
+Energy Consulting Associates, Inc E1
+Electro Optics, Inc E1
+Eli Lilly and Company E1
+Electronic Systems Development Corp E1
+Electro-Nucleonics Laboratories, Inc E1
+Electronics For Life Sciences, Inc E1
+Electronics Corp Of America E1
+Energotechnology Corporation E1
+Energy Resources Co, Inc E1
+Electronic Space Systems Corp E1
+Energy Beams Inc E1
+Electro-Nucleonics, Inc E1
+Electron Technology Inc E1
+Empire Assembly & Manufacturing Co, Inc E1
+Electronic Research Associates, Inc E1
+ERA Acoustics Corporation E1
+ERA Dynamics Corporation E1
+Eac Industries E1
+Emglo Products Corporation E1
+EA Design Group, Chartered E2
+Eager And Associates E3
+Eagle Magnetic Company, Inc E4
+Eagle-Picher Industries, Inc E5
+Eagle Rubber Co, Inc E6
+Earthdata, Inc E7
+Earth Environmental Consultants, Inc E8
+Earthmind E9
+Earth Satellite Corporation (Earthsat) E10
+Earth Sciences Associates, Inc E11
+Easco Corporation E12
+Eastern Analytical Laboratories, Inc E13
+Eastern Biochemical Laboratory E14
+Eastern Color & Chemical Co E15
+The Eastern Company E16
+Eastern Gas and Fuel Associates E17
+Eastern Laboratory Service E18
+Eastman Dental Center E19
+Eastman Kodak Company E20
+Eastmet Corporation E21
+East Texas Testing Laboratory, Inc E22
+Eaton Corporation E23
+Eberhard Faber, Inc E24
+E-B Industries Inc E25
+Ebon Research Systems E26
+Erie Technological Products, Inc E27
+Ecco Consulting Inc E27
+Robert E Eckels & Associates E28
+Eclectech Associates, Incorporated E29
+Eclipse, Inc E30
+Eco-Control, Inc E31
+Ecological Analysts, Inc E32
+Ecology Board, Inc E33
+Ecology Controls, Inc E34
+Ecometrics, Inc E35
+Econ Inc E36
+Econ Inc E37
+Economic and Industrial Research Incorporated E38
+Economic Consultants Organization, Inc E39
+Economic Research Center, Inc E40
+Economic Research Consultants, Inc E41
+Economics and Technology, Inc E42
+Economics Associates, Inc E43
+Economics Laboratory, Inc E44
+Ecosometrics, Inc E45
+Ecotope Group E46
+Ecotronics, Inc E47
+ECRI E48
+Ecumene Associates: Environmental Research E49
+Edaw, Inc E50
+Eder & Connors Associates E51
+Eder Industries, Inc E52
+E S Edgerton Medical Research Foundation E53
+EDO Corporation E54
+EDR Corporation E55
+Edstrom Industries, Inc E56
+Educational Development Corporation E57
+Educational Evaluation and Research, Inc E58
+Educational Management Services, Inc E59
+Educational Materials & Equipment Co E60
+Education and Training Consultants Co E61
+Education For Management, Inc E62
+Education & Research Associates, Inc E63
+Education Turnkey Systems, Inc E64
+NEW YORK (cont) Edwards High Vacuum Inc E65
+Efeh & Associates E66
+E F Industries E67
+EG&G, Inc E68
+Eglen Hovercraft, Inc E69
+Codex Corporation M4O9.5 EIC Corporation E70
+Eikonix Corp E71
+Eitel Electronics (EITELCO) E72
+Louis C Eitzen Co, Inc E73
+Ekistics Design Group, Inc E74
+Elano Corporation E75
+Elars Bioresearch Laboratories, Inc E76
+Elcom Systems, Inc E77
+Paul B Elder Company E78
+Electrac, Inc E79
+Electra-Physics Laboratories, Inc E80
+Electrasol Laboratories. Inc E81
+Electrical Testing Laboratories, Inc E82
+The Electric Furnace Company E83
+Electric Power Research Institute (EPRI) E84
+The Electric Tachometer Corp E85
+Electrochemical Technology Corp E86
+Electrochimica Corp E87
+Electro Design Systems E88
+Electrofilm Inc E89
+Electrofrac Corporation E90
+Electro General Corporation E91
+Eiectrol Specialties Co E92
+Electro Magnetic Processes, Inc E93
+Electromagnetic Sciences, Inc E94
+Electromatic, Inc E95
+The Electro-Mechanics Company E96
+Electro Medical Systems Inc E97
+Electronic Arrays, Inc E98
+Electronic Associates, Inc E99
+Electronic Automation Inc E100
+Electronic Calculus Inc E101
+Electronic Circuits Inc E102
+Electronic Design «fe Production Co E103
+Electronic Development Corporation E104
+Electronic Engineering Company of California E105
+Electronic Engineers Inc E106
+Electronic Futures, Inc E107
+Electronic Measurements, Inc E108
+Electronic Modules Corporation E109
+Electron Systems & Technology Corporation E116
+Electro-Pacific, Inc E120
+Electrophysics Corp E121
+Electro-Science Laboratories, Inc E122
+Electro Scientific Industries, Inc E123
+Electro-Shield Corporation E124
+Electrospace Systems, Inc E125
+Electrostatic Consulting Associates E126
+Electro Switch Corp E127
+Electro Syn Corporation E128
+The Electrosynthesis Company E129
+Electro-Test, Inc E130
+Electrovert, Inc E131
+Electus Corp E132
+Elf Aquitaine Inc E133
+Elgin Machine Corp E134
+Dave Ellies Industrial Design, Inc E136
+Eliisco Inc E137
+Elmac Corp E138
+Elma Engineering E139
+Elmendorf Research, Inc E140
+El Paso Company E141
+El Paso Environmental Systems, Incorporated E142
+El-Rad Manufacturing Company E143
+Eltra Corporation E144
+Elyria Dairies Inc E145
+EMC Corp E146
+Emco Wheaton Inc E147
+Emerson Electric Co E148
+Parker C Emerson & Associates E149
+Emhart Corporation E151
+EM Laboratories Inc E152
+Empco, Inc E153
+EMP Electronics, Inc E154
+Empire Plating Co E156
+Empire Products, Inc E157
+Ems Laboratories E158
+EM Systems, Inc E159
+Emv Associates, Inc E160
+Encap, Inc E161
+En-Cas Analytical Laboratories E162
+Encotech, Inc E163
+Endicott-Johnson Corp E164
+Enerad, Inc E165
+Encrcon Systems Inc E166
+Enerem, Inc E167
+Energy Conversion Devices, Inc E171
+Energy Development Associates E172
+Energy Development Company E173
+Energy Dynamics Corporation E174
+Energy Incorporated E175
+Energy Investment Company, Inc E176
+Energy Management Consultants, Inc E177
+Energy Management & Control, Inc E178
+Energy Research & Generation, Inc E179
+Energy Savers Inc E181
+Energy Science Corp E182
+Energy Sciences Inc E183
+Energy Services International, Inc E184
+Energystics, Incorporated E185
+Energy Systems Corporation E186
+Energy Technology, Inc E187
+Eness Research & Development Corp E188
+Enflo Corp E189
+Engelhard Minerals & Chemicals Corporation E190
+Robert G Engeihart & Co E191
+Engelmann Microwave Co E192
+Engineered Devices Company E193
+Engineered Plastics Inc E194
+Engineering Associates, Inc E195
+Engineering by Melia Inc E196
+Engineering Consulting Services E197
+Engineering & Design Co E198
+Engineering Dynamics International E199
+Engineering-Economics Associates Incorporated E200
+Engineering for Industry, Inc E201
+Engineering Incorporated E202
+Engineering Service Inc of America E204
+Engineering Supervision Company E205
+Engineering Technology, Inc E206
+Engineers Incorporated E207
+Engineers International, Inc E208
+Engineers Testing Laboratories, Inc E209
+Engis Corporation E210
+The C W England Laboratories, Incorporated E211
+Enmet Corporation E212
+Minas Ensanian Corporation E213
+Ensco, Inc E214
+Enserch Corporation E215
+Entran Devices Inc E216
+Entropy Environmentalists, Inc E217
+Entropy Limited E218
+The Entwistle Company E219
+Enviro Control, Inc E220
+Envirodyne Engineers, Inc E221
+Envirodyne Industries, Inc E222
+Enviro-Med Laboratories, Inc E223
+Environmental Air Control, Inc E224
+Environmental Analysis, Inc E225
+Environmental Assessment Council, Inc E226
+Environmental Biomedicine Research Institute E227
+Environmental Consultants, Inc E228
+Environmental control Products, Inc E229
+Environmental Control Technology Corporation E230
+Environmental Data Center E231
+Environmental Design Consortium, Inc E232
+Environmental Dynamics, Inc E233
+Environmental Energies Inc E234
+Environmental Engineering Unlimited, Inc E235
+Environmental Enterprises, Inc E236
+Environmental Information Center, Inc E237
+Environmental Measurements, Inc E238
+Environmental Planning and Research, Inc E239
+Environmental Quality Research, Inc E241
+Environmental Quality Systems, Inc E242
+Environmental Research Associates, Inc E243
+Environmental Research Consultants E244
+Environmental Research & Development Foundation E245
+Environmental Research Group E246
+Environmental Research Group, Inc E247
+Environmental Research Institute of Michigan E248
+Environmental Research & Technology, Inc E249
+Environmental Systems Corporation E251
+Environment West Research and Planning, Inc E252
+Environvestment, Inc E253
+Enviroquip, Inc E255
+Envirotech Corporation E256
+Enviro-Test, Inc E257
+Enzyme Development Corp E258
+Eon Corporation E259
+Bernard Ephraim D B Security Products E261
+The Eppley Laboratory, Inc E262
+Eprad Inc E263
+Epsilon Laboratories Inc E264
+Epsilon Lambda Electronics Corp E265
+Equitable Bag Co, Inc E266
+Era Laboratories, Inc E267
+Erdco Engineering Corporation E268
+Ergonomics Research E269
+Erico Products, Inc E270
+Eriez Magnetics E272
+Erlin, Hime Associates, Inc E273
+E S A Laboratories, Inc E274
+Escher:Foster Technology Associates, Inc E275
+Esco Mfg Co E276
+Esmark, Inc E277
+Essential Products Co, Inc E278
+Essex Chemical Corp E279
+Essex Corporation E280
+Essex Engineering Company E281
+Estelle Doheny Eye Foundation Laboratory E282
+Esterline Corporation E283
+ETA Engineering Inc E284
+Etel, Inc E285
+Ethyl Corporation E286
+Eurotherm Corporation E287
+Eutectic Corporation E288
+Eutek, Inc E289
+Evaluation Research Corporation E291
+Evaluation & Research Specialists, Inc E292
+Evaluations, Inc E293
+Evaluative Research Associates, Inc E294
+Evans Products Company E295
+Evans & Sutherland Computer Corp E296
+Evaporated Metal Films Corp E297
+Everglades Laboratories, Inc E298
+Ever Ready Thermometer Company, Incorporated E299
+Ewald Instruments Corp E300
+Red Ewald Inc E301
+EWC Inc E302
+Ewing Engineering Company E304
+Ex-Cal, Inc E305
+Excelsior Varnish Inc E307
+Exotech, Inc E309
+Exotic Materials, Inc E310
+Expand Associates, Inc E311
+Experimental Pathology Laboratories, Inc E312
+Expert Witness Services, Inc E313
+Extensor Corporation E314
+Extranuclear Laboratories, Inc E315
+Exxon Corporation E316
+The Eye-Bank for Sight Restoration, Inc E317
+Eyring Research Institute E318
+Frost Engineering Development Co F1
+Foster Associates, Inc F1
+Food Technology, Inc F1
+Food Technology Laboratory F1
+Freeport Minerals Company Research and Development Laboratory F1
+Fansteel, Inc Ferndale Laboratory F1
+H B Fuller Company F1
+Food and Drug Research Laboratories, Inc F1
+FDRL Clinical Facilities F1
+Faber-Castell Corp F1
+Fusion Energy Corporation F1
+Frinton Laboratories, Inc F1
+Fairfax Biological Laboratory, Inc F1
+Foundation for Economic Education, Inc F1
+Forward Management Associates, Inc F1
+Frontier Bronze Corp F1
+Forbes & Wagner F1
+Foam Seal Inc F1
+Fordees Corp F1
+Foote Mineral Company F1
+Fonda Engineering Associates F1
+Frick Company F1
+Forney Engineering Company F1
+The Frantz Company F1
+Ford Chemical Laboratory, Inc F1
+Fostoria Glass Co F1
+Fabric Chemical Corp F2
+Fabric Development, Inc F3
+Fabri-Tek Incorporated F4
+Facilities Planning Service, Inc F5
+Facilities Systems Engineering Corp F6
+Factory Mutual Research Corporation F7
+Fact Research Inc F8
+Fairchild Camera and Instrument Corporation F9
+Fairchild Industries, Inc F10
+Fairfield Industries, Inc F12
+Fairmont Foods Company F13
+Fair-Rite Products Corp F14
+Falbel Energy Systems Corp F15
+Falstrom Co F16
+Fanny Fanner Candy Shops, Inc F17
+Fansteel, Inc F18
+Far Field, Inc F19
+Farmland Industries, Inc F20
+Farnam Mfg Co Inc F21
+Farnsworth Cannon, Inc F22
+Farrand Optical Co, Inc F23
+Farr Co F24
+Farrington and Light Associates F25
+Fashion Two-Twenty Inc F26
+Jack Faucett Associates, Inc F27
+Thomas Fazio Laboratories, Inc F28
+FDL F29
+Feam International Inc F30
+Fedders Corporation F31
+Federal Cartridge Corporation F32
+Federal Hose Manufacturing Corp F33
+Federal Machine Co, Inc F34
+Federal-Mogul Corporation F35
+Federal Testing Laboratories F36
+Feed Service Corporation F37
+Fein-Marquart Associates, Inc F38
+The Felters Co F39
+Felton International Incorporated F40
+Ferguson Fumigants, Inc F41
+Alex C Fergusson Co F42
+Fermented Products, Inc F43
+Ferro Corporation F44
+Ferrofluidics Corporation F45
+Ferro-Tech, Incorporated F46
+Ferrulmatic, Inc F47
+F & F Laboratories, Inc F48
+F G Engineering Co F49
+F&H Manufacturing Corp F50
+Fiber Materials, Incorporated F51
+Fibra-Sonics, Inc F52
+Fibre Glass-Evercoat Co, Inc F53
+Fieldcrest Mills, Inc F54
+Film Facts Engineering, Inc F55
+The Film Group F56
+Film Microelectrics, Inc F57
+Filmtec, Inc F58
+Finch, Pruyn & Co, Inc F59
+Findlay Refractories Co F60
+Findley Adhesives inc F61
+Find/SVP (The Information Clearinghouse) F62
+Ronald Fine & Associates, Inc F63
+Finn Equipment Co F64
+Finnigan Corporation F65
+Firepro Incorporated F66
+The Firestone Tire & Rubber Company F67
+The Firestone Tire & Rubber Company F67
+First Ann Arbor Corporation F68
+First Electronics Corporation F69
+First Spice Mixing Company F70
+Fischbach, McCoach Sc Associates, Inc F71
+Fish Doctor Clinical Center, Inc F72
+Oscar Fisher Company, Inc F73
+Fisher Scientific Company F74
+Fiske Brothers Refining Company F75
+Fisons Corporation F76
+Fitelson Laboratories Inc F77
+FJB Engineering Company F78
+Flack & Kurtz Consulting Engineers F79
+Flakice Corporation F80
+Flambeau Products Corporation F81
+Flame Research, Inc (Field Laboratories for Mining & Energy) F82
+Flame Spray, Inc F83
+Flamingo Research Laboratories F84
+Flash Technology Corp F85
+Fleer Corp F86
+W S Fleming and Associates, Inc F87
+Flexitallic Gasket Company, Inc F88
+Flexweight Corp F89
+Flight Systems, Inc F90
+Flint Ink Corporation F91
+The Flintkote Co F92
+Floating Point Systems, Inc F93
+Phillip E Flores Associates, Inc F94
+Florida Coastal Engineers, Inc F95
+Flo-Tork, Inc F96
+Flow General, Inc F97
+Flow Industries, Inc F98
+Flow Resources Corporation F99
+Flow Technology, Inc F100
+Fluid Controls, Inc F101
+Fluid Measurement Systems, Inc F102
+Fluid Properties Research, Inc F103
+Fluid Regulators Corp F104
+Fluidyne Engineering Corporation F105
+John Fluke Mfg Co, Inc F106
+Fluorographic Services, Inc F108
+Fluo-X-Spec Laboratory F109
+FMC Corporation F110
+Food and Drug Research Laboratories, Inc F113
+Food, Chemical & Research Laboratories, Inc F114
+Ford Motor Company F120
+Ford Products Corporation F121
+Robert Ford Associates F122
+Foremost-McKesson, Inc F123
+Forest’Ag Environmental Protection Service F124
+Foresta Institute for Ocean & Mountain Studies F125
+Forestek Plating & Manufacturing Co F126
+Formac International, Inc F127
+Howell N Forman, Jr & Associates, Inc F128
+Forsyth Dental Center F129
+Forte Technology Inc F130
+Forth, Inc F131
+Foseco, Inc F133
+Foster-Miller Associates, Inc F135
+Foster Wheeler Corporation F136
+Foundation for Research Engineering &. Education F139
+Foundation for Research Engineering & Education F139
+Foundation & Materials Consultants, Inc F140
+4C Corporation F141
+Four Comers Environmental Research Institute, Inc F142
+The Foxboro Company F143
+Fox Research & Library Service F144
+Fox Valley Corporation F145
+Fox Valve Development Co, Inc F146
+Foy-Johnston, Inc F147
+Fraass Survival Systems, Inc F148
+Francis Associates Ordnance Co F149
+Frankel Connector Company F150
+EG Frankel Inc F151
+Frankel Engineering Laboratories, Inc F152
+Franklin Associates, LTD F153
+The Franklin Glue Company F154
+Franklin GNO F155
+The Franklin Institute F156
+Franklin Oil Corp (Ohio) F157
+Fraser-Volpe Corporation F159
+Frawley Enterprises, Inc F160
+Frazier Precision Instrument Company, Inc F161
+Frecon Engineering F162
+Frederiksen Engineering Co, Inc F163
+Freelance Industrial Design and Development Co F164
+Freeport Brick Company F165
+Freeport Minerals Company F166
+The R T French Company F167
+Frequency Electronics, Inc F168
+Frequency & Time Systems, Inc F169
+Frequency West, Inc F170
+Freund Precision, Inc F171
+Walter Frederick Friedman and Co, Inc F173
+Friends Medical Science Research Center, Inc F174
+Frigitronics, Inc F175
+Fritzsche Dodge & Olcott Inc F177
+Froedtert Malt Corporation F178
+Froehling & Robertson, Inc F179
+Fruehauf Corporation F182
+Frumerman Associates, Inc F183
+Fuel Control Corp F184
+Ernest F Fullam, Inc F185
+Furst-McNess Company F187
+Fusion Systems Corporation F189
+The Futures Group F190
+Fyrepel Products, Inc F191
+Gaertner Scientific Company G1
+W W Gaertner Research, Inc G2
+GAF Corporation G3
+Gage-Babcock & Associates, Inc G4
+Gage Lab Corporation G5
+Gagne Associates, Inc G6
+Gai Consultants, Inc G7
+E J Gaisser, Inc G8
+Galbraith Laboratories, Inc G9
+Gale Engineering Company, Inc G10
+Galileo Electro-Optics Corp G11
+Galler Associates G12
+Gallo Displays, Inc G13
+Charles T Gamble Industries G14
+GAM Electronics, Inc G15
+Garnett Glass, Inc G16
+Gamma-F Corporation G17
+Gamma Scientific, Incorporated G18
+Gam Rad, Inc G19
+Gap Instrument Corp G20
+Gardner Bellows Corp G21
+The Garland Floor Company, Inc G22
+Garrett Flexible Products, Inc G23
+Gas Research Institute G24
+Gates Energy Products, Inc G25
+The Gates Rubber Company G26
+Gateway Sporting Goods Company G27
+Gatx Corporation G28
+Gaulin Corp G29
+Gaylord & Associates G30
+Gaylord Research Institute Inc G31
+Gaynes Testing Laboratories. Inc G32
+GB Instruments G33
+GCA Corporation G34
+Geiger & Hamme, Inc G35
+George J Geisser, Jr Consulting Engineers G36
+R F Geisser & Associates G37
+S H Gelles Associates G38
+Gelman Sciences Inc G39
+Gemological Institute of America G40
+Gemological Institute of America G40
+Genasys Corporation G41
+Genentech Inc G42
+General Acoustics Corporation G43
+General Activation Analysis, Inc G44
+General Applied Science Labs Inc G45
+General Atomic Company G46
+General Automation Inc G47
+General Color & Chemical Co G48
+General Components, Inc G49
+General Computer Services, Inc G50
+General Diode Corporation G51
+General Dynamics Corporation G52
+General Eastern Instruments Corporation G53
+General Electric Company G54
+General Electrodynamics Corporation G55
+General Engineering Laboratories, Inc G56
+General Extrusions, Inc G57
+General Fabrication Corp G58
+General Fabric Fusing, Inc G59
+General Films, Inc G60
+General Filter Company G61
+General Foods Corporation G62
+General Indicator Corporation G63
+General Instrument Corporation G64
+General Kinetics, Inc G65
+General Laboratories G66
+General Latex & Chemical Coqj G67
+General Magnaplate Corp G68
+General Microwave Corp G69
+General Mills, Inc G70
+General Motors Corporation G71
+General Nucleonics, Inc G72
+General Photonics Corporation G73
+General Purification Systems G74
+General Radiation Corporation G75
+Evaluation Associates, Inc E29O General Refractories Company G76
+General Relay Corporation G77
+General Rubber Corporation G78
+General Sensors, Inc G79
+General Signal Corporation G80
+General Systems Corporation G81
+General Technical Services, Inc G82
+General Telephone & Electronics Corporation G83
+General Testing Laboratories, Inc G84
+General Testing & Timber Products Inspection G85
+The General Tire & Rubber Company G86
+Genii Industries G87
+Genisco Technology Corporation G88
+GenRad, Inc G89
+Gentex Corporation G90
+Gentran Inc G91
+Gentry Instruments, Inc G92
+GeoChem Research Inc G93
+Geokinetics Inc G94
+Geologic Associates, Inc G95
+Geomet, Incorporated G96
+Geonautics, Inc G97
+Geophysical Research Corporation G98
+Geophysical Survey Systems, Incorporated G99
+The P D George Company G102
+Georgia-Carolina Oil Company G103
+Georgia Kraft Company G104
+Georgia-Pacific Corporation G105
+Geoscience Ltd G106
+Geos Corporation G107
+Geosoils, Inc G108
+Geosource Inc G109
+Geotek Consultants, Inc G111
+Geotel, Inc G112
+Geothermal Resources International, Inc G113
+Geotronic Labs, Inc G114
+Geraghty & Miller Inc G115
+Gerber Products Company G116
+The Gerber Scientific Instrument Company G117
+Gerling Moore, Inc G118
+Germanow-Simon Machine Co Inc G119
+Germantown Laboratories G120
+Gerow Equipment Co G121
+Getty Oil Company G122
+GHR & Associates G123
+Frank N Giampietro Associates, Inc G124
+Giannetti & Buck Associates, Inc G125
+Richard A Gibboney Associates, Inc G126
+Gibraltar Biological Laboratories, Inc G127
+The Gibson-Homans Company G128
+Giddings & Lewis Inc G129
+The Gilbert & Bennett Manufacturing Company G130
+Glen A Gilbert & Associates G131
+Gilford Instrument Laboratories Inc G132
+The Gillette Company G133
+Giner inc G134
+Giuliani Associates/Architects & Planners G135
+Givaudan Corporation G136
+GKN Powdermet, Inc G137
+GK Technologies G138
+Gky & Associates, Inc G139
+Gladstone Associates, Inc G140
+Gladstone Laboratories, Inc G141
+Glasrock Products, Incorporated G142
+Glasseal Products, Inc G143
+Glass-Lined Water Heater Co G144
+P H Glatfelter Co G145
+Gleason Works G146
+Glenayre Electronics, Inc G147
+Glenco Scientific, Inc G148
+Global Marine Inc G149
+Globe Extracts, Inc G150
+GIo-Quartz Electric Heater Co G151
+GLS Associates, Inc G152
+G M Mfg & Instrument Corp G153
+Goettl Air Conditioning Incorporated G154
+Go-Jo Industries Inc G155
+Gold Kist, Inc G156
+Goldmark Communications Corp G157
+Gollob Analytical Service G158
+Goodall Rubber Company G159
+The B F Goodrich Company G160
+Leo Goodwin Institute for Cancer Research G161
+The Goodyear Tire Rubber Company G162
+Gorgas Memorial Institute of Tropical and Preventive Medicine, Incorporated G163
+Gorham International Inc G164
+The Gorman-Rupp Company G165
+Jordan Gorrill Associates G166
+Goshen Rubber Co Inc G167
+Gould Engineering, Inc G168
+Gould Inc G169
+Gould Laboratories G170
+Goulds Pumps Incorporated G171
+GOW-MAC Instrument Co G172
+W R Grace & Co G173
+Graco Inc G174
+Graef-Anhalt-Schloemer & Associates, Inc G175
+Grain Processing Corporation G176
+Gran-Ca! Inc G177
+Grand Delta Corporation G178
+Granger Associates G179
+Graniteville Company G180
+Dr Daniel J Grant Inc G181
+Graphic Arts Technical Foundation G182
+Graphic Products Corp G183
+Graphite Metallizing Corporation G184
+Graphite Products Corp G185
+Gravure Research Institute G186
+Grayhill, Inc G187
+Grayslake Gelatin Co G188
+GRD, Inc G189
+Great American Industries Inc G190
+Great Bend Manufacturing Co, Inc G191
+Great Lakes Carbon Corporation G192
+Great Lakes Chemical Corporation G193
+The Great Little Soap Co G194
+Great Northern Nekoosa Corporation G195
+Great Western Inorganics, Inc G196
+Del Green Associates G197
+Arnold Greene Testing Laboratories Inc G198
+Arnold Greene Testing Laboratories Inc G198
+Greening Associates, Inc G199
+Melvyn Green and Associates, Inc G201
+William C Green Associates G202
+Greer Hydraulics, Inc G203
+Greif Bros Corporation G204
+W M Grengg and Associates G205
+Greyhound Corporation G206
+Grice Ocean Engineering, Inc G207
+Griffith Laboratories, Inc G208
+G & R Monaco Corporation G209
+Group Operations, Incorporated G210
+Group Seven, Inc G211
+Green Light Co G2CX) Groves, Fernandez, Ludwig, Barry, Telford & Associates, Inc G212
+Grow Chemical Corp G213
+Growers Chemical Corporation G214
+Grumman Corporation G215
+R L Grunes Sc Associates, Inc G216
+GSG, Inc G217
+GSI Systems G218
+G & S Systems, Inc G219
+Guardian Electric Manufacturing Company G220
+Guardsman Chemicals, Inc G221
+Gulf Cities Laboratories, Inc G222
+Gulf Oil Corporation G223
+Gulf + Western Industries, Inc G224
+Gulf Resources & Chemical Corporation G225
+Gulf South Research Institute G226
+Gull Airborne Instruments, Inc G227
+Cloyd Dake Gull And Associates, Inc G228
+Gulliksen Mfg Co, Inc G229
+Gulton Industries, Inc G230
+Gumbs Associates, Inc G231
+Gunning Refractories, Inc G232
+Gunzelman Industries G233
+Gutierrez, Smouse, Wilmut & Assoc, Inc G234
+Ferdinand Gutman & Co, Inc G235
+G&W Electric Specialty Company G236
+GW Electronics, Inc G237
+Gyrosystems, Inc G238
+Henry Valve Company H1
+Hemer Analytics, Inc H1
+Hermetric, Inc H1
+Henningsen Foods Research and Development Center H1
+John I Haas Inc H1
+Hach Chemical Company H2
+Hadron, Inc H3
+Hager Laboratories, Inc H4
+Hague International H5
+Haigh Associates H6
+Haines Testing Laboratory, Inc H7
+Halcon Research and Development Corporation H8
+Halff and Reid H9
+The Hall China Company H10
+The Haller Testing Laboratories, Inc H12
+Halliburton Company H13
+Hall Industries Inc H14
+Hamilton Communications Consultants, Inc H15
+Ham Industries, Inc H16
+Hamlin &. Morrison H17
+Hammermill Paper Company, Inc H18
+Hammer, Siler, George Associates H19
+Hammill Manufacturing Co, Inc H20
+Houston Atlas, Inc H20
+Delon Hampton & Associates H21
+H E Hancock Associates H22
+Handar H23
+Handy Sc Harman H24
+Hanley Associates, Inc H25
+Hanlon Chemical Company, Inc H26
+The Hanna Mining Company H27
+Hansa Engineering Corporation H28
+Hansco Data Processing Inc H29
+Hansen Engineering & Machinery Co, Inc H30
+R C Hansen Inc H31
+Harad Chemical Co, Inc H32
+Harbridge House, Inc H33
+Harco Laboratories, Inc H34
+Harco Manufacturing Co H35
+Hardiman Electric Company H36
+John J Harding Co, Ltd H37
+Hardwood Plywood Manufacturers Assoc H38
+Hardy Salt Co H39
+Harford Engineering Co, Inc H40
+Harford Services Co H41
+Harisonic Laboratories, Inc H42
+Don E Harley Associates, Inc H43
+Harmon Colors Corporation H44
+Harmony Emitter Co, Inc H45
+Harnischfeger Corporation H46
+Harrel, Incoqjorated H47
+Harrick Scientific Corporation H48
+Harris Corporation H49
+Harris Data Service H50
+Harris International H51
+Harris Laboratories, Inc H52
+Harrop Ceramic Service Company H53
+Hartech, Inc H54
+The Hartford Steam Boiler Inspection & Insurance Co H55
+Fred C Hart Associates, Inc H56
+Harvard Industries, Inc H57
+Harwick Chemical Corporation H58
+Haskins Laboratories H59
+Hastings Analytical Laboratory H60
+Hathaway Instruments, Inc H61
+Hauck Manufacturing Company H62
+Hauser Laboratories H63
+Haven Chemical Corporation H64
+Hawaiian Agronomics Co (International) H65
+Hawaiian Sugar Planters Association H66
+Hawaii Architects & Engineers, Inc H67
+Haward Corporation H68
+Arthur L Hawk, Inc H69
+C I Hayes, Inc H70
+Hayes, Seay, Mattern & Mattern H71
+Hayward Consulting Sc Engineering Company, Incorporated H72
+Hazards Research Corporation H73
+Hazeltine Corporation H74
+Hazen Research, Inc H75
+Hazleton Laboratories Corporation H76
+HCC Industries, Inc H77
+Health Care Consultants H78
+Healthdyne, Inc H79
+Health Education Systems Incorporated H80
+Healthgarde Corporation H81
+Health Management Systems, Inc H82
+Healy Laboratories Incorporated H83
+Heatbath Corporation H84
+Heath Engineering Company H85
+Heat Magnetic Engineering, Inc H86
+Heat Pipe Corporation of America H87
+Heat Systems-Ultrasonics, Inc H88
+Heat Transfer Research, Inc H89
+Lester C Hehn Engineering H90
+Heinrichs Geoexploration Company (Inc) H91
+H J Heinz Company H92
+Hekimian Laboratories, Inc H93
+The Hektoen Institute for Medical Research H94
+Helena Laboratories H95
+Helene Curtis Industries, Inc H96
+Heliodyne, Inc H97
+Helios Incorporated H98
+Helix Technology Corporation H99
+G K Heller Corp H101
+Heller Laboratories H102
+Heltzel Co H103
+Heminway and Bartlett Mfg Co H104
+Erling Helland Associates HlOO Hemphill Corporation H105
+The Hendrickson Corporation H106
+Hendrix and Dail, Inc H107
+Henize Interactive Control, Inc H108
+Henkel Corporation H109
+Russ Henke Associates H110
+Henningsen Foods, Inc H111
+J J Henry Co, Inc H112
+Hentzen Chemical Coatings H114
+Herco H115
+Hercofina H116
+Hercules Incorporated H117
+Hemer & Company H120
+Herron Testing Laboratories, Inc H121
+Hersey Products Inc H122
+Hersh Acoustical Engineering H123
+Philip I Hershberg, Biomedical Engineer H124
+Hershey Foods Corporation H125
+Hertrich Development, Inc H126
+Herty Foundation H127
+The Hertzicr Research Foundation H128
+Hesston Corp H129
+Heterochemical Corporation H130
+Heublein, Inc H131
+Heuer Time & Electronics Corp H132
+The Heusser Instrument Company H133
+Hewlett-Packard Company H134
+Hexagon Laboratories, Inc H135
+Hexcel Corporation H136
+H H Aerospace Design Co, Inc H137
+H & H Environmental Laboratories H138
+Hibbs Laboratories H139
+Hibner Prt^ucts Manufacturing, Inc H140
+Higher Order Software, Inc H141
+High Pressure Diamond Optics, Inc H142
+High Voltage Engineering Corporation H143
+Highway Users Federation for Safety and Mobility H144
+HI-G Incorporated H145
+Frank Hill Associates Inc H146
+Hills Research and Development, Inc H147
+Hipotronics, Inc H148
+Hird and Associates H149
+Hirsch Laboratories Inc H150
+H J Hirtzer & Associates H151
+Hisonic, Inc H152
+Hi-Stat Manufacturing Co H153
+E R Hitchcock & Associates H154
+Hittman Associates, Inc H155
+H K Metalcraft Manufacturing Corp H156
+HMS Corporation H157
+H N B Consulting Engineers H158
+TROY Hobart Brothers Company H159
+Hobart Corporation H160
+Hodges, Vines, Fox, Allen & Associates H161
+Hoffman Engineering Corporation H162
+Morton Hoffman and Co Inc H163
+Hoffmann-La Roche Inc H164
+Ross Hofmann, Associates H165
+William F Hogan Associates, Inc H166
+Hohman Plating & Manufacturing Inc H167
+Hollander Associates H168
+Hollander, Cohen Associates, Inc H169
+Holiingsead-Pryor Enterprise H170
+Hollingsworth & Vose Company H171
+Holly Sugar Corporation H172
+Holobeam, Inc H173
+Holograf H174
+Holosonics Inc H175
+The Ben Holt Co H176
+Holter Research Foundation, Inc H177
+Homasote Company H178
+Homer Laughlin China Co H179
+The O Hommel Company H180
+Honeywell Inc H181
+H P Hood Inc H182
+R H Hood Co H183
+The Hoover Company H184
+Hope Chemical Corp H185
+Hopkins Agricultural Chemical Company H186
+Hoppmann Corporation H187
+Horizon Industries, Inc H188
+Horizons Research Inc H189
+Horizons Research Laboratories, Inc H190
+Geo A Hormel & Company H191
+Horvitz Research Laboratories, Inc H192
+Hospal Medical Corporation H193
+Hospital Bureau, Inc H194
+Hospital Planning & Consultant Services, Inc H195
+Hospital Research and Educational Trust H196
+Hospital Research Associates, Inc H197
+Hospital Systems Inc H198
+Hotpack Corporation H199
+Harvey W Hottel Inc H200
+Houdaille Industries, Inc H201
+Houdaille Industries, Inc H201
+E F Houghton & Co H202
+Household Data Services, Inc H203
+Houston Fearless Corporation H205
+Houston Research Inc H206
+Daniel D Howard Associates, Incorporated H207
+Howell Laboratories, Inc H208
+H & R Design, Ltd H209
+H S C Services, Inc H210
+HSI-Houston Scientific International, Inc H211
+HSS Inc H212
+HTL Industries, Inc H213
+H2M Corp H214
+Harvey Hubbell Inc H215
+J M Huber Corporation Research Laboratory H216
+Hudson Industries Corporation H217
+Hudson Industries, Inc H218
+Hudson Institute H219
+Hudson Laboratories, Inc H220
+Huffman Laboratories Inc H221
+Hughes Aircraft Company H222
+Hughes Industries H223
+Hughes Tool Co H224
+Hughes-Treitler Manufacturing Company H225
+Charles L Huisking & Co, Inc H226
+Hull Corporation H227
+Human Factors Research Inc H228
+Human Resources Co H229
+Human Resources Management, Inc H230
+Human Resources Research Organization H231
+Human Sciences Research, Inc H232
+Hummel Chemical Company, Inc H233
+The Humphrey Chemical Company H234
+Humphrey Chemical Corporation H235
+Humphrey, Inc H236
+Donald N Humphries & Associates H237
+Hunter Associates Laboratory, Inc H238
+Hunter Manufacturing Company H239
+Huntington Laboratories, Inc H240
+Hunt International Resources Corporation H241
+Philip A Hunt Chemical Corp H242
+Robert W Hunt Company H243
+W G Hunt & Co, Inc H244
+Hurst Laboratories H245
+Hurst Metallurgical Research Laboratory, Inc H246
+Huyck Corporation H247
+Hybrinetics, Inc H248
+Hy-Cal Engineering H249
+Hycel, Inc H250
+Hycor, Inc H251
+Hyde Park Electronics, Inc H252
+Hydra Computer Corporation H253
+Hydratecs, Inc H254
+Hydraulic Servocontrols Corporation H255
+Hydroacoustics Inc H256
+Hydrocomp Inc H257
+Hydroculture, Inc H258
+Hydro-Data, Inc H259
+Hydronautics, Incorporated H260
+Hydrophilics International, Inc H261
+Hydro Research Science H262
+Hydrotronics, Inc H263
+Hyletronics Corporation H264
+Hyman/Greenberg Associates H265
+Hysan Corp H266
+Hyster Company H267
+IBEC Industries Inc I1
+Icarus Corporation I2
+ICC Industries, Inc I3
+ICI Americas Inc I4
+IC Industries I5
+I C M Industries, Inc I6
+ICN Pharmaceuticals, Inc I7
+Icon/Information Concepts, Inc I8
+Idealab, Inc I9
+Ideal Aerosmith, Inc I10
+Ideal Basic Industries, Inc I11
+Ideal Precision Meter Company I12
+Ideal Roller and Graphics company I13
+Ideal Toy Corporation I14
+Ideamatics, Inc I15
+Identicon Corporation I16
+I E Associates. Inc I17
+IEC Electronics Corporation I18
+IFR, Inc I19
+IIT Research Institute I20
+ILC Technology, Inc I21
+Ilex Optical Company, Inc I22
+Illinois Tool Works Inc I23
+Illinois Water Treatment Company I24
+Illuminating Engineering Research Institute I25
+Illumination Industries, Inc I26
+Image Graphics, Inc I27
+IMC Magnetics Corp I28
+IMCO Laboratories, Inc I29
+IMMCO (Inventive Manufacturing & Marketing Co) I30
+IMPACT I31
+The IMR Corporation I32
+Imtronix, Inc I33
+INCO, Incorporated I34
+Inco Limited I35
+Incoplas Corporation I36
+Incosym, Inc I37
+Indeirendence Scale Model Corporation I38
+Gcoplan GlOO Independent Power Developers, Inc I39
+Independent Testing Laboratories, Inc I40
+Indev Control Systems, Inc I41
+Index Systems, Inc I42
+Indiana Biolab I43
+Indiana Ordnance, Inc I44
+Indianapolis Center for Advanced Research, Inc I45
+Indian Hill Products I46
+The Indium Corporation of America I47
+Inductive Science, Inc I48
+Inductotherm Industries, Inc I49
+Industrial Acoustics Company, Inc I50
+Industrial Air, Inc I51
+Industrial Builders, Inc I52
+Industrial By-Products and Research Company I53
+Industrial Consultants, Inc I54
+Industrial Design and Drafting Company I55
+Industrial Design & Machine Corp I56
+Industrial Dynamics Co, Ltd I57
+Industrial Hazard Analysts Inc I58
+Industrial Inspection Industries, Inc I59
+Industrial Laboratories I60
+Industrial Materials Technology, Inc I61
+Industrial Metal Finishing Company I62
+Industrial Noise Control, Inc I63
+Industrial Noise Services, Inc I64
+Industrial Nucleonics Corporation I65
+Industrial Steel Co I66
+Industrial Technological Associates, Inc I67
+Industrial Tectonics, Inc I68
+Industrial Testing Laboratories I69
+Industrial Testing Laboratories I70
+Industrial Testing Laboratory Service Corp I71
+Industrial Washing Machine Corporation I72
+Industrionics Inc I73
+Inert Controls Corp I74
+Infi-Tek Associates I75
+Inforex, Inc I76
+Information Automation I77
+Information & Communication Applications, Inc I78
+The Information Connection I79
+Information Development and Applications, Inc (IDEAS) I80
+Information Displays, Inc I81
+Information Exchange Service, Inc I82
+Information International, Inc I83
+Information Planning Associates I84
+Information Processing Laboratories I85
+Information Resources, Inc I86
+Information Science, Inc I87
+Information Spectrum, Incorporated I88
+Inforonics, Inc I89
+Infoscope, Inc I90
+Infrared Industries, Inc I91
+Ingersoll-Rand Company I92
+Inland Steel Company I93
+Innocept, Inc I94
+Innova, Inc I95
+Innovatek Microsystems Inc I96
+Innovation Associates I97
+Innovative Programming Systems Incorporated I98
+Innovative Systems Research, Inc I99
+Innovative Technology Associates I100
+Input Business Machines, Inc I101
+Input Output Computer Services, Inc I102
+Insco Corporation I103
+Insect Control & Research, Inc I104
+Insgroup, Inc I105
+Insilco Corp I106
+The Insinger Machine Company I107
+DADE CITY Instant Ocean Hatcheries Inc I108
+Institute for Atmospheric Optics & Remote Sensing I109
+Institute for Behavioral Research, Inc I110
+The Institute for Cancer Research I111
+Institute for Medical Research I112
+The Institute for Public Program Analysis I113
+Institute for Research, Inc I114
+The Institute for Safety Analysis Inc I115
+Institute for Scientific Analysis I116
+Institute for Scientific Information I117
+Institute for Social Research, Inc I118
+Institute for Study of Earth & Man I119
+Institute of Environmental & Industrial Health I120
+Institute of Gas Technology I121
+Institute of Logopedics, Inc I122
+The Institute of Paper Chemistry I123
+Institute of Public Administration New York Office I124
+Institute of Scientific Research I125
+Institute of Textile Technology I126
+Institute of the Great Plains I127
+Institutes Of Medical Sciences I128
+Instron Corporation I129
+Instrumentation Laboratory, Inc I130
+Instrumentation Specialties Co, Inc I131
+Instrument Development Laboratories Inc I132
+Instruments for Industry I133
+Instruments for Research & Industry I134
+Instruments, Inc I135
+Intech Labs Inc I136
+Integra, Incorporated I137
+Integrated Circuits Incorporated I138
+Integrated Development & Manufacturing Co I139
+Integrated Life Support Laboratories I140
+Integrated Systems, Inc I141
+Inc I142
+Intel Corporation I143
+Interactive Management Systems, Inc I144
+Interactive Sciences Corporation I145
+Inter-American Laboratory Service, Inc I146
+Inlerand Corporation I147
+GREAT NECK Inter-City Testing & Consulting Corp I148
+Intercomp Resource Development and Engineering, Inc I149
+Intercontinental Chemical Corp I150
+Interex Corporation I151
+Interface Engineering Inc I152
+Interlake, Inc I153
+Intermagnetics General Corporation I154
+Intermetrics, Inc I155
+Intermountain Laboratories, Inc I156
+Intermountain Technologies, Inc I157
+International Biological Laboratories, Inc I158
+International Business Machines Corporation I159
+International Computer Technology Corp I160
+International Computing Company I161
+International Controls Corporation I162
+International Copper Research Association, Inc I163
+International Crystal Laboratories I164
+International Data Corporation I165
+International Diagnostic Technology, Inc I166
+International Diode Corporation I167
+International Engineering Services Corporation I168
+International Fabricare Institute I169
+International Flavors Sc Fragrances Inc I170
+International Harvester I171
+International Laser Systems, Inc I172
+International Lead Zinc Research Organization, Inc I173
+International Light Inc I174
+International Machine & Tool Corp I175
+International Management Systems, Inc I176
+International Microtronics Corp I177
+International Minerals & Chemical Corporation I178
+International Multifoods Corp I179
+International Paper Company I180
+International Pipeline Engineers, Inc I181
+International Planning Management Corporation I182
+International Products Corp I183
+International Rectifier Corp I184
+International Remote Sensing Institute I185
+International Research and Development Corporation I186
+International Resource Development, Inc I187
+International Resource Systems I188
+International Sensor Systems, Inc I189
+International Services Corp I190
+International Signal & Control Corp I191
+International Telephone and Telegraph Corporation I192
+The International Telesis Company, Inc I193
+International Thermal Instrument Co I194
+International Training Consultants, Inc I195
+Interocean Systems, Inc I196
+Interpace Corporation I197
+Interplan Corporation I198
+Interpoll Incorporated I199
+Interpretation Systems Incorporated I200
+InterScan Corporation I201
+Interscience, Inc I202
+Intersea Research Corporation I203
+Intersil, Inc I204
+The Interstate Folding Box Company I205
+Interstellar, Ltd I206
+Interstudy I207
+Intertechnology Solar Corporation I208
+Intertel Incorporated I209
+Inter X Research Corporation I210
+Invention Marketing Incorporated I211
+Ion Exchange Products, Inc I212
+Ionics, Incorporated I213
+Ionic Solar, Inc I214
+IOTA Engineering, Incorporated I215
+Iowa Industrial Hydraulics, Inc I216
+Ipco Hospital Supply Corporation I217
+IPL, Inc I218
+The Ironsides Co I219
+Iroquois Research Institute I220
+IRT Corporation I221
+A D Isaacs Associates, Inc I222
+Isaac’s Lab Stock I223
+Isolab Inc I224
+Isolantite Manufacturing Company I225
+Isothermics, Inc I226
+Isovac Engineering, Inc I227
+I-t’an Yu, Consulting Engineer I228
+ITC, Inc I229
+Itek Corporation I230
+Iten Fibre Co I231
+Ithaco Inc I232
+ITI Electronics, Inc I233
+U International Corporation I234
+George Ivanoff Consultants I235
+Ivy Electronics, Inc I236
+IXI Laboratories Inc I237
+Jaca Corporation J1
+Jackson Foundation for Medical Education and Research J2
+The Jackson Laboratory J3
+Jacobs Associates J4
+Jacobs Engineering Group Inc J5
+Jacobs-Winston Laboratories Inc J6
+Jacoby-Tarbox Corp J7
+Jamaica Water Properties, Inc J8
+Jamesbury Corp J9
+James River Limestone Company, Inc J10
+Jamestown Paint and Varnish Co J11
+Jamieson Laboratories J12
+Janel Laboratories J13
+Janeway Engineering Co J14
+Jard Company J15
+Jaycor J16
+Jaycor J17
+T Jayne Co J18
+JBF Scientific Corporation J19
+JCL Clinical Research Corporation J20
+J-D Enterprises J21
+Jedco Chemical Corporation J22
+Jemco, Inc J23
+Jenkins Laboratories Inc J24
+Jenny Engineering Corporation J25
+Jensen Instruments J26
+Rolf Jensen & Associates, Inc J27
+Jensen Salsbery Laboratories J28
+Jerome Underground Transmission Equipment, Inc J29
+Jet Aeration Company J30
+Jetel Company J31
+JFT Associates J32
+J G Engineering Research Associates J33
+JGM Associates, Inc J34
+JHK & Associates J35
+Jim Walter Corporation J36
+J&J Marine Diving Company J37
+Jodon Engineering Associates, Inc J38
+Stephen P Joffre & Assocs J39
+Johner Manufacturing Corporation J40
+Johns-Manville Corporation J41
+A Johnson Laboratory J42
+Johnson Controls, Inc J43
+E F Johnson Co J44
+Johnson Engineering Company J45
+Johnson & Johnson J46
+Johnson Laboratories, Inc J47
+Lawrence Johnson Associates, Inc J48
+Johnson Products Co, Inc J49
+Johnson Rubber Company J50
+S C Johnson & Son, Inc J51
+Wm B Johnson and Associates, Inc J52
+Jon B Jolly Inc J53
+Jones-Blair Company J54
+Jones Chemicals, Inc J55
+Jones & Stokes Associates, Inc J56
+Jordan, Apostal, Ritter Associates, Inc J57
+Edward C Jordan Co, Inc J58
+Roy Jorgensen Associates, Inc J59
+Joslyn Manufacturing and Supply Co J60
+Jotun-Baltimore Copper Paint Co J61
+Joseph M Joyce & Associates J62
+Joy Manufacturing Company J63
+J-Tec Associates, Inc J64
+JTI Corporation J65
+Juarez and Associates, Inc J66
+Judson Research & Mfg Co J67
+Julie Research Laboratories, Inc J68
+Jung Products Inc J69
+JWK International Corporation J70
+JWM Corporation J71
+Klipsch and Associates, Inc K1
+Knudsen Corporation K1
+K&L Microwave Inc K1
+KMS Fusion, Inc K1
+KMS Industries, Inc K1
+Klein Associates, Inc K1
+Klotzbach Associates K1
+Kadlec Associates K1
+Morris Knowles Incorporated K1
+Knowlton Brothers K1
+Kahle Engineering Company K2
+Kahl Scientific Instrument Corp K3
+Kahn and Company, Inc K4
+Kaiser Aluminum & Chemical Corporation K5
+Kaiser Cement Company K6
+Martin L Kaiser, Inc K7
+Kalart Victor Corp K8
+Kallen & Lemelson K9
+Kaltec Scientific Instrument Inc K11
+Kalvar Corporation K12
+Kaman Corporation K13
+Kevcx Corporation K14
+Kan-Du Tool & Instrument Corp K14
+Kane-Miller Corporation K15
+Kansas City Testing Laboratory K16
+Kaple Lumber Co Inc K17
+Kappa Systems, Inc K18
+Kappe Associates Inc K19
+The Kar Laboratory K20
+William Karp Consulting Company, Inc K21
+Kase Equipment Corporation K22
+Kasper Foundry Co K23
+G S Kass & Associates, Ltd K24
+Kastar, Inc K25
+Katy Industries, Inc K26
+Richard A Katzman Consultant K27
+Kaufman Glass Company K28
+Kayex Corp K29
+Kay-Fries, Incorporated K30
+Kay Laboratories, Inc K31
+Kaysam Corp of America K32
+KBG Corporation K33
+KDA K34
+Keane Associates, Inc K35
+A T Kearney, Inc K36
+Keating of Chicago, Incorporated K37
+Keck-Craig Associates K38
+Keebler Company K39
+Keene Corporation K40
+Kees Surgical Specialty Co K41
+Kegelman Bros K42
+Keithley Instruments, Inc K43
+Kelch Manufacturing Corporation K44
+Kelchner Engineering and Design Company K45
+Kellett Corporation K46
+Kelley Company, Inc K47
+Kellogg Company K48
+Kellogg Corporation K49
+Kcllwood Company K50
+Kelly Scientific Corporation K51
+Kelmore, Inc K52
+Kemlite Laboratories, Inc K53
+Kemlon Products & Development Co K54
+Kemper-Behavioral Science Associates, Inc K55
+Kemtron Electron Products, Inc K56
+Kendall Associates K57
+Kendall Infrared Laboratories K58
+Kendrick & Company K59
+Kennametal Inc K60
+Kennecott Copper Corporation K61
+M S Kennedy Corporation K62
+Kenrich Petrochemicals Inc K63
+Kentucky Testing Laboratory Corp K64
+Kenvirons, Inc K65
+Kenyon Enterprises K66
+Kenyon Magnetics, Inc K67
+Keramco Refractories K68
+Kerr-McGee Corporation K69
+Kessler-Ellis Products Company K70
+Ketron, Incorporated K71
+Charles F Kettering Research Laboratory K72
+Keuffel & Esser Co K73
+Kewaunee Scientific Equipment Corporation K75
+Keyan Industries Inc K76
+Key Polymer Corporation K77
+Keystone Battery Corporation K78
+Keystone Color Works, Inc K79
+Keystone Computer Associates, Inc K80
+Keystone Consolidated Industries, Inc K81
+Keystone Electronic Corporation K82
+KFC Systems Analysis, Fiber Ash Group K83
+Kice Metal Products Co, Inc K84
+Walter Kidde & Company, Inc K85
+Killalea Associates, Incorporated K86
+Kilpatrick Associates Inc K87
+Kimball International, Inc K88
+Kimball Physics, Inc K89
+Kimberly-Clark Corporation K90
+Kin Associates Inc K91
+Kinco Inc K92
+Kindler Associates K93
+Kinetic Dispersion Corporation K94
+Kinetics Corporation K95
+King Industries, Inc K96
+King Laboratories, Inc K97
+King Radio Corp K98
+Kings Electronics Co, Inc K99
+Kinnetic Laboratories, Inc K100
+Kirkman Laboratories, Inc K102
+T F Kirkman Inc K103
+Kisco Company, Inc K104
+Kistler-Morse Corporation K105
+Kitts Design Associates, Inc K106
+KKBNA, Consulting Engineers K107
+Charles Klabosh, Consultant K108
+KLI, Inc K111
+KNS Companies Incorporated K118
+Koba Associates, Inc K120
+Koch Industries, Inc K121
+Peter F Koch and Associates, Inc K122
+Louis Koenig Research K123
+E F Koetsch «&. Associates K124
+Kohler Co K125
+Kohler-General, Inc K126
+Frederick H Kohloss & Associates, Inc K127
+H Kohnstamm & Co, Inc K128
+Kolar Enterprises, Inc K129
+Kolmar Laboratories, Inc K130
+Kometco, Inc K131
+Konigsberg Instruments, Inc K132
+Kontes K133
+NEW JERSEY (cont) Kooltronic, Inc K134
+Koppers Company, Inc K135
+Korfund Dynamics Corporation K136
+Kornylak Corporation K137
+Koss Corp K138
+KPFF Consulting Engineers K139
+Allen L Kracower & Associates, Inc K140
+Kraft Apparatus, Inc K141
+Kraft, Inc K142
+Krall Management Incorporated K143
+H Kramer & Co K144
+Kratos Inc K145
+Krause Milling Company K146
+Krause Plow Corp K147
+Kremers-Urban Company K148
+Kreonite, Incorporated K149
+Irving P Krick Associates, Inc K150
+Kroger Company K151
+Krohn-Hite Corporation K152
+KRS Associates, Inc K153
+Kryptonics, Inc K154
+KTA-Tator Associates, Inc K155
+Kuakini Medical Center K156
+Kulicke And Sofia Industries, Inc K157
+Kulite Semiconductor Products, Inc K158
+Kurth Malting Corporation K159
+Kurz-Kasch, Inc K160
+Kuss Corporation K161
+Kussmaul Electronics Co Inc K162
+Kyros Corp K163
+Luckey Laboratories, Incorporated L1
+The Lifwynn Foundation L1
+Lummus Industries L1
+Lindberg Corporation L1
+Erik A Lindgren & Associates, Inc L1
+Louisville Testing Laboratory, Inc L1
+Lightning & Transients Research Institute L1
+LaBarge, Inc L1
+Laclede Gas Company Laboratory L1
+Laclede Gas Laboratories L1
+Linde Hydraulics Corporation L1
+Lord Kinematics L1
+Linden Laboratories, Inc L1
+Lindau Chemicals Inc L1
+Labconco Corporation L2
+Lab Fabricators Co L3
+Labindustries L4
+Laboratory for Comparative Biochemistry L5
+Laboratory for Fluid Power L6
+Laboratory Instrumentation Services, Inc L7
+Laboratory Research Enterprises, Inc L8
+Labor Research Association, Inc L9
+Lab Products, Inc L10
+Laclede Gas Company L11
+Laclede Steel Co L12
+Ladd Research Industries, Inc L13
+Lad Electro-Systems, inc L14
+Ladish Co L15
+Lafayette Instrument Co L16
+La France Manufacturing Company L17
+Lahey Clinic Foundation L18
+Laikin Optical Corp L19
+Lake Shore Cryotronics, Inc L20
+Lamaur, Inc L21
+Karl Lambrecht Corporation L22
+La Motte Chemical Products Company L23
+Lamports Company L24
+Lamson & Sessions Co L25
+Lancaster Laboratories, Inc L26
+Lancer Chemical Inc L27
+Lancer Electronics Corporation L28
+Landis & Gyr N A, Inc L29
+Land O’Lakes Inc L30
+The Landsberg Consultant L31
+Langston Laboratories, Inc L32
+Lankard Materials Laboratory, Inc L33
+Lansmont Corporation L34
+Lanson Industries, Inc L35
+Lapuck Laboratories L36
+La Rocca Science Laboratories, Inc L37
+W T LaRose & Associates, Inc L38
+Larox Research Corp L39
+Larson Aero Development L40
+Roland S Larson & Associates L41
+Las Advertising & Industrial Art L42
+La Salle Steel Company L43
+Laser Holography Inc L44
+Lasermation, Inc L45
+Lasermetrics, Inc L46
+Laser Nucleonics Inc L47
+Laser Optics, Inc L48
+Laser Precision Corporation L49
+Laser Technology Inc L50
+Las-Lab Company L51
+Lathrop Paulson Company L52
+Lava Crucible-Refractories Co L53
+LaWall and Harrisson Research Laboratories, Inc L54
+A C Lawrence Leather Co L55
+Lawrence Aviation Inc L56
+Lawrence Electronics Company L57
+Lawrence Engineering, Inc L58
+Lawrence-Leiter & Company L59
+Lawter Chemicals, Inc L60
+The Lea Manufacturing Company L61
+K T Lear Associates, Inc L62
+Learning & Development Clinic L63
+Lea Ronal Inc L64
+Lear Siegler Inc L65
+Leberco Laboratories L66
+LeBlanc Research Corporation L67
+LeBlond Inc L68
+Leco Corporation L69
+Lectroetch Company L70
+Ledoux & Co, Inc L71
+Lee Foundation for Nutritional Research L72
+Leemis Marketing Consultants, Inc L73
+Lee Pharmaceuticals L74
+Leesona Corp L75
+Le Fiell Mfg Co L76
+Legrady Corp L77
+Lehighton Electronics, Inc L78
+The Lehigh Valley Laboratories, Inc L79
+Lely L80
+Lemert Engineering Co Inc L81
+Lemont Scientific, Inc L82
+Lengor Incorporated L83
+Lenox China, Inc L84
+Reid H Leonard Chemical Laboratory L85
+LeSchack Associates, Ltd L86
+Lester Associates, Inc L87
+Lester Laboratories, Inc L88
+Lever Brothers Company L89
+C Lever Co, Inc L90
+Mervin N Levey Company L91
+Levi Strauss & Co L92
+Lew Associates L93
+D A Lewis Associates, Inc L94
+The Lewis Engineering Co L95
+Samuel R Lewis Associates, Inc L96
+Lewis & Saunders, Inc L97
+Lexalite International Corporation L98
+LFE Corporation L99
+L’Garde, Inc L100
+LGL Limited—U S Inc L101
+Libbey-Owens-Ford Company L102
+Liberty Industries, Inc L103
+Liberty Mutual Insurance Companies L104
+LI-COR Inc L105
+Life Energies Research Institute, Inc L106
+Life Sciences, Inc L107
+Life Sciences, Inc L108
+Life Systems, Inc L109
+Liggett Group Inc L111
+Lindsay Olive Growers L119
+Linear Alpha, Inc L120
+Line Fast Corporation L121
+Linguistic Systems, Inc L122
+Linkabit Corporation L123
+Linton & Co, Inc L124
+The Lionel Corporation L125
+Lipe-Rollway Corp L126
+Thomas J Lipton Inc L127
+Liquid Crystal Technology, Inc L128
+Lisle Computer Corporation L129
+Lith-Kem Co L130
+Arthur D Little, Inc L131
+Roy Littlejohn Associates, Inc L132
+Littleton Research and Engineering Corp L133
+Litton Industries, Inc L134
+LKC Systems, Inc L135
+Lloyds E/D Research Co L136
+LND, Inc L137
+LNK Corporation, Inc L138
+LNP Corporation L139
+LNR Communications Inc L140
+Locke Insulators Inc L141
+Lockheed Corporation L142
+Lockwood, Andrew & Newman, Inc L143
+Loctite Corp L144
+Locus, Inc L145
+Albert Loeffler & Company, Inc L146
+Loews Corporation L147
+Logic Systems, Inc L148
+Logimetrics Inc L149
+Logistics Management Engineering, Inc L150
+Logistics Research L151
+Logitek Inc L152
+Londe-Parker-Michels, Inc L153
+Lone Star Industries, Inc L154
+Long/Davy Associates L155
+Long Island Lighting Company L156
+Lorain Electronics Corporation L157
+Loral Corporation L158
+Lorch Devices L159
+Hughson Chemicals L16O.2 Lord Corporation L160
+R V Lord & Associates, Inc L161
+Lorelei Corporation L162
+Lorenzi, Dodds & Gunnill Inc L163
+Lory Industries, Inc L164
+Louis Engineering L165
+Louisiana-Pacific Corporation L166
+Louisville Cement Co L167
+Loureiro Engineering Associates L169
+Lovelace Medical Center L170
+Loveland Industries, Inc L171
+Lowell Observatory L172
+Lowe Paper Company L173
+John L Lowery and Associates L174
+Lowry Manufacturing, Inc L175
+The LTV Corporation L176
+Lubell Laboratories Inc L177
+D Lubman & Associates L178
+Lubricant Consultants, Inc L179
+The Lubrizol Corporation L180
+Lucero & Associates L181
+Ludlow Industries, Inc L183
+Geo-Atmospherics Corporation GlOl Luft Instruments, Inc L184
+C H Luhrs L185
+Lukens Steel Company L186
+Lumitron Corporation L187
+Lundstrom Laboratories, Inc L189
+GLEN HEAD Lundy Electronics & Systems, Inc L190
+L A Lux Company L191
+Luzier Personalized Cosmetics L192
+LWFW. Inc L193
+Lycott Environmental Research Company L194
+Lydaii Inc L195
+Lynch Communication Systems Inc L196
+Lytron, Inc L197
+Master International Corp M1
+Master Electronic Controls M1
+Materials Handling Systems, Inc M1
+Massachusetts Materials Research, Inc Lehigh Testing Laboratories M1
+Mast Development Company M1
+J Ray McDermott & Company Inc M1
+Macro Systems, Inc M1
+Massachusetts Materials Research, Inc M1
+Maas & Waldstein Co M1
+Materials Electronic Products Corp M1
+Material Concepts, Inc M1
+Mater Engineering M1
+Mac Dermid, Inc M2
+Monsolar, Inc M3
+MacDonald Engineering M3
+Minority Engineers of Louisiana (MEL), Inc M3
+Monsanto Research Corporation M3
+Mooney Engineering, Inc M3
+Machinecraft, Inc M4
+Mack Electric Devices, Inc M5
+MacMillan Research M6
+John S MacNeill Jr, PC M7
+M/A-COM, Inc M8
+Macro Corporation M9
+Macrodyne, Inc M10
+R H Macy Sc Co, Inc M12
+Magic American Chemical Corporation M13
+Magic Marker Corporation M14
+Magna Research Inc M15
+Magnetic Corporation of America M16
+Magnetic Engineering Associates, Inc M17
+Magnetic Marketing Corp M18
+Magnetic Research, Inc M19
+Magnetics International, Inc M20
+Magnetronics Controls, Inc M21
+Magnolia Laboratory M22
+Magnuson Engineeers, Inc M23
+Makai Ocean Engineering, Inc M24
+Mako Compressors, Inc M25
+Malco Plastics, Inc M26
+Malco Products, Inc M27
+Mallet And Company, Inc M28
+Mallinckrodt, Inc M29
+F H Maloney Co M30
+Management Advisiory Services, Inc M31
+Management Consultants Unlimited, Inc M32
+Management Design, Inc M33
+Management Engineers Incorporated M34
+Management Information Corporation M35
+Management Research & Development Institute M36
+Management Science Associates M37
+Management Techniques M38
+Managistics Associates M39
+Manalytics, Inc M40
+Manchester Laboratories, Inc M41
+Mandate Corporation M42
+Man Factors, Inc M43
+Mangone Laboratory, Inc M44
+Mangrove Systems, Inc M45
+Manhattan Industries, Inc M46
+The B Manischewitz Co M47
+I Mankind Research Unlimited, Inc M48
+Manlabs, Inc M49
+Roy Mann Associates, Inc M50
+Manostat Corporation M51
+Mantaline Corporation M52
+C L Mantell and Associates M53
+Mapco Inc M54
+The Map Corporation M55
+Maple Island, Inc M56
+Maps Incorporated M57
+Marathon Manufacturing Company M58
+Marathon Oil Company M59
+MARC Analysis Research Corporation M60
+Marchak Engineering & Mfg Co M61
+Marchand Electronic Laboratories, Incorporated M62
+Marche Instruments, Inc M63
+Marcus & Gordon, Inc M64
+Maremont Corporation M65
+Margeotes/Fertitta, Inc M66
+Maria Collins Inc M67
+Mar, Incorporated M68
+Marine Biological Consultants, Inc M69
+Marine Colloids, Inc M70
+Marine Electric Corporation M71
+Marine Environmental Services M72
+Marine Inspection Engineers, Inc M73
+Marineland, Incorporated M74
+Marineland of The Pacific Biological Laboratory M75
+Marine Management Systems, Inc M76
+Marine Products Co M77
+Marine Research & Planning, Inc M78
+Marine Resources, Inc M79
+Marine Safety Equipment Corporation M80
+Marine Science Consortium M81
+Marion Laboratories, Inc M82
+Maritime Dynamics, Incorporated M83
+Mark-Five Industries, Inc M84
+Markley Laboratories, Inc M85
+Mark Resources, Inc M86
+Marks Polarized Corporation M87
+Marlane Development Co Inc M88
+Marlen Research Corp M89
+The Marley Company M90
+The Marley Organization, Inc M91
+Marlow Industries, Inc M92
+Marlyn Engineering Corporation M93
+Marotta Scientific Controls, Inc M94
+Marshall Oil Co, Inc M95
+Marsh-McBimey, Inc M96
+Marsh & McLennan, Incorporated M97
+Mars, Inc M98
+Marstan Chemical Laboratory M99
+Martel Laboratories, Inc M100
+James W Martin & Associates M102
+Martin Marietta Corporation M103
+Martin Research Ltd M104
+Martis Associates M105
+Maruman Integrated Circuits, Incorporated M106
+Marvalaud, Inc M107
+Maryland Nuclear Medicine Laboratory M108
+C H Masland & Sons M109
+Mason-Renshaw Industries M111
+Masterwork, Inc M115
+Materials Management Systems Inc M120
+Materials Research Corporation M121
+Materials Research, Inc M122
+Materials Research Laboratory, Inc M123
+Materials Sciences Corporation M124
+Materials Technology Corporation M125
+Material System Analysts M126
+Mateson Chemical Corp M127
+Mathematica, Inc M128
+Mathematical Applications Group, Inc M129
+Mathematical Sciences Northwest, Inc M130
+Mathews Research M132
+The Matlin Company, Inc M133
+Matrecon, Inc M134
+Matrix Corporation M135
+Matrix, Inc M136
+Matrix, Inc M136
+Matthey Bishop, Inc M137
+Maurer Engineering, Inc M138
+Maury Microwave Corporation M139
+Maxwell Laboratories, Inc M140
+Oscar Mayer & Co M141
+Mayes, Sudderth & Ethercdge, Inc M142
+The Maytag Company M143
+MB Associates M144
+MB Research Laboratories, Inc M145
+McBain Instruments, Inc M146
+McBer and Company M147
+McCallum Testing Laboratories M148
+McCloskey Varnish Co M149
+McConnell, Steveley, Anderson, Architects & Planners M150
+McCormick & Company, Inc M151
+Walter C McCrone Associates, Inc M152
+McDanel Refractory Co M153
+McDonald & Associates M155
+McDonald & Van Der Poll M156
+McDonnell Douglas Corporation M157
+McDonnell, Proudfoot & Associates, Inc M158
+McFarland Design, Inc M159
+Paul R Me Ginnes and Associates Consulting Laboratories, Inc M160
+McGraw-Edison Company M161
+Arthur G McKee and Company M162
+McKinley Optics, Inc M163
+McLaughlin Gormley King Company M164
+Kinton, Incorporated KlOl McLaughlin Research Corporation M165
+McLean Engineering Laboratories M166
+McMillan Science Associates, Inc M167
+McNally Pittsburg Mfg Corp M168
+McNeil Corporation M169
+A J McPhee Consulting Engineers M170
+MDH Industries, Inc M171
+The Mead Corporation M172
+Meadows Industries, Inc M173
+Meadox Medicals, Inc M174
+Means Laboratories, Inc M175
+The Mearl Corporation M176
+Measurements Incorporated M177
+Mecca Electronics M178
+Mecha Design Inc M179
+Mechanical Mirror Works, Inc M180
+Mechanical Technology Incorporated M181
+Mechanization Associates M182
+Mechmetal-tronics Inc M183
+Mech-tronics Corporation M184
+Mechtronics Corporation M185
+Medalist Industries Inc M186
+Medical and Technical Research Associates, Inc M187
+Medical Foundation of Buffalo, Inc M188
+Medical Service Consultants, Inc M189
+Medicus Affiliates, Inc M190
+Meditron Instrument Corp M191
+Med-Science Electronics, Inc M192
+Medtronic, Inc M193
+Edward T Meehan and Associates M194
+Mee Industries, Inc M195
+M & E Engineering Service, Inc M196
+George E Meesc Naval Architects & Marine Engineers M197
+Mega Analytical Research Services Inc M198
+Megatek Corporation M199
+Geosystems, Inc GllO Mei Associates, Inc M200
+Mei-Charlton, Inc M201
+Melchs Food Products Inc M202
+Melland Gear and Instrument M203
+Memorex Corporation M204
+Menasha Corp M205
+Menlo Research Laboratory, Inc M206
+The Mennen Co M207
+Menninger Foundation M208
+Mensor Corporation M209
+Merck & Co, Inc M210
+Mercury Plastics Corporation M211
+Meredith Corporation M212
+Meret Inc M213
+Merichem Company M214
+Meridian Bio-Medical, Inc M215
+Meridian Laboratory M216
+Merrill Engineering Laboratories, Inc M217
+The Merrill-Palmer Institute M218
+Merrimac Engineering, Inc M219
+Merrimac Industries M220
+Merritt Cases, Inc M221
+Merritt Enterprises, Inc M222
+The Mesa Corporation M223
+Mesomet, Inc M224
+Messer Associates, Inc M225
+Metal Bellows Co M226
+Metal Building Interior Products Company M227
+Metalcrete Manufacturing Co M228
+Metalene Chemical Co, Inc M229
+Metal Innovations, Inc M230
+Metallurgical Engineers of Atlanta, Inc M231
+Metalwash Machinery Corp M232
+Metaplast Electrochemicals Corp M233
+Meta Systems, Inc M234
+Metco Incorporated M235
+Meteor, Inc M236
+Metcut Research Associates Inc M237
+Meteorology International Incorporated M238
+Metex Corporation M239
+Method Associates M240
+Methode Electronics, Inc M241
+Metis Corporation M242
+MetPath Inc M243
+Metra-Tech Industries Inc M244
+Metrix, Incorporated M245
+Metrix Instrument Co M246
+Metron Instruments, Inc M247
+Metropolitan Medical Center Research Foundation M248
+Metrotec Research Associates M249
+Meyers Systems and Technology, Inc M251
+M G Scientific M252
+Miami Valley Punch Inc M253
+The Mica Corporation M254
+Michelman Chemicals, Inc M255
+Michigan Cancer Foundation M256
+Michigan General Corp M257
+Michigan Technological University M258
+Micon Inc M259
+Microbac Laboratories, Inc M260
+Microbiological Laboratories, Inc M261
+Microbiological Research Corporation M262
+Microbiological Sciences, Inc M264
+Microcoatings, Inc M265
+Micro Craft, Incorporated M266
+Microdyne Corporation M267
+Microfibres, Inc M268
+Microlab-FXR M269
+The Micromanipulator Company M270
+Micromeritics Instrument Corporation M271
+Micronics International Inc M272
+Micron Inc M273
+Micron Instrument Corporation M274
+Micron Metals, Inc M275
+Micro-Now Instrument Co M276
+Microphase Corporation M277
+Micro Precision Products, Inc M278
+Microprocess Laboratory M279
+Microsemiconductor Corporation M280
+Microtec Laboratory M281
+Micro-Tel Corporation M282
+Micro-Therapeutics, Inc M283
+Micro Tool Service Inc M284
+Microtran Co M285
+Microwave Development Laboratories, Inc M286
+Microwave Power Devices, Inc M287
+Microwave Research Corporation M288
+Microwave Semiconductor M289
+Microwave Systems, Inc M290
+Microwave Techniques, Inc M291
+Mictron, Inc M292
+Mid America Microanalysis Lab Inc M293
+Mid-Continent Surveys, Inc M294
+The Middlestadt Machine Company M295
+Midland Macromolecular Institute M296
+Midland-Ross Corporation M297
+Mid Monmouth Industries, Inc M298
+Midstate Testing Laboratory Inc M299
+Midwest Electronic Industries, Inc M300
+Midwest Feather Co, Inc M301
+Midwest Research Institute M302
+Midwest Solvents Co, Inc M303
+The Mifflin, McCambridge Co M304
+Milbar Corp M305
+John R Miles Corporation M306
+Miller & Associates M308
+The Miller Company M309
+Miller Electric Manufacturing Company M310
+Harry Miller Corp M311
+The Miller Organization M312
+Millers Forge Manufacturing Corporation M313
+Miiliflect M314
+Milliken Company M315
+Millipore Corporation M316
+Millis Research, Inc M317
+Millivac Instruments, Inc M318
+Milton Roy Co M321
+Milwaukee Food Laboratories Inc M322
+Minatronics Corporation M323
+Mine Safety Appliances Company M324
+Minicars, Inc M325
+Minimatic Components, Inc M326
+Mini-Systems, Inc M327
+Minitec Corporation M328
+Minneapolis Medical Research Foundation, Inc M329
+Minnesota Mining and Manufacturing Company M330
+NEW ULM Minnesota Valley Testing Laboratories, Inc M331
+L J Minor Corp M333
+Minuteman Labs, Inc M334
+Miracle Adhesives Corporation M335
+L Miranda & Associates, Inc M336
+Miranol Chemical Company, Inc M337
+Mission Research Corporation M338
+YAZOO CITY Mississippi Chemical Corporation M339
+Missouri Analytical Laboratories, Inc M340
+Missouri Botanical Garden M341
+Missouri Research Laboratories, Inc M342
+Mitchell & Gauthier Associates M343
+George A Mitchell Co M344
+Mite Corp M345
+The Mitre Corporation M346
+James A Mixon & Associates, Inc M347
+MKGK, Incorporated M348
+MKG Optical Instrumentation Corp M349
+MKM Corporation M350
+MK Research and Development Company M351
+Mobay Chemical Corporation M352
+Mobil Corporation M353
+Mobility Systems & Equipment Co M354
+Mobil Tyco Solar Energy Corporation M355
+Modem Controls Inc M356
+D27O Modern Machine & Tool Co, Inc M357
+Modem Optics Corporation M358
+Modine Manufacturing Company M359
+Modoc Engineering Corporation M360
+Modular Computer Systems, Inc M361
+Modular Devices, Inc M362
+Modupac, Inc M363
+Moffatt & Nichol, Engineers M364
+Mohasco Corporation M365
+Mohawk Designs M366
+Mohawk Finishing Products Inc M367
+Molded Fiber Glass Companies M368
+Moleculon Research Corporation M369
+Monadnock. Paper Mills M370
+MONA Industries, Inc M371
+The Monarch Machine Tool Company M372
+Monarch Water Systems Inc M373
+Moncrief-Popovich Research Institute M374
+Monitek, Inc M375
+Monogram Industries, Inc M376
+Monolithic Systems Coporation M377
+Monroe Engineering Corp M378
+Monroe Standard, Inc M379
+The Montana Energy and MHD Research and Development Institute, Inc M381
+Montana Tech Alumni Foundation M382
+Montevideo Technology, Inc M383
+Montgomery Research, Inc M384
+Moog Inc M385
+Mooney Chemicals Inc M386
+Moore Corporation Limited M388
+Moorman Manufacturing Company M389
+Moretrench American Corporation M390
+Morgan Construction Co M391
+Morgan Consulting, Inc M392
+Morgen Design Inc M393
+Morgen Design Inc M393
+Morris & Lee, Inc M394
+Morrison-Knudsen Co, Inc M395
+The Morrison Milling Company M396
+Morrison Products Inc M397
+Morris Pumps, Inc M398
+Morse Laboratories M399
+Morton-Norwich Products, Inc M400
+Moses, Epstein & Wiseman, Inc M401
+Mosfet Micro Labs, Inc M402
+Moshman Associates, Inc M403
+Mosier Industries, Inc M404
+Motch & Merryweather Machinery Co M406
+Motor Appliance Corp M408
+Moto-Search, Inc M410
+Mototron, Inc M411
+Mountain States Mineral Enterprises, Inc M412
+Mountain West Research, Inc M413
+Moutrey & Associates, Inc M414
+M/PF Research, Inc M415
+MPS Consultants M416
+MRI Systems Corp M417
+M-R Plastics and Coatings, Inc M418
+MSI Telecommunications Consulting Engineers M419
+MSM, Inc M420
+MTD Research & Development Corporation M421
+MTS Systems Corporation M422
+Mu-Del Electronics, Inc M423
+Mueller Co M424
+Muffoletto Optical Company, Inc M425
+Muirhead, Inc M426
+Mullett Associates, Inc M427
+Multimatic Products, Inc M428
+Multisystems, Inc M429
+Multus Corporation M430
+Municipal Environmental Associates, Inc M431
+Murdock, Inc M432
+Robert A Murley & Associates M433
+Murphy-Phoenix Co M434
+Murphy Products Company, Inc M435
+Museum of Northern Arizona, Inc M436
+Mutron Corporation M437
+Mystech Associates, Inc M438
+Naarden International USA N1
+Nabisco, Inc N2
+Nalco Chemical Company N3
+Nalin Laboratories N4
+Nalle Plastics, Inc N5
+Namco Machinery Inc N6
+Nametre Company N7
+Nanmac Corporation N8
+Nanodata Corporation N9
+Nanon Electronics, Incorporated N11
+Nantucket Maria Mitchell Association N12
+Nap Controls Corporation N13
+Napko Corp N14
+Nashua Corp N15
+Nassau Tool Works, Inc N16
+Natel Engineering Co, Inc N17
+The Natelsoq Company, Inc N18
+National Airoil Burner Company N19
+National Association of Home Builders of the US N20
+The National Asthma Center N21
+National Beryllia Corp N22
+National Biocentric, Inc N23
+National Biomedical Research Foundation N24
+National Bureau of Economic Research, Inc N25
+National Can Corporation N26
+National Casein Co N27
+The National Center of Communication Arts and Sciences N28
+National Circuits Inc N29
+National Concrete Masonry Association N30
+National Crushed Stone Association N31
+National Distillers and Chemical Corporation N32
+The National Drying Machinery Co N33
+National Economic Research Associates, Inc N34
+National Electrostatics Corporation N35
+National Evaluation Systems, Inc N36
+National Food Processors Association N37
+National Fruit Product Company, Inc N38
+National Gear Corporation N39
+National Gypsum Company N40
+National Health Laboratories, Inc N41
+National Hybrid, Inc N42
+National Institute of Creativity, Inc N43
+LA VALE National Jet Sales Corporation N44
+National Laboratories for Research & Testing N45
+National Manufacturing Corporation N46
+National Medical Services, Inc N47
+National Micronetics Inc N48
+National Moldite Co N49
+National Patent Development Corporation N50
+National Presto Industries, inc N51
+National Research & Chemical Co N52
+National Research & Development Laboratories, Inc N53
+National Research Laboratories N54
+National Sand and Gravel Association and National Ready Mixed Concrete Association N55
+National Seed Testing Service N56
+National Soft Drink Association N57
+National-Standard Co N58
+National Starch and Chemical Corporation N59
+National Steel Corporation N60
+I National Stove Works, Inc N61
+National Super Service Co N62
+National Testing & Research Laboratory Inc N63
+Natrochem, Inc N64
+Nautical Electronics Co, Inc N65
+Navco N66
+Nav-Tec Industries N67
+Dan Nay Associates N68
+NCR Corporation N69
+Nebraska Testing Laboratories, Inc N70
+Neco Corporation N71
+Neff Instrument Corp N72
+A L Nellum and Associates N73
+Nelson and Johnson Engineering, Inc N74
+Nelson Industries, Inc N75
+Neomed, Inc N76
+Neoterics Inc N77
+Nestle Enterprises N78
+Nestic-LeMur, Inc N79
+Network Analysis Corporation N80
+Neurocommunication Research Laboratories, Inc N81
+Neus, Inc N82
+Nevada Engineering & Technology Corp N83
+Neville Chemical Co N84
+Newberry Energy Corporation N85
+Newe Daisterre Glass N86
+New England Fish Co N87
+The New England Institute N88
+New England Nuclear Corp N89
+New England Transformer Company N90
+New Era Products, Inc N91
+New Hampshire Ball Bearings, Inc N92
+Dr Allen R Newman Management Consultant N93
+Newmont Mining Corp N94
+Newport Phannaceuticals International, Inc N95
+Newport Research N96
+New Venture Engineering, Inc N97
+New York Aquarium, N98
+New York Blood Center, Inc N99
+New York Botanical Garden N100
+New York Testing Laboratories, Inc N101
+J M Ney Co N102
+Ney Smelting & Refinery Company N103
+K M NG & Associates, Inc N104
+NH Research, Inc N105
+Niagara Blower Company N106
+Niagara Machine and Tool Works N107
+Niagara Mohawk Power Corp N108
+W T Nickell Co N109
+Nicolet Instrument Corporation N111
+Nicolet Scientific Corporatibh N112
+Nicoletti-Benz Associates N113
+A C Nielsen Company N114
+Nielsen Engineering & Research, Inc N115
+Night Security Industries N116
+Nion Corporation N117
+Nippes Professional Association N118
+Nitragin Corp N119
+NKF Engineering Associates, Inc N120
+NL Industries, Inc N121
+J Watson Noah Associates, Inc N122
+Nobell Research Laboratory N123
+Samuel Roberts Noble Foundation, Inc N124
+The C W Nofsinger Company N125
+George S Nolte and Associates N126
+Non-Linear Systems, Inc N127
+Noral, Inc N128
+Nor-Am Agricultural Products, Inc N129
+Nordson Corporation N130
+C A Norgren Co N131
+Norland Associates, Inc N132
+Norlin Corporation N133
+Normandeau Associates, Incorporated N134
+Norris Industries, Inc N135
+North American Carbon Inc N136
+North American Laboratory Company, Inc N137
+North American Manufacturing Co N138
+North American Philips Corporation N139
+North American Radio Corporation N140
+North American Science Associates, Inc N141
+North American Weather Consultants N142
+North Atlantic Industries, Inc N143
+Northeastern Associates N144
+Northeastern Systems Associates, Inc N145
+Northeast Instrument Co N146
+Northeast Laboratory Services N147
+Northern Petrochemical Company N148
+Northern Precision Labs, Inc N149
+Northern Research And Engineering Corporation N150
+Northern Telecom, Inc N151
+Northern Telecom Systems Corporation N152
+Northern Testing Laboratories, Inc N153
+Northrop Corporation N154
+Northrup, Inc N155
+North Star Research, Inc N156
+Northwest Environmental Consultants, Inc N157
+Northwest Industries, Inc N158
+Northwest Laboratories of Seattle, Inc N159
+Northwest Technical Industries, Inc N160
+Northwest Testing Labs, Inc N161
+North Wind Power Company, Inc N162
+Norton Company N163
+Norton Simon, Inc N164
+Nova Electric Manufacturing Co N165
+Novatek, Inc N166
+Nova Tran Corporation N167
+Novocol Chemical Mfg Co, Inc N168
+Now Corporation N169
+The Nowland Organization N170
+Noxell Corporation N171
+P J Noyes Company, Inc N172
+NRC, Inc N173
+Nuclear Consulting Services, Inc N174
+Nuclear Equipment Corp N175
+Nuclear Pacific, Inc N176
+Nuclear Sources & Services Inc N177
+Nuclear Supply & Service Co N178
+Nuclear Systems, Inc N179
+Nuclear Water & Waste Technology N180
+Nuclepore Corporation N181
+Nuclide Corporation N182
+Numrich Arms Corporation N183
+Nurad, Inc N184
+Nusac, Inc N185
+Nutech Corporation N186
+Nutek Incorporated N187
+Nutrition International, Inc N188
+The H C Nutting Company N189
+Nuventures Consultants, Inc N190
+NVF Company N191
+Nyacol Inc N192
+Oak Industries Inc O1
+Oakite Products, Inc O2
+O A Laboratories, Inc O3
+Oblinger-Smith Corporation O5
+O’Boyle, Cowell, Rohrer & Associates, Inc O6
+The O’Brien Corporation O7
+D G O’Brien Inc O8
+OBrien & Gere Engineers, Inc O9
+Occidental Petroleum Corporation O11
+Occusafe, Inc O12
+Ocean Atmospheric Science, Inc O13
+Ocean Chemicals, Inc O14
+Ocean Data Systems, Inc O15
+Ocean Engineering Information Services O16
+Ocearietics Inc O17
+Oceanic Development Company O18
+The Oceanic Institute O19
+Oceanics, Inc O20
+Ocean Research Equipment, Inc O21
+Ocean Spray Cranberries, Iric O22
+Ocean Technology, Inc O23
+Ocenco, Inc O24
+O’Connor, Sheridan, Marsh-Architects O25
+Octagon Process Inc O26
+Oda International, Inc O27
+O D Electronics Co, Inc O28
+M P Odell Co O29
+Odetics, Inc O30
+Odi, Inc O31
+OEA, Inc O32
+Ogden Corporation O33
+Ohio Art Company O34
+Ohio Blow Pipe Co O35
+Ohio Die Cutting Co O36
+Ohio Goggles Inc O37
+Ohio Hoist Mfg Co O38
+Ohio Medical Instrument Company Inc O39
+Ohio Oscillator Co O40
+Oal Associates, Inc O41
+Ohio Roller Inc O41
+Ohio Semitronics, Incorporated O42
+Oil Base, Inc O43
+Oil-Dri Corporation of America O44
+Oilfield Research Laboratories O45
+The Oilgear Company O46
+Oilwell Research, Inc O47
+OKI Electronics of America, Inc O48
+Oklahoma Medical Research Foundation O49
+Old Dominion Associates O50
+Old Dominion Systems, Inc O51
+Olin Corporation O52
+K S Oliphant Consulting Engineers O53
+Oliphant Labs, Inc O54
+Olympic Solar Corp O55
+Omark Industries, Inc O56
+Omega Engineering, Inc O57
+Omega Laboratories, Inc O58
+Omega Systems Group, Inc O59
+Omnicomp, Inc O60
+Omniplan Corporation O61
+Omni Research Inc O62
+Omni Spectra Inc O63
+Omni Wave Electronics Corporation O64
+A L Omohundro & Associates O65
+On-Line Business Systems, Inc O66
+Ontario Corp O67
+Operating Systems, Incorporated O68
+Opinion Research O69
+Opinion Research of California O70
+Opportunity Systems, Inc O71
+Optelecom Inc O72
+Optical Cell Company, Inc O73
+Optical Coating Laboratory Inc O74
+Optical Electronics, Inc O75
+Optical Research Associates O76
+Optic-Electronic Corp O77
+Optimal Systems Research, Inc O78
+Optimum Systems Incorporated O79
+Opti-Systems, Inc O80
+Optronics International, Inc O81
+Optronics Laboratories, Inc O82
+Orbel Corporation O83
+The Orbit Chemical Research & Developing Co O84
+Orbit Instrument Corporation O85
+Oregon Graduate Center O86
+Oregon Metallurgical Corporation O87
+Oregon Research Institute O88
+Organic Products Company O89
+Organizational Systems Group O90
+Oriel Corporation Of America O91
+ORI, Inc O92
+Orincon Corporation O93
+Orion Research Incorporated O94
+Orlando Laboratories, Inc O95
+Ormet Corp O96
+Ormont Drug & Chemical Co O97
+Orrox Corporation O98
+The Edward Orton Jr Ceramic Foundation O99
+Osborne Laboratories, Inc O100
+I S Oscar Associates, Inc O101
+Osmonics, Inc O102
+Osmose Wood Preserving Company of America, Inc O103
+Joseph Osoro Consultant Associates, Inc O104
+Ostergaard Associates O105
+Ostler Rockymountain Refractories O106
+O’Sullivan Corporation O107
+Olisca Industries, Ltd O108
+Otterbacher Manufacturing Inc O109
+Outboard Marine Corporation O110
+Outlook Engineering Corporation O111
+Ovaltine Food Products Inc O112
+Overhead Door Corp O113
+OverholT & Associates, INc O114
+Owens-Coming Fiberglas Corporation O115
+Owens-Illinois, Inc O116
+Oxirane International O117
+Ozone Research & Equipment Corporation O118
+Pacific Gas and Electric Company Department of Engineering Research P1
+Perkin-Elmer Corporation P1
+Perkin-Elmer Corporation Optical Group Research Department P1
+Peripheral Data Controls Corporation P1
+Penril Corp P1
+Perdue, Inc P1
+Perforated Products, Inc P1
+Perception Technology Corporation P1
+Pepsico, Incorporated P1
+Pepsico Technical Center P1
+Permag Magnetics Corp P1
+Pabst Brewing Company P1
+Paccar Inc P2
+Pace Associates, Inc P3
+Pacer Lubricants, Inc P4
+Pacific Aerosystem, Inc P5
+Pacific Analysis Corporation P6
+Pacifica Technology P7
+Pacific Atlantic Trading Co, Inc P8
+Pacific Bio-Marine Laboratories, Inc P9
+Pacific Environmental Services, Inc P10
+Pacific Gas and Electric Company P11
+Pacific Lighting Corporation P12
+Pacific Lumber Co P13
+Pacific Northwest Research Foundation P14
+Pacific Photometric Instruments P15
+Pacific Scientific Company P16
+Pacific Sun, Inc P17
+Pacific Transducer Corporation P18
+Packer Engineering Associates, Inc P19
+C E Pagan Associates, Inc P20
+Paglo Laboratories Inc P21
+Pagos Corporation P22
+Paint Engineering P23
+Painter Tool Incorporated P24
+KENT Paint Research Institute P25
+Pako Corporation P26
+Paleontological Research Institution P27
+Palisades Geophysical Institute, Inc P28
+Palisades Institute for Research Services, Inc P29
+Pall Corporation P30
+Palmer Electronics Inc P31
+Palmer, France, Green & King, Ltd P32
+Palmer House Chemical Corporation P33
+Palmer Instruments Inc P34
+Palo Alto Medical Research Foundation P35
+Pan American Laboratories, Inc P36
+Pan American World Airways, Inc P37
+Panametrics, Inc P38
+Panatec Inc P39
+Pandjiris Weldment Company P40
+Panoramic Studios P41
+Papec Machine Company P42
+IO Paracom Systems Associates, Ltd P43
+Paragon Engineering Corp P44
+Paraho Development Corporation P45
+PARALAB P46
+Parameter, Inc P47
+Parametrix Inc P48
+Paramount Foods P49
+PARCO, Inc P50
+Parco Scientific Co P51
+Park Chemical Company P52
+Parke Mathematical Laboratories, Incorporated P53
+Park Energy Company P54
+Parker Hannifin Corporation P55
+The Parker Pen Company P56
+Park-Ohio Industries, Inc P57
+Parks-Cramer Company P58
+Parkway Windows P59
+Parmac Inc P60
+Parr Instrument Company P61
+Parrish Power Products, Inc P62
+TRAVERSE CITY The John T Parsons Co P63
+Parsons & Whittemore Inc P64
+Particle Measuring Systems, Inc P65
+Particulate Solids Research, Inc P66
+Pasadena Foundation for Medical Research P67
+Pasadena Research Institute P68
+Pasat Research Associates, Inc P69
+Pathology Laboratory Services P70
+Pathway Industries P71
+Pathway Research, Inc P72
+Stephen Patkay And Associates P73
+Patterns & Systems International P74
+C J Patterson Company P75
+Patterson Engineering Inc P76
+Patzig Testing Laboratories Co, Inc P77
+Linus Pauling Institute of Science and Medicine P78
+Peter Paul Electronics Co, Inc P79
+Pavco, Inc P80
+Pawling Rubber Corporation P81
+Paxall, Inc P82
+Payne Engineering Company P83
+Payne, Inc P84
+PCI Ozone Corp P85
+PCP, Inc P86
+PDS Custom Systems, Inc P87
+Peabody Coal Company P88
+Peabody International Corp P89
+Pearsall Chemical Corporation P90
+Robert Peccia And Associates P91
+Pechiney Ugine Kuhlman Corporation P92
+Peco Enterprises, Inc P93
+Pedco P94
+Arthur Hall Pedersen - Design & Consulting Engineers P95
+Pedersen Instruments P96
+Peerless Electronics Research Corp P97
+Peerless Instrument Company, Inc P98
+Pekin Patterns, Inc P99
+Pellier-Delisle Metallurgical Laboratory P100
+Pelmor Laboratories, Inc P101
+Pemmco (Process Equipment Modelling & Manufacturing Co) P102
+Penetone Corporation P103
+Penetrader Corporation P104
+Penn-Dixie Industries, Inc P105
+Penn Environmental Consultants P106
+Penniman & Browne, Inc P107
+Pennwalt Corporation P108
+Pennzoil Company P109
+Pensar, Inc P111
+People Space Interaction P112
+Pepsico, Incorporated P113
+L Perrigo Co P120
+Perry & Derrick Co P121
+Perry Oceanographies, Inc P122
+Personnel Decisions, Inc P123
+Personnel Development, Inc P124
+Personnel Research & Development Corporation P125
+Peschel Instruments, Inc P126
+H William Peterson & Associates P127
+Petroleum Sciences P128
+Petrolite Corporation P129
+Petro-Tex Chemical Corporation P130
+R Pettigrew Industries Inc P131
+Pfanstiehl Laboratories, Inc P132
+Pfister Chemical Inc P133
+Pfizer Inc P134
+PFS Corporation P135
+PGC Scientifics Corporation P136
+Pharmachem Corporation P137
+Pharmaco Nuclear Inc P139
+Pharmacopathics Research Labs, Inc P140
+Pharmakon Laboratories P141
+Pharm-eco Laboratories, Inc P142
+Phase Industries P143
+Phase-R Corporation P144
+R E Phelon Co P145
+Phelps Dodge Corporation P146
+Phenix Laboratories P147
+Philadelphia Biologies Center P148
+Philadelphia Suburban Corporation P149
+Philip Morris Incorporated P150
+Philips Industries Inc P151
+Phillips Petroleum Company P152
+Phillips-Van Heusen Corp P153
+P&H Laboratories P154
+Phoenix Chemical Laboratory, Inc P155
+Phoenix Research Corp P156
+Phoenix Special Machine Co Inc P157
+Phoenix Steel Corporation P158
+Photobell Company, Inc P159
+Photo-Cheni P160
+Photographic Sciences Corporation P161
+Photometries, inc P162
+Photon Power, Inc P163
+Photo Science, Inc P164
+Photo Therm P165
+Photronics Corporation P166
+Phrasor Technology P167
+Phys-Chemical Research Corp P168
+Physical Dynamics, Inc P169
+Physical Sciences Inc P170
+Physio-Control Corporation P171
+Physiometrics International P172
+Piasecki Aircraft Corporation P173
+Picoraa Industries, Inc P174
+Piconics, Inc P175
+Piedmont Chemical Industries, Inc P176
+Pierce & Harris Engineering Co, Inc P177
+The John B Pierce Foundation of Connecticut P178
+Piezo Technology, Inc P179
+Pillsbury Chemicals & Oil Inc P180
+The Pillsbury Company P181
+Pinson Associates, Inc P182
+Pioneer Engineering & Manufacturing Company P183
+Pioneer Hi-Bred International, Inc P184
+Piper-Hydro Inc P185
+Piper-Hydro Inc P185
+Pirelli Cable Corporation P186
+Lucius Pitkin, Inc P187
+Pitney-Bowes, Inc P188
+Pittcon Industries Inc P189
+Pittsburgh Coming Corporation P190
+Pittsburgh-Des Moines Steel Company P191
+P&J Manufacturing Co P192
+The Planning Group, Inc P193
+Planning & Human Systems, Inc P194
+Planning Research Corporation P195
+Plas-Labs P196
+EDON Plas Tec Corp P197
+Plasticolors Inc P198
+Plastics Diversified Ltd P199
+Plastics Manufacturing Company P200
+Plastics Research Corporation P201
+Plastic Tooling Aids Laboratory Inc P202
+Platers Supply Co P203
+Platinum Chemicals Inc P204
+Plessey Incorporated P206
+Plibrico Co P207
+Norvell Plowman Laboratories, Inc P208
+Pneumatic Scale Corporation P209
+Polaroid Corporation P210
+Polar Research Laboratory, Inc P211
+Policy Planning Consultants P212
+Policy Research Incorporated P213
+Pollen Research Associates, Inc P214
+Pollution Control Science, Inc P215
+Poly-Carb, Inc P216
+Polychrome Corporation P217
+Poly Decor, Inc P218
+Polyhedron Laboratories P219
+Polymer Chemical Co Inc P220
+Polymer Evaluation Laboratories, Inc P221
+Polymer Protektives, Inc P222
+Polymer Research Corp of America P223
+Polymetrics, Inc P224
+Poly Resins Co P225
+Polysar, Inc/Resins Division-USA P226
+Polysciences Inc P227
+Polytechnic, Inc P228
+Popped-Right, Inc P229
+Porphyrin Products P231
+Portec, Inc P232
+Porter-Gertz Consultants, Inc P233
+H K Porter Company, Inc P234
+Portland Cement Association P235
+Fred Portz, Jr & Assoc P236
+Postle Industries P237
+Potato Chip Snack Food Association P238
+Potlatch Corporation P239
+Potomac Instruments Inc P240
+Potomac Research, Incorporated P241
+Potomac Scheduling Company P242
+Potter Instrument Company Incorporated P243
+Powdered Products Inc P244
+Powder-Tech Associates Inc P245
+Sheppard T Powell Associates P246
+The Wm Powell Company P247
+Powercon Corporation P248
+Power Conversion Inc P249
+Power Incorporated P250
+Power Instruments, Inc P251
+Powers Fiat Corp P252
+James R Powers & Associates, Inc P253
+Powertec, Inc P254
+P P Equipment Company P255
+PPG Industries, Inc P256
+PQ Corporation P257
+Practical Concepts Incorporated P258
+Practical Products Co P259
+Luning Prak Associates, Inc P260
+Pra Laboratories, Inc P261
+P/RA ResearchTnc P262
+Pratt & Lambert, Inc P263
+Praxis Corporation P264
+Precision Art Coordinators P265
+Precision Cells, Inc P266
+Precision Data Inc P267
+Precision Distillation Apparatus Co P268
+Precision Electronics, Inc P269
+Precision Engineering Laboratory, Inc P270
+Precision Etching Laboratory Inc P271
+Precision Force Measurements P272
+Precision Instrument Company P273
+Precision Plastics Co P274
+Precision & Quality Research Systems P275
+Precision Research & Supply Co P276
+Preco P277
+Preco Inc P278
+Predicasts, Inc P279
+Prein & Newhof Engineers And Planners P281
+Premier Industrial Corporation P282
+Premix, Inc P283
+Premo Pharmaceutical Laboratories, Inc P284
+Prentke Romich Co P285
+Presearch Incorporated P286
+Presstix Corp P287
+Pressure Chemical Co P288
+Pressure Science Inc P289
+Pressure Technology Corporation of America P290
+Prevenient Research Corporation P291
+Price Brothers Company P292
+Prime Computer, Inc P293
+Princeton Aqua Science P294
+Princeton Chemical Research, Inc P295
+Princeton Combustion Research Laboratories, Inc P296
+Princeton Gamma-Tech P297
+Princeton Polymer Laboratories, Incorporated P298
+Printex Electronics, Inc P299
+Printloid, Inc P300
+Prism, Incorporated P301
+Probabilistic Software Inc P302
+Probe Systems, Inc P303
+The Process Co, Inc P305
+Processing & Books, Inc P306
+Process & Instruments Corporation P308
+Process Systems, Inc P309
+Process Systems International, Inc P310
+Procex, Inc P311
+Problem Solvers, Inc P3O4 Pro-Chem, Inc P312
+The Procter & Gamble Company P313
+Prodelin Inc P314
+Prodesco, Inc P315
+Product and Consumer Evaluations, Inc P316
+Product Design Corporation P317
+Product Development Institute, Inc P318
+Product Development Services, Inc P319
+Product Protection Agency P321
+Products Research & Chemical Corporation P322
+Professional Analysts P323
+Professional Planners, Inc P324
+Professional Tape Co, Inc P325
+Programmed and Remote Systems Corp P326
+Program Resources, Inc P327
+Programs and Analysis, Inc P328
+Programs Inc P329
+Progressive Management Services, Inc P331
+Project Software & Development, Inc P332
+Projects Unlimited Inc P333
+Proprietary Software Systems Inc P334
+Propulsion Dynamics Inc P335
+Pro Quip, Inc P336
+Protape Inc P337
+Pro-Tech, Inc P338
+Protective Lining Corp P339
+Proteon Associates P341
+Prototype Technology Inc P342
+Proven Products P343
+The Prudential Insurance Company of America P344
+P S I Inc P345
+PSI-Tran Corporation P346
+Public Technology, Inc P347
+Paul F Pugh and Associated Professional Engineers P348
+Pullman Incorporated P349
+Pulmosan Safety Equipment Corporation P350
+Pulsar Associates, Inc P351
+Punch Card Processing Co P352
+The Purdue Frederick Company P353
+Pure Aire Corporation P354
+Pure Carbon Company, Inc P355
+PureCycle Corporation P356
+The Pure Food Co. Inc P357
+Pure Power Incorporated P358
+Purex Corporation P359
+Purvin & Gertz, Inc P361
+Purvis Systems, Inc P362
+Puter Associates, Inc P363
+Putnam Valley Scientific P364
+Pyromatics, Inc P365
+The Pyrometer Instrument Company P366
+Pyrotechnic Specialties, Inc P367
+QC Laboratories, Inc Q1
+Q-dot Corporation Q2
+QED Systems, Inc Q3
+QEI, Incorporated Q4
+QRC, Incorporated Q5
+Quad Corporation Q6
+Quadri Corporation Q7
+Quaker Chemical Corporation Q8
+The Quaker Oats Company Q9
+Quality Bakers of America Cooperative Inc Q10
+Quality Chemicals, Inc Q11
+Quanex Corporation Q12
+Quantachrome Corporation Q13
+Quanta Systems Corporation Q14
+Quantrad Corporation Q15
+Quantronix Corp Q16
+Quantum-Detector Technology Q17
+Quantum Dynamics, Inc Q18
+Quantum Electronics Corporation Q19
+Quantum, Incorporated Q20
+Quantum Technology Inc Q21
+Daniel Queen Associates Q22
+Queensboro Transforiner & Machinery Corporation Q23
+Questor Corporation Q24
+Quest Research Corporation Q25
+Quikstir, Inc Q26
+Quincy Research Center Q27
+Quinn & Associates, Inc Q28
+Racal Communications Inc R1
+Racal-Milgo, Inc R2
+Race Chemical Equipment Corp R3
+Radak, Inc R4
+Radex, Inc R5
+Radiation Dynamics, Incorporated R6
+Radiation Management Corporation R7
+Radiation Monitoring Devices, Inc R8
+Radiation Research Associates, Inc R9
+Radiation Systems, Inc R10
+Radiation Technology, Inc R11
+Radiator Specialty Co R12
+F C Radice Research and Development R13
+Radioassay Systems Laboratories, Inc R14
+Radiocarbon, Ltd R15
+Radio Sciences Co R16
+RAD Services, Inc R17
+Rae Corporation R18
+Raffi And Swanson, Inc R19
+Rail Company R20
+Railroad Rubber Products, Inc R21
+Rai Research Corporation R22
+R&A Leather Finish Co, inc R23
+Ralston Purina Company R24
+Ramar Manufacturing Co, Inc R25
+Ramco, Inc R26
+Ramcon, Inc R27
+Ramcor, Inc R28
+Rampe Manufacturing Company R29
+Ramsay Engineering Company R30
+Ranco, Inc R31
+The Rand Corporation R32
+Randolph & Associates, Inc R33
+Randolph Products Co R34
+Random Devices, Inc R35
+Randtron Corporation R36
+Ranger Engineering Corp R37
+Ransburg Corporation R38
+Ransom Seed Laboratory R39
+Rapicom, Inc R40
+Rapid Design Service Inc R41
+Rare Corporation R42
+Rasor Associates Inc R43
+Raven Industries* Inc R44
+Raway Bearing Corp R45
+Raybestos-Manhattan Inc R46
+Raychem Corporation R47
+Raycomm Industries, Inc R48
+Rayfield Equipment R49
+Raytheon Company R50
+RBA (Richard P Browne Associates) R51
+RCA Corporation R52
+RCS Associates, Inc R53
+R&D Associates R54
+R&D Consultants R55
+RDF Corporation R56
+RDL, Inc R57
+RDP, Inc R58
+REA Associates, Inc R59
+Reach All Manufacturing & Engineering Co R60
+Realex Corp R61
+Realist, Inc R62
+Recon Systems, Inc R63
+Recra Research, Inc R64
+Recsei Laboratories R65
+Rectech, Inc R66
+Red Hill Abrasive Corp R67
+Redi-Flex Inc R68
+Redken Laboratories, Inc R69
+R E D M Corporation R70
+Red Spot Paint & Varnish Co, Inc R71
+Reed & Cam rick R72
+Donald E Reed Consulting Geologist R73
+Reed Industries Inc R74
+R E Enterprises R75
+Rees-Stealy Clinic Research Foundation R76
+Reeves Brothers, Inc R77
+Regal Ware, Inc R78
+Regency Electronics, Inc R79
+Regis Chemical Co R80
+Reichhold Chemicals, Inc R81
+M J Reider Associates, Inc R82
+Reid, Merrill, Brunson & Associates R83
+Reilly Tar & Chemical Corporation R84
+Reimers Consultants R85
+Reinforced Plastics Testing Laboratory R86
+Reisz Engineering Company R87
+Reitzel Associates R88
+Relay Specialties Inc R89
+Reliance Chemicals Corporation R90
+Reliance Electric Company R91
+Reliance Universal, Inc R92
+Remac Information Corporation R93
+REM Company R94
+Remington Products, Inc R95
+Remler Company R96
+Remtech Incorporated R97
+Renite Company-Lubrication Engineers R98
+Edward Renneburg & Sons Co R99
+Reotemp Instrument Corporation R100
+Republic Lens Co, Inc R101
+Republic Steel Corporation R102
+Resdel Industries R103
+Research and Action Inc R104
+Research Applications, Inc R105
+Research Automation Corporation R106
+Research & Consulting Associates Inc R107
+Research-Cottrell, Inc R108
+Research & Design Institute R109
+Research Equipment Company, Inc R111
+Research Foundation of Children’s Hospital R112
+Research Institute of Dayton R113
+Research Institute of the Gulf of Maine R114
+Research Organics, Inc R116
+Research Pathology Services, Inc R117
+Research Service Bureau, Inc R118
+Research Services Corporation R119
+Research Testing Laboratories, Inc R120
+Research Triangle Institute R121
+Resin Research Laboratories, Inc R122
+Resistance Welder Corporation R123
+Resource Consultants, Inc R124
+Resource Development Institute R125
+Resource Dynamics Corporation R126
+Resource Recovery And Reclamation, Inc R127
+Resource Recovery Services, Inc R128
+Resources Development Associates R129
+Resource Services, Inc R130
+Resources For The Future R131
+Resources Technology Corporation R132
+RE SPEC, Inc R133
+Response Analysis Corp R134
+Reuter-Stokes, Inc R135
+John G Reutter Inc R136
+Research Dynamics, Inc RIIO Revere Copper & Brass Incorporated R137
+Revere Sugar Corporation R138
+Reverman & Associates, Inc R139
+Revlon, Inc R140
+Rexarc Incorporated R141
+J W Rex Company R142
+Rexnord Inc R143
+Reynolds Electric Company R144
+Reynolds Metals Co R145
+R J Reynolds Industries, Inc R146
+RJR Archer, Inc R146
+RF Laboratories R147
+RFL Industries, Inc R148
+RHA-Audio Communications, Inc R149
+Rhenium Alloys Inc R150
+RHG Electronics Laboratory, Inc R151
+RHO Chemical Company, Inc R152
+Rice Center for Community Design & Research R153
+Arklay S Richards Co, Inc R154
+Richards Industries, Inc R155
+J M Richards Laboratory Inc R156
+The Richardson Company R157
+Richardson Delta Engineers, Inc R158
+Edward H Richardson Associates, Inc R159
+Richardson Manufacturing Co, Inc R160
+Richardson-Merrell Inc R161
+Richardson-Merrell Inc R161
+Richardson Researches R162
+Richland Chemical Corp R163
+Richland Engineering Ltd R164
+Rich Products Corporation R165
+Richter Aero Equipment, Inc R166
+Richter Sc Stier R167
+R I Corporation R168
+Rider Associates Inc R169
+Ridihalgh, Eggers & Associates, Inc R170
+Karl A Riggs R171
+Riker Mfg Inc R172
+Riley Systems Corporation R173
+Rinehart Laboratories Inc R174
+Ripley Corp R175
+Risdon Manufacturing Company R176
+Ritchie, Inc R177
+Rittenhouse-Zeman & Associates R178
+Riverbank Laboratories Inc R179
+Riverside Chemical Company, Inc R180
+Riverside Research Laboratory, Inc R181
+Rivkin Associates, Inc R182
+Rixon, Inc R183
+RJ Associates, Inc R184
+RMI Company R185
+RMS Technology, Inc R186
+Roan well Corporation R187
+RO Associates Incorporated R188
+Robertshaw Controls Company R189
+Roberts Laboratories R190
+H H Robertson Company R191
+A H Robins Company, Incorporated R192
+Robins Industries Corp R193
+Robinson Associates, Inc R194
+Robinson Computer Service, Inc R195
+Robot Industries, Inc R196
+Rochester Germicide Company R197
+Rockaway Corporation R198
+Rockcor, Incorporated R199
+Rockford Research Inc R200
+Rockland Colloid Corporation R201
+Rockland, Inc R202
+Rockland Systems Corporation R203
+Rocklin Manufacturing Co R204
+Rockport Machine & Tool Co R205
+Rockwell International Corporation R206
+Rockwood Industries, Inc R207
+Rocky Mountain Instrument Company R209
+Rocky Mountain Scientific Glassblowing Co R210
+Roctronics Entertainment Lighting, Inc R211
+Rodale Electronics, Inc R212
+Rogers and Dickson, Inc R213
+Rogers and Golden, Inc R214
+Rogers Brothers Seed Company R215
+Rogers Corporation R216
+ROH, Inc R217
+Rohm and Haas Company R218
+Roland Industries, Inc R219
+B N Rolfe & Associates R220
+Root Development Corp R221
+Rorer Group, Inc R222
+Rosco Concrete Pipe Company Inc R223
+Rose Manufacturing Co R224
+Paul Rosenberg Associates R225
+M Rosenblatt & Son, Inc R226
+Charles Ross Sc Son Co R227
+Ross Engineering Corporation R228
+Ross Laboratories, Inc R229
+Rossnagel & Associates Inc R230
+T A Ross Professional Engineer, and Associates R231
+Ross Telecommunications Engineering Corporation R232
+Rostone R233
+Roswell Park Memorial Institute R234
+Rotating Precision Mechanisms, Inc R235
+Rotex Inc R236
+Rothe Developments Inc R237
+Rothenbuhler Engineering R238
+Herbert C Rotors Associates, Inc R239
+Roubal & Associates R240
+The Rovac Corporation R241
+Rowe Industries R242
+Rowell Laboratories, Inc R243
+Rowland «fe Company, Inc R244
+Royal Carolina Corp R245
+RPM Inc R246
+RPM Marine Systems Inc R247
+RRC International, Inc R248
+RSA Corporation R249
+R S M Electron Power, Inc R250
+RTE Corporation R251
+RTS Laboratories, Inc R252
+Rubbermaid Incorporated R253
+Earl Ruble and Associates, Inc R254
+Ruetgers-Nease Chemical Co, Inc R255
+Rummel, Klepper & Kahl R256
+Ruska Instrument Corporation R257
+Russell Burdsall & Ward Corporation R258
+Russell Corporation R259
+Rustco Products R260
+Rutherford Research R261
+RVR Consultants R262
+Ryan Computer Systems, Inc R263
+Ryco Engineering, Inc R264
+Rycom Instruments R265
+Ryt Industries, Inc R266
+Scientific Technology Inc S1
+Smith-Corona Group S1
+Scientific Systems Service, Inc S1
+Scire Corporation S1
+Saber Laboratories, Inc S1
+Scientific Time Sharing Corporation S1
+St Clair Rubber Co Laboratory S1
+Sciso, Inc S1
+Scipar, Inc S1
+Scientific Systems, Inc S1
+Sabor Corporation S2
+Sabouni And Associates S3
+Sorg Paper Company S3
+Sachs-Freeman Associates, Inc S4
+Safe Flight Instrument Corp S5
+Safe International, Inc S6
+System Planning Corporation S6
+Sage Engineering & Valve Co S7
+Sage Laboratories, Inc S8
+Sahuaro Petroleum & Asphalt Company S9
+Said, Inc S10
+St Clair Rubber Co S11
+St Joe Minerals Corporation S12
+St John X-Ray Laboratory S13
+St Louis Testing Laboratory, Inc S14
+St Regis Paper Company S15
+Salem Coatings Inc S16
+Salem Corporation S17
+Salisbury Engineering Inc S19
+The Salk Institute for Biological Studies S20
+Salsbury Laboratories S21
+Sanda, Incorporated S22
+Sanderhoff & Associates Inc S23
+Sanders Associates, Inc S24
+San Diego Aircraft Engineering, Inc S25
+Eli Sandman Co S26
+Wm E Sandman Associates, Co S27
+Sandoz Colors & Chemicals S28
+Sandoz, Inc S28
+Sanford-Miller Corporation S29
+San Joaquin Research Laboratories S30
+San-Mor Co S31
+Santa Fe Corporation S32
+Santa Fe Industries, Inc S33
+Santa Fe International Corporation S34
+Santa Ynez Research Farm, Inc S35
+San-Tex Feed & Mineral Corp S36
+Sanymetal Products Co S37
+Saphier, Lerner, Schindler, Environetics, Inc S38
+Sapolin Paints, Inc S39
+Sarco Corporation S40
+Sargent-Welch Scientific Company S41
+Sartomer Industries, Inc S42
+Satellite Transmission Systems Inc S43
+Sauereisen Cements Co S44
+Savannah Laboratories S45
+Savant Instruments, Inc S46
+Savin Corporation S47
+Sawtooth Laboratories Inc S48
+Saxon Industries, Inc S49
+Stan Sax Corp S50
+SBE, Inc S51
+S & B Engineers,Inc S52
+Scalise & Co, Inc S53
+Scandia Packaging Machinery Co S54
+Scanlon & Associates, Inc S55
+Scanning Electron Analysis Laboratories, Inc (SEAL, Inc) S56
+S & C Electric Company S57
+The F&M Schaefer Corporation S58
+Schaevitz Engineering S59
+W J Schafer Associates, Inc S60
+Robert H Schaffer & Associates S61
+Schatz Federal Bearings Co, Inc S62
+Schenectady Chemicals, Inc S63
+Scher Brothers, Inc S64
+R P Scherer Corporation S65
+Schering-Plough Corporation S66
+Schimpeler Corradino Associates S67
+H R Schippell Certified Professional Engineer S68
+Schlegel Corporation S69
+Bernard W Schlesinger Foundation S70
+O Jos Schlitz Brewing Company S71
+Schlumberger Limited S72
+Schmid Products Company S73
+Schneider Instrument Company S74
+Schoenfeld Chemical Laboratory S75
+Scholler Brothers, Inc S76
+Scholl, Inc S77
+Schonstedt Instrument Company S78
+Schott Corporation S79
+Robert Schryver & Associates S80
+Schultz Company S81
+J C Schumacher Company S82
+Schwarzkopf Microanalytical Laboratory, Inc S83
+Schwarz Services International Limited S84
+Schwinghamers S85
+E J Schwoegler Laboratories, Inc S86
+Sciaky Bros Inc S87
+Science Accessories Corporation S88
+Science Applications, Inc S89
+Science, Engineering & Analysis, Inc S90
+Science Management Corporation S91
+Science Metrics, Inc S92
+Science Spectrum, Incorporated S93
+Scientech, Inc S94
+Scientific Associates, Inc S95
+Scientific-Atlanta, Inc S96
+Scientific Control Laboratories, Inc S97
+Scientific Energy Systems Corporation S98
+Scientific Engineering Systems, Inc S99
+Scientific Glass & Instruments, Inc S101
+Scientific Instruments, Inc S102
+Scientific Marketing Associates S103
+Scientific Model, Inc S104
+Scientific Radio Systems, Inc S105
+Scientific Resource Management, Inc S106
+Scientific Service Inc S107
+Scientific Services S108
+Scientific Systems Corp S109
+Scientific Systems, Inc S111
+Sci Systems, Inc S118
+SCM Corporation S119
+Scope Associates, Inc S120
+Scope Incorporated S121
+Scope Research and Development, Inc S122
+Scott Environmental Technology, Inc S123
+Scott & Fetzer Company S124
+H H Scott Inc S125
+O M Scott & Sons Co S126
+Scott Paper Company S127
+Scott Protective Resources Inc S128
+Scott & White Memorial Hospital and Scott, Sherwood & Brindley Foundation S129
+Scovili Manufacturing Company S130
+Scovill Manufacturing Company S130
+Scripto, Inc S131
+SCS Engineers S132
+S&D Dynamics, Inc S133
+SDP, Inc S134
+Seaboard Engineering & Laboratories S135
+Seaboard Industries, Inc S136
+SEACO, Incorporated S137
+Joseph E Seagram & Sons, Inc S138
+The Seagrave Corporation S139
+Sealectro Corporation S140
+Sealed Power Corporation S141
+Sea Research & Development, Inc S142
+G D Searle & Co S143
+Sea Solar Power, Inc S144
+Seattle Research & Development Co S145
+Sea Ventures S146
+Seaward International, Inc S147
+Sedco Systems, Inc S148
+Seiler Instrument and Manufacturing Co, Inc S149
+Seismic Engineering Company S150
+Sela Electronics, Inc S151
+Selas Corporation of America S152
+Selection Research, Inc S153
+Selectrons, Ltd S154
+Semcor, Inc S155
+Seneca Environment Products, Inc S156
+Sensors, Data Decisions, Inc S157
+The Separations Group S158
+Serata Geomechanics S159
+Serf, Inc S160
+Semco, Inc S161
+Services in Education S162
+Servo Corporation of America S163
+Sespe Laboratories S164
+Sethness Products Company S165
+Severn Systems Corporation S166
+Seville Research Corporation S167
+Sevison Automatic Machine Co, Inc S168
+Seymore Systems, Inc S169
+Seymour Foods, Inc S170
+Shaker Research Corporation S171
+Shaklee Corporation S172
+Shamrock Chemicals Corp S173
+Shanahan-Holt Associates S174
+Shankman Laboratories, Inc S175
+Shannon and Wilson, Inc S176
+Shannon Engineering S177
+Shannon-Glow, Inc S178
+Louis L Shapiro, Chemical Consultants S179
+Shared Applications, Inc S180
+George G Sharp Inc S181
+Sharpley Laboratories, Inc S182
+Shaw-Barton, Inc S183
+Shawnee Chemicals S184
+Sheaffer & Roland, Inc S185
+Shearwater, Inc S186
+SHE Corporation S187
+Sheldahl, Inc S188
+Shell Engineering and Associates, Inc S189
+Sheller-Globe Corporation S190
+Shell Oil Company S191
+Shelter Institute S192
+Shelter Island Oyster Company, Inc S193
+Shelter 1 Architects S194
+The Shepard Chemical Company S195
+F N Sheppard & Co S196
+Alden O Sherman Co, Inc S197
+Sherman Research Laboratories S198
+Dr Zachary Sherman Consulting Engineers S199
+The Sherwin-Williams Company S200
+Shilstone Testing Laboratory, Inc S201
+Shive-Hattery & Associates S202
+Norman Shorr, PE S204
+Ernest H Short & Associates, Inc S205
+John Short & Associates, Inc S206
+Herschel Shosteck Associates S207
+Herbert V Shuster Inc S209
+E F Siegel & Associates, Ltd S210
+R H Siegfried Inc S211
+Siemens Corporation S212
+Sierracin Corporation S213
+Sierracin-Magnedyne S214
+Sierra Environmental Products S215
+Sierra Research Corporation S216
+Sifco Industries. Inc S217
+W F Sigler & Associates, Inc S218
+Sigma Aldrich Co S219
+Sigma Consultants, Inc S220
+Sigma Corporation S221
+Sigma Instruments, Inc S222
+Sigma Research Inc S223
+The Signal Companies, Inc S224
+Signatron S225
+Signetics Corporation S226
+Eduardo N Siguel & Assoc S227
+Sika Chemical Corporation S228
+Silent Hoist & Crane Co, inc S229
+Silent Watchman Corporation S231
+Silicon Sensors, Inc S232
+Silicon Systems, Inc S233
+Siliiker Laboratories S234
+Siltec Corporation S235
+Simat, Helliesen & Eichner, Inc S236
+The Simco Company Inc S237
+Simkins Industries, Inc S238
+Simmonds Precision Products, Inc S239
+Simon Research Laboratory S240
+Simpak Corporation S241
+Simpson Gumpertz & Heger Inc S242
+Simpson Industries, Inc S243
+Simpson Timber Company S244
+Simtek S245
+The Singer Company S246
+Anatole J Sipin Co, Inc S247
+Sippican Consultants International S248
+Sircle Spring Co, Inc S249
+SISA Incorporated S250
+Siuslaw Laboratories S251
+Skeist Laboratories, Inc S252
+Skelly and Loy S253
+SKF Industries, Inc S254
+Skil Corporation S255
+Skinner &, Sherman, Inc S256
+Skyline Industries, Inc S257
+Slack Associates, Inc S258
+Slant-Fin Corporation S259
+Slope Indicator Company S260
+Slurry Seal, Inc S261
+Smart, Inc S262
+Smico Corporation S263
+Smico Corporation S263
+Smith and Sun S264
+A O Smith Corporation S265
+Smith Electronics, Inc S266
+Smith-Emery Company S267
+Smithers Scientific Services, Inc S268
+Smithkline Corporation S269
+L C Smith Co S270
+Werner G Smith, Inc S271
+The J M Smucker Company S272
+Smyth Research Associates S273
+Snell Environmental Group, Inc S274
+H L Snyder Memorial Research Foundation S275
+Snyder Research Laboratory Inc S276
+Social, Educational Research and Development, Inc S277
+Social Engineering Technology S278
+Social Research Applications Corporation S279
+Social Science Consultants, Inc S280
+Social Systems Intervention, Inc S281
+Socio-Economic Systems, Inc S282
+SofTech, Inc S283
+Software AG of North America, Inc S284
+Soil and Land Use Technology, Inc (Salut) S285
+Soil Mechanics Incorporated S286
+Soil & Plant Laboratory, Inc S287
+Soils & Engineering Services, Inc S288
+Soil Systems Inc S289
+Soil Testing Services, Incorporated S290
+Soil Testing Services of Iowa S291
+Soladyne Inc S292
+Solar Comfort Systems S293
+Solar Control Corporation S294
+Solar Development Co S295
+Solar Dynamics of Arizona S296
+Solar Energy Applications, Inc S297
+Solar Energy Products Company S298
+Solar Energy Systems, Inc S299
+Solar Engineering and Equipment Co S300
+Solar Enterprises Hawaii, Inc S301
+Solarex Corp S302
+Solarex Hyds Corporation S303
+Solar Innovations S304
+Solar Lighting Research S305
+Solar Product Sun-Tank Inc S306
+Solar Research Systems S307
+Solar Systems of Arizona S310
+Solectro-Thenno, Inc S311
+Sol Energy Corporation S312
+Solid State Electronics Corporation S313
+Solid State Technology, Inc S314
+O Solid State Testing, Inc S315
+Solidyne, Inc S316
+Sollos, Incorporated S317
+Louis Soltanoff and Associates S318
+Solutek Corporation S319
+Sonalysts, Inc S321
+Sonar Radio Corporation S322
+Sonex/Philmont Electronics Co S323
+Sonicor Instrument Corporation S324
+Sonic Sciences, Inc S325
+H M Sonnichsen & Associates S326
+Sonoco Products Company S327
+Sonoscan, Inc S328
+Sono-Tek Corporation S329
+Sophisticated Data Research, Inc S330
+Sorkin-Enenstein Research Service, Inc S332
+K E Sorrells Research Associates, Inc S333
+The Soundcoat Co inc S334
+Source Proteins Inc S335
+South Coast Technology, Inc S336
+Southeast Laboratories, Inc S337
+The Henry Souther Engineering Co S338
+The Southern Company S339
+Southern Pacific Transportation Company S340
+Southern Research Institute S341
+Southern Testing & Research Laboratories, Inc S342
+South Florida Test Service Incorporated S343
+Southland Cryogenics, Inc S344
+South Mountain Labs Inc S345
+Southwest Biomedical Research Institute S346
+Southwest Econometrics, Inc S347
+Southwest Engineering S348
+Southwestern Analytical Chemicals, Inc S349
+Southwestern Computing Service, Inc S350
+Southwestern Environmental Consultants, Inc S351
+Southwestern Laboratories, Inc S352
+Southwestern Portland Cement Company S353
+Southwest Research Institute S354
+Southwest Systems Engineering, Inc S355
+Southwest Vermiculite Co Inc S356
+Southwest Welding Co S357
+Southwire Company S358
+Don Sowle Associates, Inc S359
+Space Dynamics Corporation S360
+Space Environment Laboratories, Incorporated S361
+Spacekom, Inc S362
+Spacelabs, Inc S363
+Spacetac, Inc S364
+Spacetec R & D, Inc S365
+Space-Tronics Inc S366
+Space Vector Corporation S367
+Spang Industries, Inc S368
+Salem Oil Grease Co SIS Sparrell Engineering Research Corp S369
+Spartek Inc S370
+Sparton Corporation S371
+Sparton Enterprises, Inc S372
+Spawr Optical Research, Inc S373
+Special Devices Incorporated S374
+Special Instruments Laboratory, Inc S375
+Special Systems Inc S376
+Specialty Organics Inc S377
+Specialty Papers Co S378
+Special Yams Co S379
+SPEC, Inc S380
+Spectra Associates, Inc S381
+Spectrack Systems Incorporated S382
+Spectra-Mat, Incorporated S383
+Spectrametrics, Inc S384
+Spectran Laboratories, Inc S385
+Spectra-Physics, Inc S386
+Spectra Research Systems (SRS) S387
+Spectrex Corporation S388
+Spectrix Corporation S389
+Spectrochem Laboratories, Inc S390
+Spectroderm International, Inc S391
+Spectrogram Corporation S392
+Spectron, Inc S393
+Spectro-Systems, Inc S394
+Spectrum Associates, Incorporated S395
+Spectrum Research, Inc S396
+Speed King Manufacturing CO, Inc S397
+Spellman High Voltage Electronics Corporation S398
+Solux Corporation S32O Sperco Inc S399
+D R Sperry & Company S400
+Sperry Rand Corporation S401
+Spex Industries Inc S402
+Lawrence G Spielvogel, Inc S403
+Spire Corporation S404
+Spitz Space Systems, Inc S405
+Sponge, Inc S406
+Sporad, Incorporated S407
+W F Sprengnether Instrument Company, Inc S408
+Springbom Laboratories, Inc S409
+Spring Mills, Inc S410
+SPS Technologies, Inc S411
+Square D Company S412
+Squibb Corp S413
+SRI International S414
+S & S Computer Services, Inc S415
+SSI Consultants, Inc S416
+Stackpole Carbon Company S417
+Staffall, Inc S418
+A E Staley Mfg Co S419
+Stanadyne, Inc S420
+Stanbio Laboratory, Inc S421
+Standard Brands Incorporated S422
+Standard Brands Incorporated S422
+Standard Engineering Corporation S423
+Standard Information Systems S424
+Standard Laboratories, Inc S425
+Standard Manufacturing Company, Inc S426
+Standard Oil Company (Indiana) S427
+The Standard Oil Company (Ohio) S428
+Standard Oil Company of California S429
+The Standard Products Co S430
+Standard Register Company S431
+Standards, International Inc S432
+Standard Slag Company S433
+Standard Wire & Cable Co S434
+Standex International Corp S435
+Stanford Applied Engineering S436
+Stanford Resources Incorporated S437
+Stanford Technology Corporation S438
+Stanford Telecommunications, Inc S439
+Stange Co S440
+HIGHLAND PARK Harvey J Stangel & Associates S441
+Stanley Aviation Corp S442
+E J Stanley Enterprises S443
+The Stanley Works S444
+Stanpat Products Inc S445
+Stanton Magnetics, Inc S446
+The Stanwick Corp S447
+Starks Associates, Inc S448
+The State Chemical Mfg Co S449
+Statistical Research, Inc S451
+Stauffer Chemical Company S452
+`STD Research Corporation S453
+R A Steam, Inc S454
+Steams & Foster Co S455
+Steelcote Mfg Co S456
+Steffan Manufacturing Corp S457
+Steiger, Fink & Kosecoff, Inc S458
+Steimie, Smalley And Associates S459
+Steinbrecher Corporation S460
+Stein Engineering Services, Inc S461
+Fred Stein Laboratories, Inc S462
+Richard G Stein And Partners S463
+S-Tek Computer Services, Inc S464
+Stenograph Corporation S465
+Stentran Systems, Inc S466
+Stepan Chemical Company S467
+Stereotronics Television Co S468
+Sterling Drug Inc S469
+Stem Research Corporation S470
+Stevens Institute of Technology S471
+D M Steward Manufacturing Company S472
+Stewart Laboratories, Inc S473
+Stewart-Todd Associates, Inc S474
+Stewart-Warner Corporation S475
+Stiefel Laboratories, Inc S476
+Stillwell & Gladding Inc S477
+T E Stivers Associates, Inc S478
+S & T Marketing Ltd S479
+Stohler Isotope Chemicals, Inc S481
+Stokely-Van Camp, Inc S482
+Stolle Corp S483
+Stolper Industries, Inc S484
+Stomdale Industries, Inc S485
+Stone Container Corp S486
+Ralph Stone & Company, Inc S487
+Stoneville Pedigreed Seed Company, Inc S488
+Stone Sc Webster Inc S489
+Stonite Coil Corporation S490
+Stop-Fire, Inc S491
+Storage Technology Corporation S492
+Stork Bowen Engineering Inc S493
+Strainsert Company S494
+Strandberg Engineering Laboratories, Inc S495
+Strasburger & Siegel, Inc S496
+Strathmore Products, Inc S497
+Straub, Van Dine, Dziurman/Architects S498
+Street Laboratory and Industries S499
+Strem Chemicals, Inc S500
+R Stresau Laboratory, Inc S501
+Stroblite Co, Inc S502
+Strong Adhesives Corporation S504
+Strong Enterprises S505
+Leonell C Strong Research Foundation S506
+Stroudsburg Research Associates, Inc S507
+Structural Composites Industries, Inc S508
+Structural Research, Inc S510
+Structural Stoneware Inc S511
+Structure Probe, Inc S512
+Struthers-Dunn, Inc S513
+Studebaker Chemical Company S514
+Studebaker-Worthington, Inc S515
+StuU Associates, Inc S516
+Sturtevant Mill Company S517
+STV Engineers, Inc S518
+Suburban Laboratories, Incorporated S519
+Sullair Corporation S521
+Sullivan Industries S522
+Summer Chemical Co S523
+Summit Packaging Systems, Inc S524
+Summit Research Corporation S525
+Sunair Electronics, Inc S526
+Sunbeam Corporation S527
+Sun Chemical Corporation S528
+Sun Company, Inc S529
+Sundstrand Corporation S530
+Sun Electric Corporation S531
+Sun Harbor Industries S532
+Sunkist Growers, Inc S533
+Sunnen Products Co S534
+Sun Plastics Inc S535
+Sunpower, Inc S536
+Sunpower Systems Corporation S537
+Sunshine Mining Company S538
+Soabar A6O2.7 Sunshine Scientific Instruments, Inc S539
+Sun Systems, Inc S540
+Suntec Engineering S541
+Suntek Research Associates S542
+Sun Teq Engineering, Inc S543
+Supelco, Inc S544
+Supercon, Inc S545
+Superior Cable Corporation S546
+Superior Engineering Company S547
+Superior Graphite Company S548
+Superior Laboratories S549
+The Superior Oil Company S550
+Superior Spinning & Stamping Co S551
+Superior Tube Co S552
+Suppositoria Laboratories, Inc S553
+Surface Activation Corporation S554
+Surface Chemists of Florida, Inc S555
+Surface Processes Corporation S556
+Surface Research Corp S557
+Surface Technology S558
+Survey Center, Inc S559
+Survey Engineering Corporation S560
+Survival Technology, Inc S561
+The Susquehanna Corporation S562
+Sverdrup Corporation S563
+Swanson Associates, Inc S564
+Swan Wooster Engineering, Inc S565
+Sweco, Inc S566
+Sweden Freezer Manufacturing Co S567
+Swedlow, Inc S568
+B K Sweeney Manufacturing Co S569
+S W Electronics & Mfg Corp S571
+Swenko Research & Development, Inc S572
+Swiss Laboratory, Inc S573
+Sybron Corporation S574
+J G Sylvester Associates, Inc S575
+Composite Container Corporation C35O Symbion Corp S576
+Symbiotics International, Inc S577
+Symetrics Industries, Inc S578
+Symtec, Inc S579
+Syncon Resins S580
+Syncor Industries Corporation S581
+Syncrotech Software Corporation S582
+Synectics Corporations S583
+Synectics, Inc S584
+Synergetic Sciences, Inc S585
+Synergetics, Inc S586
+Synergy, Inc S587
+Syntex Corporation S588
+Synthatron Corporation S589
+Syracuse China Corporation S590
+Syracuse Research Corporation S591
+Systan, Inc S592
+Systech Corporation S593
+Systematics General Corporation S594
+System Automation Corporation S595
+System Development Corporation S596
+Systemetrics, Inc S597
+System Industries, Inc S598
+System Innovation & Development Corp S599
+Systems Analysis and Research Corporation S601
+Systems Applications, Incorporated S602
+Systems & Applied Sciences Corp S603
+Systems Architects, Inc S604
+Systems Associates, Inc S605
+Systems Control, Inc S606
+Systems Data, Inc S607
+Systems Design & Development Corp S608
+Systems Engineering Associates Corp S609
+Systems Evaluation, Inc S610
+Systems Exploration, Inc S611
+Systems Planning and Analysis, Inc S612
+Systems Planning Corp S613
+Systems Research Company S614
+Systems Research Company S615
+Systems Research Corporation S616
+Systems Research & Development Corp S617
+Systems Research Laboratories, Inc S618
+Systems, Science and Software S619
+Systems Sciences, Inc S620
+Systems Technology Associates, Inc S621
+Systems Technology, Inc S622
+Systonics, Inc S623
+Systron-Donner Corp S624
+Syva Company S625
+TAB Engineers, Inc T1
+Tenneco Chemicals, Inc T1
+Taylor & Fenn Co T2
+Tachisto Incorporated T2
+TAC Technical Instruments Corp T3
+Tafa Metallisation Inc T4
+TAI Corporation T5
+Tait Inc T6
+Talley Industries, Inc T7
+Talsol Corp T8
+Tampax, Inc T9
+Tandem Computers, Inc T10
+Tano, Inc T12
+Tansitor Electronics, Inc T13
+Tapco International T14
+Tapecon, Inc T15
+TAP Inc, Economic and Aviation Consultants T16
+Target Corporation T17
+Ellis A Tarlton Engineers, Inc T18
+Tarp, Inc T19
+Taskem Inc T20
+Tau-Tron, Inc T21
+Tavis Corporation T22
+Tax Foundation Inc T23
+Taxonomic Consultants T24
+Taylor Chemicals, Inc T25
+Taylor Devices, Inc T26
+T-Bar Incorporated T28
+TBR Associates Inc T29
+TCR Service, Inc T30
+Teaching Devices Inc T31
+Teaching Systems Corp T32
+Team Associates, Inc T33
+Teca Corporation T34
+TEC Air Services, Inc T35
+Tecator, Incorporated T36
+TechAmerica T37
+Tech Development, Inc T38
+Tech-Etch, Inc T39
+Techform Laboratories, Inc T40
+Tech Laboratories, Inc T41
+Technalysis Corporation T42
+Technassociates, Inc T43
+Technetics, Inc T44
+Technical Analysis Corporation T45
+Technical Assistance & Training Corp T46
+Technical Communications Corp T47
+Technical Consultants T48
+Technical Consulting Services T49
+Technical Economics, Inc T50
+Technical Equipment Corporation T51
+Technical Industrial Associates, Inc T52
+Technical Instrument Co T53
+Technical & Management Consultants T54
+The Technical Materiel Corporation T55
+Technical Micronics Control T56
+Technical Operations, Incorporated T57
+Technical Publications Consultants T58
+Technical Rubber Co Inc T59
+Technical Service Corporation T60
+Technical Services Corporation T61
+Technical Tape Inc T62
+Technic Inc T63
+Technicolor, Inc T64
+Technicon Corporation T65
+Technics Inc T66
+Techno-Economic Services, Inc T67
+Technology Application Services Corporation T68
+Technology Associates of Southern Califoniia, Inc T69
+Technology Development Associates T70
+Technology Development Corporation T71
+Technology Development Corporation T72
+Technology & Economics T73
+Technology For Communications International T74
+Technology Incorporated T75
+Technology of Materials T76
+Technology Service Corporation T77
+Technometrics, Inc T78
+Technovate, Inc T79
+Technovators, Inc T81
+Techplan Corporation T82
+Tech Reps, Inc T83
+Tech-Sym Corp T84
+Techtran Industries T85
+Tecnetics, Inc T86
+Tecumseh Products Co T87
+TEK Specialists T88
+Tektronix Inc T89
+Telcom, Inc T90
+Tele-Coil Co, Inc T91
+Telecommunications Techniques Corporation T92
+Telectro Systems Corp T93
+Teledyne, Inc T94
+Teleflex Incorporated T95
+Tele-Measurements Inc T96
+Telemetry Systems Engineering, Inc T97
+Telesensory Systems, Inc T98
+Telesis Laboratory T99
+The Telex Corporation T102
+Telic Corporation T103
+Telstat Systems, Inc T104
+Tempo Instruments & Controls Corp T105
+Tempor Inc T106
+Tempress Microelectronics T107
+Ten-Ech Environmental Consultants, Inc T108
+Teng and Associates, Inc T109
+Tenneco Inc T110
+Tenneco Inc T110
+Tennelec, Incorporated T111
+Tenney Engineering, Inc T112
+Tensitron, Inc T113
+Tensor, Inc T114
+Tepco Corporation T115
+Tereco Corporation T116
+Terra Corporation T117
+Terraphysics T119
+Terraspace Inc T120
+Terra Technology Corp T121
+TerralabTllS Terra Tek, Inc T122
+Tescom Corporation T123
+Testing Consultants, Incorporated T124
+Testing Engineers, Inc T125
+Testkit Laboratories T126
+Tetradyne Corp T127
+Tetra Tech, Inc T128
+Tetron Inc T129
+Texaco Inc T130
+Texas Alkyls, Inc T131
+Texasgulf Inc T132
+Texas Instruments Incorporated T133
+CCD Technology Laboratory T133
+Texas Research Institute, Inc T134
+Texas-US Chemical Company T135
+Texo Corp T136
+Texscan Corporation T137
+Texstar Corp T138
+Textile Research Institute T139
+Textron Inc T140
+Theorem T141
+Theracon, Inc T142
+Thermalloy, Inc T143
+Thermal Technology Laboratory, Inc T144
+Thermco Instrument Corporation T145
+Thermionics Laboratory, Incorporated T146
+Thermo Electron Corporation T147
+Thermogenics of New York, Inc T148
+Thermometics Inc T149
+Thermotron Corporation T150
+Thermovac Industries Corp T151
+Thermwell Products Co, Inc T152
+Theta Instrument Corporation T153
+Thiele Kaolin Co T154
+Thiokol Corporation T155
+THK Associates, Inc T156
+A S Thomas, Inc T157
+Thomas Electronics, Inc T158
+Thomas & Skinner, Inc T159
+Arnold Thompson Associates, Inc T160
+The Thompson & Lichtner Co, Inc T161
+Thompson Respiration Products, Inc T162
+Thompson Vacuum Company T163
+Vester J Thompson, Jr, Inc T164
+C W Thomthwaite Associates T165
+Thornton Associates, Inc T166
+Thoro Products Co T167
+Thorstensen Laboratory T168
+Thread-Rite Tool & Manufacturing Inc T169
+Three B Optical Co, Inc T170
+Thums Long Beach Company T171
+Thunder Scientific Corp T172
+Tibbetts Industries, Inc T173
+TIC Gums, Inc T174
+Tideland Signal Corporation T175
+Tidewater Technological, Inc T176
+H M Tiedemann and Co, Inc T177
+Tile Council of America, Inc Research Center T178
+The Tile-Tite Corporation T179
+Tiller & Associates T180
+Timeco, Incorporated T181
+Time Inc T182
+Timelapse Inc T183
+Timex Corporation T184
+The Timken Company T185
+Timmerman Corporation T186
+Tissue Culture Association T187
+Titanium Metals Corporation of America T188
+Titronics Incorporated T189
+TM Electronics T190
+TMI Systems Coiporation T191
+T&M Research Products, Inc T192
+TM Systems, Inc T193
+Tnemec Company, Inc T194
+II.I Tobias Associates, Inc T195
+Todd Systems, Inc T196
+Together, Inc T197
+Tokheim Corporation T198
+Toledo Timer Mfg Co T199
+Tom’s of Maine, Inc T200
+Tootsie Roll Industries, Inc T201
+Torin Corporation T202
+The Torsion Balance Company T203
+Torvaal T204
+Tosco Corporation T205
+Total Environmental Action, Inc T206
+ALMA Total Petroleum, Inc T207
+Towne, Richards and Chaudiere, Inc T209
+Towner Systems Corporation T210
+Townley Research and Consulting, Inc T211
+Town Planning & Engineering Associates, Inc T212
+TPS Inc (Toxicology & Pathology Services) T213
+Trace Analysis Laboratory Inc T214
+Trace Elements Inc T215
+Tracom Corporation T216
+Tra-Con, Inc T217
+Tracer, Inc T218
+Tracy Teknocraft Corp T219
+Tradet Laboratories, inc T220
+Tradewinds Labs, Inc T221
+Traffic Safety Research Corp T222
+Tragon Corporation T223
+Training Systems International T224
+The Trane Company T225
+Transamerica Corporation T226
+TRANSCOMM, Inc T227
+Transformer Design, Inc of Milwaukee T228
+Transfresh Corp T229
+Transistor Devices, Inc T231
+Trans-Met Engineering, Inc T232
+Trans-Pacific Research Services, Inc T233
+Trans Plastics Inc T234
+Transportation & Distribution Associates, Inc T235
+Trans-Tech, Inc T236
+Trans Union Corp T237
+Trans World Chemicals, Inc T238
+Trauwood Engineering Co T239
+The Travelers Corporation T240
+TRC - The Research Corporation of New England T241
+Treesdale, Inc T242
+Tremco Incorporated T243
+Triad Engineering Corp T244
+Triangle Electronic Mfg Co, Inc T245
+Triangle Engineers & Designers T246
+Triangle Industries, Inc T247
+Tribrook Group, Inc T248
+Tri-Com Inc T249
+Tri-Con Associates T250
+Trident Engineering Associates T251
+Tri-ex Tower Corporation T252
+Tri-Mark Inc T253
+Trinity Engineering Testing Corporation T254
+Trio Laboratories, Inc T255
+Trio-Tech Testing Laboratory T256
+Triple/Dynamics Inc T257
+Tripp Research Corp T258
+Tri-R Instruments, Inc T259
+Tri tec, Inc T260
+Trodyne Corporation T261
+OBEM Tronac, Inc T262
+Tropical Atlantic Marine Specimens T263
+Tru-Connector Corp T264
+Trudeau Institute, Incorporated T265
+Tniesdail Laboratories, Inc T266
+True Time Instrument Company T267
+Trumbull Asphalt Company T268
+Truslow Farms Incorporated T269
+TRW Inc T270
+TSI Incorporated T271
+Tubular Metal Displacement, Inc T272
+Tudor Scientif’c Glass Co T273
+Tungsten Alloy Manufacturing Company, Inc T274
+Turbine Power Systems Company T275
+Turner Collie & Braden Inc T276
+Turner Industries T277
+Turnkey Systems, Inc T278
+Turtle Cove Laboratory, Inc T279
+Tuscaloosa Testing Laboratory, Inc T280
+Tuthill Pump T281
+Twin City Testing and Engineering Laboratory, Inc T282
+Twin Disc Incorporated T283
+The Twining Laboratories, Inc T284
+Twining Laboratories of Southern California, Inc T285
+Tyler Corporation T286
+UARCO Incorporated U1
+UCE Inc U2
+U C T, Inc U3
+U D Corporation U4
+Ullrao Tool Co U5
+Ultrachem Corp U6
+Ultrasonic Instruments International, Ltd U7
+Ultrasystems, Inc U8
+Ultra-Violet Products, Inc U9
+Ultronix, Inc U10
+UMC Industries, Inc U11
+Umpqua Research Company U12
+Undersea Research Corp U13
+Underseas Cable Engineers, Inc U14
+Underwater Systems, Inc U15
+Unex Laboratories, Inc U16
+Unibraze Corp U17
+Unibus Inc U18
+Unicast Development Corporation U19
+Unified Industries Incorporated U20
+Union Camp Corporation U21
+Union Carbide Corporation U22
+The Union Corporation U23
+Union Oil Company of California U24
+Unipoint Industries, Inc U25
+Uni-Research U26
+Uniroyal, Inc U27
+United Aircraft Products, Inc U28
+United Brands Company U29
+The United Company U30
+United Engineers Inc U31
+United Industrial Corp U32
+United Marine Associates, Inc U33
+United McGill Corp U34
+United Merchants and Manufacturers, Inc U35
+United Mineral and Chemical Corporation U36
+The United Products Co U37
+United Recording Electronics Industries U38
+United Resin Products, Inc U39
+United Scientific Corp U40
+United Solder-Wrap, Inc U41
+United States Filter Corporation U42
+United States Gypsum Company U43
+United States Mineral Products Company U44
+United States Pharmacopeial Convention, Inc U45
+United States Safety Service Co U46
+The United States Shoe Corporation U47
+United States Steel Corporation U48
+United States Sugar Corporation U49
+United States Testing Co, Inc U50
+United Technologies Corporation U51
+Unitrodc Corporation U52
+Univar Corporation U53
+Universal Analytics, Inc U54
+Universal Dynamics Corporation U55
+Universal Energy Systems U56
+Universal Engineering Company U57
+Universal Foods Corporation U58
+Universal Grinding Wheel Company, Inc U59
+Universal Hydro-Test Corporation U60
+Universal Leaf Tobacco Co, Inc U61
+Universal Metalliding U62
+Universal Mfg & Supply Corporation U63
+Universal Propulsion Company, Inc U64
+Universal Technical Testing Labs U65
+Universal Technology Corporation U66
+Universal Voltronics Corp U67
+University City Science Center U68
+University Laboratories, Inc U69
+The Upjohn Company U70
+The Upson Company U71
+Urban Research & Development Corporation U72
+Urban Resource Consultants, Inc U73
+Urban Systems Research & Engineering U74
+Urban Transportation & Planning Associates, Inc U75
+Urbitran Associates U76
+U S Borax & Chemical Corp U77
+U S Dental Manufacturing Co Inc U78
+U S Fiber Corporation U79
+U S Industries, Inc U80
+U S Plastic Corp U81
+US Radium Corp U82
+U S Rubber Reclaiming Co Inc U83
+US Tobacco Company U84
+Utah Research and Development Co, Inc U85
+UTD Corporation U86
+Utek Systems, Inc U87
+UTI U88
+Utica Alloys Inc U89
+Utility Chemical Company U90
+Utility Data Corporation U91
+Utility Engineering Corporation U92
+Utility Research Company U93
+UTL Corporation U94
+Vac-Tec Systems Inc V1
+Vactronic Lab Equipment, Inc V2
+Vacu-dry Company V3
+Vadys Associates Ltd V4
+Valad Electric Heating Corp V5
+Valeo Cincinnati Inc V6
+Valiant Associates Safety Consultants, Inc V7
+Validity Corporation V8
+Valley Forge Laboratories, Inc V9
+Valtec Corporation V10
+Value Engineering Company V11
+Van Allyn, Inc V12
+R T Vanderbilt Company Inc V13
+R G Vanderweii Engineers, Inc V14
+Van Dorn Co V15
+Van Dorn Co V15
+Van Dyke Research Foundation V16
+Vanguard Pacific, Inc V17
+Vanlab Corporation V18
+Vanni Enterprises, Inc V19
+Van Note-Harvey Associates V20
+Van Straaten Chemical Company V21
+Vanzetti Infrared & Computer Systems, Inc V22
+Varian Associates V23
+Varigas Research, Inc V24
+Varinit Corporation V25
+Varisystems Corporation V26
+Vari-Systems, Inc V27
+Varo, Inc V28
+Vector Research Company V29
+Vectronics Microwave Corp V30
+Veeco Instruments Inc V31
+Veeder-Root Company V32
+Vega Precision Laboratories, Inc V33
+Vehicle Systems Development Corp V34
+Velmex, Inc V35
+Paul S Veneklasen & Associates V36
+Ventures Research 8c Development V37
+Venus Scientific Inc V38
+Verbatim Corp V39
+Vermont Manufacturing Corporation V40
+Vermont Research Corporation V41
+Vemay Laboratories, Inc V42
+Vernitron Corp V43
+Vernon Plating Works Inc V44
+Versar, Inc V45
+Verson Allsteel Press Company V46
+Verstand Engineering, Inc V47
+Vesuvius Crucible Company V48
+Vet-A-Mix, Inc V49
+V F Corporation V50
+VHS Associates, Inc V51
+Vibration Institute V52
+Vibration Specialty Corporation V53
+Victoreen Laboratory V54
+Victor Electronic Associates V55
+Victory Engineering Corporation V56
+Video Data Systems V57
+Viking Laboratories, Inc V58
+Vikon Chemical Co, Inc V59
+Vilter Mfg Corp V60
+Virginia Chemicals Inc V61
+Virginia Dare Extract Co V62
+Virginia Mason Research Center V63
+Vishay Intertechnology, Inc V64
+Visidyne, Inc V65
+Vista Scientific Corporation V66
+Visual Information Institute V67
+Visual Inspection Products, Inc V68
+Visual Methods, Inc V69
+Vitamins, Inc V70
+Vitec Inc V71
+Vitramon Inc V72
+Vizex Inc V73
+Viz Manufacturing Co V74
+Vodonick Associates V75
+Vogue Instrument Corporation V76
+Voit Fiberglass Mfg V77
+Vo-Kal Company, Inc V78
+Voland Corp V79
+David Volkert & Associates V80
+The Voltax Co, Inc V81
+Voris Seeds Inc V82
+Vortec Corporation V83
+Menasha Corp M2O5 V-Tech Corporation V84
+Vulcan Materials Company V85
+Vulcan Testing Laboratory V86
+Wall Colmonoy Corp W1
+Robert H Wager Co, Inc W1
+Water and Waste Laboratory W1
+Daniel H Wagner Associates W2
+M H Wagner & Company W3
+A J Wahl, Inc W4
+W A Wahler & Associates W5
+Wahl-Henius Institute, Inc W6
+Wakefield Corp W7
+Waldemar Medical Research Foundation W8
+Waldman Corporation W9
+Waldorf Marking Devices, Inc W10
+Wale Apparatus Company W11
+Walker Research, Inc W12
+Walker Scientific, Inc W13
+Walker & Whyte Inc W14
+Sudbury System, Inc S52O Wallace-Fisher Instrument Co W15
+Wallace-Murray Corporation W16
+Wall-Lenk Manufacturing Co W18
+Wamco Lab Inc W19
+Wang Laboratories, Inc W20
+Joseph S Ward, Inc W21
+Warf Institute, Inc W22
+Wamaco, Inc W23
+Warner Electric Brake & Clutch Co W24
+Wamer-Jenkinson Co W25
+Warner-Lambert Company W26
+The Warner & Swasey Company W27
+Warren Controls Corp W28
+Warwick Mills, Inc W29
+Washington Center for Metropolitan Studies W30
+Washington Chain and Supply Inc W31
+Washington Gas Light Company W32
+Waste Water Engineers, Inc W33
+Watcon, Inc W34
+Water and Air Research, Inc W35
+Wateree Chemical Company, Inc W36
+Water Pollution Control Federation W37
+Water Refining Co, Inc W38
+Waters Associates, Inc W39
+Water Services Caribbean, Inc W40
+Water Services of America, Inc W41
+Waterville Machine Co, Inc W42
+Watkins and Associates, Inc W43
+Watkins-Johnson Company W44
+Mitchell S Watkins Associates, Inc W45
+Watkins Products, Inc W46
+Watson-Standard Company W47
+Wavecom Industries W48
+Waveline, Incorporated W49
+Wavetek, Inc W50
+Wawasee Electronics Co, Inc W51
+Truman B Wayne & Associates W52
+Wear-ever Aluminum Inc W53
+Weather Measure Corporation W54
+Weather Services Corporation W55
+Webb Associates, Inc W56
+Webb Engineering W57
+Webb Foodlab, Inc W58
+Jervis B Webb Co W59
+Weber Marking Systems, Inc W60
+Max Wechsler & Associates W61
+F J Week Contract Research Company W62
+Wedge Company W63
+H V Weeks, Inc W64
+Weems & Plath Inc W65
+Wehrman, Chapman Associates, Inc W66
+Weiner Associates Inc W67
+Weinschel Engineering Co Inc W68
+IO Weiser/Robodyne Corporation W69
+Welch Foods Inc W70
+The Welder’s Testing Lab W71
+Welding Engineers, Inc W72
+Weld-Loc Systems Inc W73
+Weldon Inc W74
+Weldon Laboratory, Inc W75
+Welfare Research, Incorporated W76
+Wellesley Instruments Corp W77
+Wells Laboratories, Inc W78
+Wells Manufacturing Company W79
+Wengler Laboratories W80
+Robert G Werden & Associates, Inc W81
+Werner Management Consultants W82
+Wesco Electrical Co W83
+Wescor, Inc W84
+Wesley Medical Research Foundation W85
+Westberg Manufacturing Company W86
+Bob West Associates, Inc W87
+West Chester Chemical Company W88
+West Coast Research Corporation W89
+West Coast Technical Service Inc W90
+The West Company, Inc W91
+Westec Services, Inc W92
+West Electronics Inc W93
+Western Behavioral Sciences Institute W94
+Western Scientific Services, Inc W95
+Western States Machine Co W96
+Western Technical Systems W97
+Western Union Corporation W98
+Western Weather Consultants, Inc W99
+Westholt Manufacturing Inc W100
+Westlake Audio, Inc W102
+Westminster Scientific, Inc W103
+Westmoreland Mechancial Testing & Research, Incorporated W104
+WESTON Designers-Consultants W105
+Weston & Sampson Engineers, Inc W106
+West Point-Pepperell, Inc W107
+Westvaco Corporation W108
+West Virginia Associates, Inc W109
+Westwood Research Laboratory, Inc W110
+Weyerhaeuser Company W111
+O Whatman Inc W112
+Wheaton Industries W113
+Wheelabrator-Frye Inc W114
+Wheeler Industries, Inc W115
+Wheeler, Ledesma, Toews, and Associates, Inc W116
+Wheeling-Pittsburgh Steel Corporation W117
+Whirlpool Corporation W118
+White Consolidated Industries, Inc W119
+HP White Laboratory, Inc W120
+While Instruments, Inc W121
+J J White Products, Inc W122
+White Motor Corporation W123
+Robert E White Instruments, Inc W124
+White Scientific Consultants, Inc W125
+J C Whitlam Mfg Co W126
+Whittaker Corporation W127
+J H Wiggins Company W128
+Wikel Manufacturing Co, Inc W129
+Wilbur Chocolate Co, Inc W130
+Robert H Wilder Inc W131
+Wiles and Associates W132
+Wil-Fil Manufacturing Co W133
+Willey Corporation W134
+The Bruce Williams Laboratories, Inc W135
+Williams Companies W136
+Williams Gold Refining Co, Inc W137
+Williamson Corporation W138
+Roger Williams Technical & Economic Services, Inc W139
+Donald A Willigan, Inc W140
+Willmark Sales Co inc W141
+Wilmer Manufacturing Company W142
+Wilorco Inc W143
+Wilsey Machine and Manufacturing W144
+Wilson & Company Engineers & Architects W145
+Lee Wilson Engineering Co, Inc W146
+Wilson Research Corporation W147
+Wilson-Wright, Inc W148
+Wiltron Company W149
+B L Winch &. Associates W150
+EAST TROY Windworks W151
+Winfield Brooks Company, Inc W152
+Winko Made Signal Co W153
+Wintek Corp W154
+Leo Winter Associates Inc W155
+Winton Products Company W156
+Winzler and Kelly Consulting Engineers, Inc W157
+Wire Concepts, Inc W158
+Wise Industries, Inc W159
+The Wistar Institute of Anatomy and Biology W160
+Witco Chemical Corporation W161
+The Witt Company W162
+M Witte Associates W163
+Wolfe Steel Products W164
+Woisk Associates Ltd W165
+Wolverine World Wide, Inc W166
+A J Wood Research Corporation W167
+Daniel Woodhead Inc W168
+Wood-Ivey Systems Corporation W169
+N Wood Counter Laboratory, Inc W170
+Woods Hole Oceanographic Institution W171
+Woods industries, Inc W172
+Woodward-Clyde Consultants W173
+Worcester Foundation for Experimental Biology W174
+World Carpets, Inc W175
+World Life Research Institute W176
+World Peace Through Law Center W177
+Wormser Scientific Corp W178
+Worthington Industries, Inc W179
+Wright Brothers Wind Tunnel W180
+Wright Company, Inc W181
+Wright Components, Inc W182
+Wright Engineering Associates W183
+Wright-Malta Corp W184
+R E Wright Associates, Inc W185
+Wm Wrigley, Jr Company W186
+WSA Inc and Safety Sciences W187
+WSF Industries, Inc W188
+WTA Computer Services, Inc W189
+W Glenn Wunderly Co W190
+The Wurlitzer Company W191
+W-W Laboratories, Inc W192
+Wyman-Gordon Company W194
+Wynne Associates W195
+Wyssmont Company, Inc W196
+Xciton Corporation X1
+XCOR International Inc X2
+Xedar Corporation X3
+Xenotec, Limited X4
+Xerox Corporation X5
+Xetron Corporation X6
+XICOM, Inc X7
+Xidex Corp X8
+Xienta, Inc X9
+X-Ray Products Corp X11
+Xybion Corporation X12
+Xynetics, Inc X13
+Yager Drug Company Y1
+Yale Cordage Y2
+Yankee Engineering Company, Inc Y3
+Yara Engineering Corporation Y4
+Yardley of London, Ltd Y5
+Yarway Corporation Y6
+YDEAS Y7
+Phillip K H Yee & Associates, Inc Y8
+John Yellott Engineering Associates, Inc Y9
+Yellow Springs Instrument Co, Inc Y10
+Yenkin-Majestic Paint Corp Y11
+Yoder Company Y12
+Yoder Manufacturing Company Y13
+Yoo-Hoo Beverage Co Y14
+York Graphic Services Incorporated Y15
+York Industries, Inc Y16
+York Research Corporation Y17
+Young Engineering, Inc Y18
+Young Engineering, Inc Y19
+P Robert Young Associates Y20
+Young Radiator Company Y21
+Yourdon Inc Y22
+Youssef & Associates Consulting Engineers Y23
+Y2 Associates, Inc Y24
+Y T T Inc Y25
+CAMP HILL Yule, Jordan and Associates Y26
+Zapata Haynie Corp Z1
+Zaromb Research Corp Z2
+Z B Precision Products Co Z3
+Zenith Center Z4
+Zenith Controls, Inc Z5
+Zenith Optical Laboratory Z6
+Zephyr Wind Dynamo Company Z7
+Zero Corporation Z8
+Zeta Laboratories, Inc Z9
+Zeus Industrial Products Inc Z11
+Zia Associates, Inc Z12
+Zimmite Corporation Z13
+Zip Aerosol Products Z14
+The Zippertubing Co Z15
+Zipp Manufacturing Co Z16
+Zivic-MiJIer Laboratories, Inc Z17
+Zonic Technical Laboratories, Inc Z18
+Zoological Society of Philadelphia Z19
+Zoomar, Inc Z20
+Zophar Mills, Inc Z21
+Zurheide-Herrmann, Inc Z22
+Zurn Industries, Inc Z23
