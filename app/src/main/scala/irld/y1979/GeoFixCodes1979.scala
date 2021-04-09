@@ -4,7 +4,7 @@ import better.files._
 
 import scala.collection.mutable
 
-object GeoCodes1979 {
+object GeoFixCodes1979 {
   private[y1979] val CompanyCodeRgx = """(.*) (.{1,6})$""".r
 
   def main(args: Array[String]): Unit = {
@@ -14,7 +14,7 @@ object GeoCodes1979 {
 
     val in = File(Dir, Year + "-geo-parents-manual.txt")
     val codeFixed = File(Dir, Year + "-geo-parents-code-fixed.txt")
-    val parentsSorted = File(Dir, Year + "-geo-parents-sorted.txt")
+    val parentsSorted = File(Dir, Year + "-geo-parents-sorted.tsv")
     val parentsDistinct = File(Dir, Year + "-geo-parents-distinct.txt")
     val compList = mutable.ArrayBuffer[String]()
     val compSet = mutable.TreeSet[String]()
@@ -35,17 +35,16 @@ object GeoCodes1979 {
           compSet.add(s"$company $fixed")
       }
     compList.sortWith(byCode).map {
-      parentsSorted.appendLine(_)
+      case CompanyCodeRgx(company, code) =>
+      parentsSorted.appendLine(s"${padZeros(code)}\t$company")
     }
-    compSet.foreach {
-//      println(_)
-      parentsDistinct.appendLine(_)
-    }
+//    compSet.foreach {
+////      println(_)
+//      parentsDistinct.appendLine(_)
+//    }
   }
 
   def byCode(l1: String, l2: String): Boolean = {
-    val p1 = padZeros(getCode(l1))
-    val p2 = padZeros(getCode(l2))
     padZeros(getCode(l1)) < padZeros(getCode(l2))
   }
 
