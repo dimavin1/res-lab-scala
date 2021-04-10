@@ -715,6 +715,7 @@ B096	Becton, Dickinson & Co
 B097	Bedford Computer Systems, Inc
 B098	Bedford Research Associates
 B099	Bedrock Manufacturing Co
+B100	Bedrosian and Associates
 B101	Beech Aircraft Corporation
 B102	Beecham Inc
 B103	Beehive Machinery, Inc
@@ -747,6 +748,7 @@ B129	The Bendix Corporation
 B130	BEND Bend Research, Inc
 B131	Benedum Instrument Co
 B132	Alfred Benesch & Company
+B133	Benham-Blair & Affiliates, Inc
 B134	Bennett Pump Company
 B135	Bensen Aircraft Corp
 B136	Benthos, Inc
@@ -816,6 +818,7 @@ B199	Biospherics Incorporated
 B200	Biosystems Associates, Ltd
 B201	Bio Systems, Inc
 B202	Biosystems, Inc
+B203	Bio-Systems Research, Inc
 B204	Bio-Technical Resources, Inc
 B205	Bio-Technics Laboratories, Inc
 B206	Biotechnology, Inc
@@ -867,7 +870,7 @@ B251	Geo W Bollman & Co, Inc
 B252	Bolme and Associates
 B253	Bolt Beranek & Newman, Inc
 B254	Borneo Incorporated
-B255	Britt Tech Corporation B3O6 Bonewitz Chemical Services, Inc
+B255	Bonewitz Chemical Services, Inc
 B256	Bonitron, Inc
 B257	Bonner & Moore Associates, Inc
 B258	R W Booker & Associates, Inc
@@ -918,6 +921,9 @@ B302	Brin-Mont Chemicals, Inc
 B303	Bristol-Myers Company
 B304	Bri Systems, Inc
 B305	E F Britten & Co, Inc
+B306	Britt Tech Corporation
+B307	B R Laboratory
+B308	Broadcast Electronics, Inc
 B309	Broan Mfg Co, Inc
 B310	William M Brobeck & Associates
 B311	Brockway Glass Company, Incorporated
@@ -939,6 +945,7 @@ B326	Dayton T Brown Inc
 B327	Brown-Devlin Associates
 B328	Brownell & Co Inc
 B329	Brown Forman Distillers Corp
+B330	Brown Group, Inc
 B331	Robert Brown Associates
 B332	Brown & Sharpe Mfg Co
 B333	Brown & Williamson Tobacco Corporation
@@ -948,6 +955,7 @@ B336	Bruno-New York Industries Corp
 B337	Brunson Instrument Co, Inc
 B338	Brunswick Corporation
 B339	Brunswick Pulp & Paper Co
+B340	Brush Wellman Inc
 B341	Bry-Air, Inc
 B342	BSL Technology
 B343	BTC Laboratories
@@ -963,7 +971,7 @@ B352	Buehler Ltd
 B353	Buffalo Testing Laboratories, Inc
 B354	Thomas Buffington & Associates, Inc
 B355	Bug Electronics, Inc
-B356	ELMWOOD PARK Buhl, Inc
+B356	Buhl, Inc
 B357	Building Technology, Inc
 B358	Bull & Roberts, Inc
 B359	Bundy Corporation
@@ -977,6 +985,7 @@ B366	Burlington Industries, Inc
 B367	Bumdy Corporation
 B368	Burnett Electronics Lab, Incorporated
 B369	Bumham Corporation
+B370	Burr-Brown Research Corporation
 B371	Burrell Corporation
 B372	Burroughs Corporation
 B373	Burroughs Wellcome Co
@@ -989,30 +998,7 @@ B379	Business Psychology International
 B380	Butler Manufacturing Company
 B381	Buxco Electronics, Inc
 B382	Bycap Inc
-C001	Chematics Research Corp
-C001	California Canners And Growers
-C001	California Canners And Growers Laboratory
-C001	The Ceco Corporation
-C001	Cee Kay Engineering Co
-C001	Celanese Corporation Technical Center
-C001	Celanese Polymer Specialties Company
 C001	Cabot Corporation
-C001	Celanese Corporation Detroit Automotive Product Development Laboratory
-C001	Cemrel, Inc
-C001	Cedar Knolls Acoustical Laboratories
-C001	Celanese Plastic Materials Company
-C001	Charles - Coyle Associates
-C001	Celco (Constantine Engineering Laboratories Company)
-C001	Celanese Corporation Marketing Technical Development Laboratory
-C001	Celanese Research Company
-C001	Plastics Research and Development Center
-C001	Chase-Logeman Corporation
-C001	The Devilbiss Company
-C001	Century Testing Laboratories, Inc
-C001	Calculon Corporation CIO CDI Corporation
-C001	C-Cor Electronics, Inc
-C001	Celanese Corporation Technical Center
-C001	Celanese Chemical Company, Inc
 C002	Caci, Inc
 C003	Cadcom, Inc
 C004	Caig Laboratories, Inc
@@ -1021,6 +1007,8 @@ C006	Cal-Colonial Chemsolve, Inc
 C007	Calco Ltd
 C008	Cal-Compack Foods Inc
 C009	Calculogic Inc
+C010	Calculon Corporation
+C011	California Canners And Growers
 C012	California Computer Products, Inc
 C013	California & Hawaiian Sugar Company
 C014	California Institute of Applied Physics
@@ -1110,6 +1098,7 @@ C097	Castle & Cooke, Inc
 C098	Caswell Equipment Co, Inc
 C099	PALISADES PARK Catalysis Research Corp
 C100	Catalysts and Chemicals Inc
+C101	Catalytica Associates
 C102	Caterpillar Tractor Co
 C103	Caton Connector Corp
 C104	Cavitron Corporation
@@ -1118,10 +1107,16 @@ C106	Cayuga Machine and Fabricating Co, Inc
 C107	CBS Inc
 C108	CCG, Inc
 C109	CCI Corporation
-C113	F&B Ceco Inc
+C110	C-Cor Electronics, Inc
+C111	CDI Corporation
+C112	The Ceco Corporation
 C113	F&B CECO Inc
+C114	Cedar Knolls Acoustical Laboratories
+C115	Cee Kay Engineering Co
 C116	Celanese Corporation
+C117	Celco (Constantine Engineering Laboratories Company)
 C118	Cello Chemical Co
+C119	Cemrel, Inc
 C120	Cenco Incorporated
 C121	Centennial Engineering, Inc
 C122	Centerflex Technology Corp
@@ -1140,6 +1135,7 @@ C134	Central States Diversified, Inc
 C135	Centrifuge Technology, Inc
 C136	Centro Corporation
 C137	Century Research Corporation
+C138	Century Testing Laboratories, Inc
 C139	Ceramic Finishing Company
 C140	Cerberonics, Inc
 C141	Certain-Teed Corp
@@ -1161,14 +1157,17 @@ C156	Champion Spark Plug Company
 C157	Channel Industries, Inc
 C158	Chapman Chemical Company
 C159	Chapman Energy Systems
+C160	Charles - Coyle Associates
 C161	Charles River Associates Incorporated
 C162	Charles River Breeding Laboratories, Inc
+C163	Chase-Logeman Corporation
 C164	Chase & Sons, Inc
 C165	Chatham Controls Corp
 C166	Chatham Manufacturing Co
 C167	Chattem Inc
 C168	Chefs Pantry Inc
 C169	Chemalloy Electronics Corporation
+C170	Chematics Research Corp
 C171	Chemax Corp
 C172	Chemclean Corp
 C173	Chemetal Corp
