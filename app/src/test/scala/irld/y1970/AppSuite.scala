@@ -5,9 +5,13 @@ package irld.y1970
 
 import irld.App
 import irld.y1970.GeoParser1970.SubRgx
+import irld.y1982.GeoParser1982
+import irld.y1982.GeoParser1982.CodeInsideLineRgx
 import org.junit.runner.RunWith
 import org.scalatest.funsuite.AnyFunSuite
 import org.scalatestplus.junit.JUnitRunner
+
+import scala.util.matching.Regex
 
 @RunWith(classOf[JUnitRunner])
 class AppSuite extends AnyFunSuite {
@@ -16,5 +20,25 @@ class AppSuite extends AnyFunSuite {
   }
   test("Record contains .decimal") {
     assert(SubRgx.matches("B137.20"))
+  }
+  test("lines tokenized") {
+    val lines = List("quick brown fox", "lazy dog", "funny")
+    val spl = for {
+      l <- lines
+      w <- l.split(" ")
+    } yield w
+    spl.foreach(println)
+  }
+  test("code inside line") {
+    val line =
+      "Pharmacia Fine Chemicals AB Pl36 Rexolin Chemicals AB G 177.26"
+    val InsideCodeRgx = """\d+( )(?=.{4,})""".r
+    val allMatches: Seq[Regex.Match] = GeoParser1982.CodeInsideLineRgx.findAllMatchIn(line).toList
+    var beg = 0
+    allMatches.foreach { m =>
+      println(s"'${m.group(1)}' ${m.start}-${m.end} '${line.substring(beg, m.end-1)}'")
+      beg = m.end
+    }
+    println(s"'${line.substring(beg)}'")
   }
 }

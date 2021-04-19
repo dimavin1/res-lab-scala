@@ -1,0 +1,32 @@
+-- Space between letter and digits in code (at end of line):
+ \d{1,3}([.,]\d{1,2})?$
+Harvey Hubbell Inc, Lighting Division H206.6 IMMCO 130
+Northrop Corporation, Electro-Mechanical Division N 144.9
+Odetics, Inc 029
+California Institute of Applied Physics C12 Cetus Corporation Cl 28
+Ocean Technology, Inc 022
+Atlantic Richfield Company, Energy Conversion and Materials Development Laboratory A531. 19
+—	Engineering Development Laboratory R197. 25
+Houston Fearless Corporation Hl99 Immuchern Corp R 13.1
+—	Tactical Laser Systems Laboratory H212.8 Information International, Inc 182
+Akzona Incorporated, Organon Diagnostics A153. 20
+Rockwell Internationa! Corporation, Aircraft Group R 197.20
+—	Scientific Services & Systems Group W 186.2
+Loral Corporation, Southcom Division LI 54.4
+Oal Associates, Inc 04
+Explosive Technology, Inc 031.2
+Folsom Research Inc Fl 14
+Imtronix, Inc 134
+— Spectrum Research and Development 134.1
+Hunt-Wesson Foods, Inc N 154.4
+United Can Company N 154.7
+The Dexter Corporation, Midland Division D141 11
+Nucleic Acid Research Institute 16.1
+Occidental Research Corporation 011.1
+Max Factor & Co N 154.6
+Ocean Engineering Information Services 016
+Lindsay Olive Growers LI 18
+Oilwell Research, Inc 048
+Pharmacia Fine Chemicals AB Pl36 Rexolin Chemicals AB G 177.26
+J M Richards Laboratory Inc, Post Graduate Department of Biochemistry R 152.1
+The Bendix Corporation, Fram Europe Ltd B121. 40
