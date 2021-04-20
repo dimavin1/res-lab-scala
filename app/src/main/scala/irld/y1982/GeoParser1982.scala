@@ -39,12 +39,16 @@ object GeoParser1982 {
     val lines = filterByLnNo(in.lines(DefaultCharset).toList)
 
     lines.
-      map { geoLines.appendLine }
+      map {
+        geoLines.appendLine
+      }
 
     val linesNoAllCaps = lines.
       filter { s => !AllCapsRgx.matches(s) && !LeftPageHdrRgx.matches(s) && !RightPageHdrRgx.matches(s) }
     linesNoAllCaps.
-      map { noAllCaps.appendLine }
+      map {
+        noAllCaps.appendLine
+      }
 
     linesNoAllCaps.foreach { l =>
       var compStart = 0
@@ -55,9 +59,11 @@ object GeoParser1982 {
         compStart = m.end
       }
       println(s"'${l.substring(compStart)}'")
-      splitLineList += l.substring(compStart).replaceAll(SpaceAfterPointRgx, "")
+      splitLineList += improveCode(l.substring(compStart).replaceAll(SpaceAfterPointRgx, ""))
     }
-    splitLineList.map { linesSplit.appendLine }
+    splitLineList.map {
+      linesSplit.appendLine
+    }
 
     val allCompLines = linesNoAllCaps.
       mkString(" ")
@@ -74,4 +80,27 @@ object GeoParser1982 {
     lines.zipWithIndex.
       filter { case (_, i) => i + 1 >= StartLine && i + 1 <= EndLine }.map { case (s, _) => s }
   }
+
+  def improveCode(s: String) = {
+    if (!SpaceNotAfterPointRgx.unanchored.matches(s)) s
+    else {
+      val words = s.split(' ')
+      val (compArr, codeArr) = words.splitAt(words.length - 1)
+      val code = codeArr(0)
+      if (compArr.last.size < 3) compArr.mkString(" ") + code // remove space
+      else s"${compArr.mkString(" ")} ${fixCodeLetter(code)}"
+    }
+  }
+
+  def fixCodeLetter(code: String) = {
+    val letter = code(0) match {
+      case '0' => 'O'
+      case '1' => 'I'
+      case _ => code(0)
+    }
+    letter + code.substring(1)
+  }
+
+  def codeStartsWithCompanyWords(c0: Char, company: String): Boolean = company.split(' ').map(_ (0)).contains(c0)
+
 }

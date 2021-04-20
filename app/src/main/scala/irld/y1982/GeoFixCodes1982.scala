@@ -1,27 +1,27 @@
-package irld.y1979
+package irld.y1982
 
 import better.files._
 
 import scala.collection.mutable
 
-object GeoFixCodes1979 {
-  private[y1979] val CompanyCodeRgx = """(.*) (.{1,6})$""".r
+object GeoFixCodes1982 {
+  private[y1982] val CompanyCodeRgx = """(.*) (.{1,6})$""".r
 
   def main(args: Array[String]): Unit = {
-    val Year = "1979"
+    val Year = "1982"
     val Dir = "./app/src/main/resources/y" + Year
     val CodeRgx = " .{1,6}$".r
 
     val in = File(Dir, Year + "-geo-parents-manual.txt")
     val codeFixed = File(Dir, Year + "-geo-parents-code-fixed.txt")
     val parentsSorted = File(Dir, Year + "-geo-parents-sorted.tsv")
-    val parentsDistinct = File(Dir, Year + "-geo-parents-distinct.txt")
+//    val parentsDistinct = File(Dir, Year + "-geo-parents-distinct.txt")
     val compList = mutable.ArrayBuffer[String]()
     val compSet = mutable.TreeSet[String]()
 
     codeFixed overwrite ""
     parentsSorted overwrite ""
-    parentsDistinct overwrite ""
+//    parentsDistinct overwrite ""
 
     val lines = in.lines(DefaultCharset).toList
 
@@ -34,10 +34,10 @@ object GeoFixCodes1979 {
           compList += s"$company $fixed"
           compSet.add(s"$company $fixed")
       }
-    compList.sortWith(byCode).map {
-      case CompanyCodeRgx(company, code) =>
-      parentsSorted.appendLine(s"${padZeros(code)}\t$company")
-    }
+//    compList.sortWith(byCode).map {
+//      case CompanyCodeRgx(company, code) =>
+//        parentsSorted.appendLine(s"${padZeros(code)}\t$company")
+//    }
   }
 
   def byCode(l1: String, l2: String): Boolean = {
@@ -60,9 +60,9 @@ object GeoFixCodes1979 {
       case '1' => 'I'
       case _ => '#'
     }
-    //    val c = if (!codeStartsWithCompanyWords(c0, company)) "#" + c0 else c0
+    val c = if (!codeStartsWithCompanyWords(c0, company)) "#" + c0 else c0
     val number = code.substring(1).map(fixDigit)
-    c0 + number
+    c + number
   }
 
   def codeStartsWithCompanyWords(c0: Char, company: String): Boolean = company.split(' ').map(_ (0)).contains(c0)
