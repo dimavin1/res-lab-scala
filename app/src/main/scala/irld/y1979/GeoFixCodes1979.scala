@@ -15,13 +15,11 @@ object GeoFixCodes1979 {
     val in = File(Dir, Year + "-geo-parents-manual.txt")
     val codeFixed = File(Dir, Year + "-geo-parents-code-fixed.txt")
     val parentsSorted = File(Dir, Year + "-geo-parents-sorted.tsv")
-    val parentsDistinct = File(Dir, Year + "-geo-parents-distinct.txt")
     val compList = mutable.ArrayBuffer[String]()
     val compSet = mutable.TreeSet[String]()
 
     codeFixed overwrite ""
     parentsSorted overwrite ""
-    parentsDistinct overwrite ""
 
     val lines = in.lines(DefaultCharset).toList
 

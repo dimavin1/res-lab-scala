@@ -15,13 +15,11 @@ object GeoFixCodes1982 {
     val in = File(Dir, Year + "-geo-parents-manual.txt")
     val codeFixed = File(Dir, Year + "-geo-parents-code-fixed.txt")
     val parentsSorted = File(Dir, Year + "-geo-parents-sorted.tsv")
-//    val parentsDistinct = File(Dir, Year + "-geo-parents-distinct.txt")
     val compList = mutable.ArrayBuffer[String]()
     val compSet = mutable.TreeSet[String]()
 
     codeFixed overwrite ""
     parentsSorted overwrite ""
-//    parentsDistinct overwrite ""
 
     val lines = in.lines(DefaultCharset).toList
 
@@ -34,10 +32,10 @@ object GeoFixCodes1982 {
           compList += s"$company $fixed"
           compSet.add(s"$company $fixed")
       }
-//    compList.sortWith(byCode).map {
-//      case CompanyCodeRgx(company, code) =>
-//        parentsSorted.appendLine(s"${padZeros(code)}\t$company")
-//    }
+    compList.sortWith(byCode).map {
+      case CompanyCodeRgx(company, code) =>
+        parentsSorted.appendLine(s"${padZeros(code)}\t$company")
+    }
   }
 
   def byCode(l1: String, l2: String): Boolean = {
@@ -60,9 +58,9 @@ object GeoFixCodes1982 {
       case '1' => 'I'
       case _ => '#'
     }
-    val c = if (!codeStartsWithCompanyWords(c0, company)) "#" + c0 else c0
-    val number = code.substring(1).map(fixDigit)
-    c + number
+//    val c = if (!codeStartsWithCompanyWords(c0, company)) "#" + c0 else c0
+    val number: String = code.substring(1).map(fixDigit)
+    s"$c0$number"
   }
 
   def codeStartsWithCompanyWords(c0: Char, company: String): Boolean = company.split(' ').map(_ (0)).contains(c0)
