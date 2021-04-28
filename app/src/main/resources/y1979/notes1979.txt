@@ -13,3 +13,9 @@ Geographic Index
 63376 Russell Corporation R259
 77563 Special Instruments Laboratory, Inc Spinlab AG S375.1
 14187
+
+String between known parents
+(?s)DON AADLAND ENGINEERING.+?(?=AARDVARK INSTRUMENT)
+Professional Staff:
+Technicians & Auxiliaries
+Field of R&D:
