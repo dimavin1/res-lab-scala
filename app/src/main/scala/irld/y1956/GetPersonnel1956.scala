@@ -18,7 +18,9 @@ object GetPersonnel1956 {
 
     for (numIdx <- lineNumbers.indices) {
       val startLnIdx = lnIdxOfNumLine(lineNumbers(numIdx))
+
       val startLnNo = lnNoOfIdx(startLnIdx)
+      val lineNumber = lineNumbers(numIdx).split("\t")
       println(s"$startLnNo ${lines(startLnIdx)}")
       val untilLnIdx = if (numIdx < lineNumbers.size - 1) lnIdxOfNumLine(lineNumbers(numIdx + 1)) else idxOfLnNo(UntilLnNum)
       println(s"lines: ${lnNoOfIdx(startLnIdx + 1)}-${lnNoOfIdx(untilLnIdx) - 1}")
@@ -32,7 +34,7 @@ object GetPersonnel1956 {
         println(s"'$pers' ${m.start}-${m.end}")
         orgPersonnelList += pers
       }
-      withPersonnel.appendLine(s"$startLnNo\t${lines(startLnIdx)}\t${orgPersonnelList.mkString(" | ")}")
+      withPersonnel.appendLine(s"$startLnNo\t${lineNumber(1)}\t${lineNumber(2)}\t${orgPersonnelList.mkString(" | ")}")
     }
 
     def lnIdxOfNumLine(numLine: String): Int = numLine.split("\t")(0).toInt - 1
