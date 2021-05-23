@@ -1,9 +1,7 @@
 package irld.y1965
 
-import irld.y1965.GetPersonnel1965.PersonnelRgx
 import org.junit.runner.RunWith
 import org.scalatest.funspec.AnyFunSpec
-import org.scalatest.matchers.should.Matchers.convertToAnyShouldWrapper
 import org.scalatestplus.junit.JUnitRunner
 
 @RunWith(classOf[JUnitRunner])
